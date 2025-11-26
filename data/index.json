@@ -1,0 +1,1104 @@
+{
+  "metadata": {
+    "description": "NOAA Space Weather Data - All Data Types",
+    "source": "NOAA Space Weather Prediction Center",
+    "format": "JSON",
+    "lastUpdated": "2025-11-26T19:27:59.370Z",
+    "dataTypes": {
+      "rsga": {
+        "name": "Regionally Summarized Geomagnetic Activity (Kp Index)",
+        "years": "1966-2025",
+        "file": "rsga.json or kp-index-YYYY.json"
+      },
+      "dgd": {
+        "name": "Daily Geomagnetic Data",
+        "years": "1996-2024",
+        "file": "dgd.json"
+      },
+      "dsd": {
+        "name": "Daily Solar Data",
+        "years": "1996-2024",
+        "file": "dsd.json"
+      },
+      "events": {
+        "name": "Solar/Aurora Events",
+        "years": "1996-2024",
+        "file": "events.json"
+      },
+      "geoa": {
+        "name": "Geomagnetic Event Observation Archive",
+        "years": "1996-2024",
+        "file": "geoa.json"
+      },
+      "sgas": {
+        "name": "Solar Geophysical Activity Summary",
+        "years": "1996-2024",
+        "file": "sgas.json"
+      },
+      "srs": {
+        "name": "Solar Region Summary",
+        "years": "1996-2024",
+        "file": "srs.json"
+      },
+      "dpd": {
+        "name": "Daily Proton Data",
+        "years": "1996-2020",
+        "file": "dpd.json"
+      }
+    }
+  },
+  "years": [
+    {
+      "year": 2025,
+      "files": [],
+      "dataTypes": []
+    },
+    {
+      "year": 2024,
+      "files": [
+        "dgd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2024.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2024",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2023,
+      "files": [
+        "dgd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2023.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2023",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2022,
+      "files": [
+        "dgd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2022.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2022",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2021,
+      "files": [
+        "dgd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2021.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2021",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2020,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2020.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2020",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2019,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2019.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2019",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2018,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2018.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2018",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2017,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2017.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2017",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2016,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2016.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2016",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2015,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2015.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2015",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2014,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2014.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2014",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2013,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2013.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2013",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2012,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2012.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2012",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2011,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2011.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2011",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2010,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2010.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2010",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2009,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2009.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2009",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2008,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2008.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2008",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2007,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2007.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2007",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2006,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2006.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2006",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2005,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2005.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2005",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2004,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2004.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2004",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2003,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2003.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2003",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2002,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2002.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2002",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2001,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2001.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2001",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 2000,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-2000.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-2000",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 1999,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-1999.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-1999",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 1998,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-1998.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-1998",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 1997,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-1997.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-1997",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 1996,
+      "files": [
+        "dgd.json",
+        "dpd.json",
+        "dsd.json",
+        "events.json",
+        "geoa.json",
+        "kp-index-1996.json",
+        "rsga.json",
+        "sgas.json",
+        "srs.json"
+      ],
+      "dataTypes": [
+        "dgd",
+        "dpd",
+        "dsd",
+        "events",
+        "geoa",
+        "kp-index-1996",
+        "rsga",
+        "sgas",
+        "srs"
+      ]
+    },
+    {
+      "year": 1995,
+      "files": [
+        "kp-index-1995.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1995",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1994,
+      "files": [
+        "kp-index-1994.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1994",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1993,
+      "files": [
+        "kp-index-1993.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1993",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1992,
+      "files": [
+        "kp-index-1992.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1992",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1991,
+      "files": [
+        "kp-index-1991.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1991",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1990,
+      "files": [
+        "kp-index-1990.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1990",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1989,
+      "files": [
+        "kp-index-1989.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1989",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1988,
+      "files": [
+        "kp-index-1988.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1988",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1987,
+      "files": [
+        "kp-index-1987.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1987",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1986,
+      "files": [
+        "kp-index-1986.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1986",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1985,
+      "files": [
+        "kp-index-1985.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1985",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1984,
+      "files": [
+        "kp-index-1984.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1984",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1983,
+      "files": [
+        "kp-index-1983.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1983",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1982,
+      "files": [
+        "kp-index-1982.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1982",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1981,
+      "files": [
+        "kp-index-1981.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1981",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1980,
+      "files": [
+        "kp-index-1980.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1980",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1979,
+      "files": [
+        "kp-index-1979.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1979",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1978,
+      "files": [
+        "kp-index-1978.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1978",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1977,
+      "files": [
+        "kp-index-1977.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1977",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1976,
+      "files": [
+        "kp-index-1976.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1976",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1975,
+      "files": [
+        "kp-index-1975.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1975",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1974,
+      "files": [
+        "kp-index-1974.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1974",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1973,
+      "files": [
+        "kp-index-1973.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1973",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1972,
+      "files": [
+        "kp-index-1972.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1972",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1971,
+      "files": [
+        "kp-index-1971.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1971",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1970,
+      "files": [
+        "kp-index-1970.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1970",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1969,
+      "files": [
+        "kp-index-1969.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1969",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1968,
+      "files": [
+        "kp-index-1968.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1968",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1967,
+      "files": [
+        "kp-index-1967.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1967",
+        "rsga"
+      ]
+    },
+    {
+      "year": 1966,
+      "files": [
+        "kp-index-1966.json",
+        "rsga.json"
+      ],
+      "dataTypes": [
+        "kp-index-1966",
+        "rsga"
+      ]
+    }
+  ]
+}

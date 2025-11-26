@@ -1,0 +1,2922 @@
+[
+  {
+    "file": "20170101GEOA.txt",
+    "source": "GEOA",
+    "product": "0101GEOA.txt",
+    "issued": "2017 Jan 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170102GEOA.txt",
+    "source": "GEOA",
+    "product": "0102GEOA.txt",
+    "issued": "2017 Jan 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170103GEOA.txt",
+    "source": "GEOA",
+    "product": "0103GEOA.txt",
+    "issued": "2017 Jan 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170104GEOA.txt",
+    "source": "GEOA",
+    "product": "0104GEOA.txt",
+    "issued": "2017 Jan 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170105GEOA.txt",
+    "source": "GEOA",
+    "product": "0105GEOA.txt",
+    "issued": "2017 Jan 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170106GEOA.txt",
+    "source": "GEOA",
+    "product": "0106GEOA.txt",
+    "issued": "2017 Jan 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170107GEOA.txt",
+    "source": "GEOA",
+    "product": "0107GEOA.txt",
+    "issued": "2017 Jan 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170108GEOA.txt",
+    "source": "GEOA",
+    "product": "0108GEOA.txt",
+    "issued": "2017 Jan 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170109GEOA.txt",
+    "source": "GEOA",
+    "product": "0109GEOA.txt",
+    "issued": "2017 Jan 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170110GEOA.txt",
+    "source": "GEOA",
+    "product": "0110GEOA.txt",
+    "issued": "2017 Jan 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170111GEOA.txt",
+    "source": "GEOA",
+    "product": "0111GEOA.txt",
+    "issued": "2017 Jan 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170112GEOA.txt",
+    "source": "GEOA",
+    "product": "0112GEOA.txt",
+    "issued": "2017 Jan 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170113GEOA.txt",
+    "source": "GEOA",
+    "product": "0113GEOA.txt",
+    "issued": "2017 Jan 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170114GEOA.txt",
+    "source": "GEOA",
+    "product": "0114GEOA.txt",
+    "issued": "2017 Jan 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170115GEOA.txt",
+    "source": "GEOA",
+    "product": "0115GEOA.txt",
+    "issued": "2017 Jan 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170116GEOA.txt",
+    "source": "GEOA",
+    "product": "0116GEOA.txt",
+    "issued": "2017 Jan 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170117GEOA.txt",
+    "source": "GEOA",
+    "product": "0117GEOA.txt",
+    "issued": "2017 Jan 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170118GEOA.txt",
+    "source": "GEOA",
+    "product": "0118GEOA.txt",
+    "issued": "2017 Jan 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170119GEOA.txt",
+    "source": "GEOA",
+    "product": "0119GEOA.txt",
+    "issued": "2017 Jan 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170120GEOA.txt",
+    "source": "GEOA",
+    "product": "0120GEOA.txt",
+    "issued": "2017 Jan 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170121GEOA.txt",
+    "source": "GEOA",
+    "product": "0121GEOA.txt",
+    "issued": "2017 Jan 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170122GEOA.txt",
+    "source": "GEOA",
+    "product": "0122GEOA.txt",
+    "issued": "2017 Jan 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170123GEOA.txt",
+    "source": "GEOA",
+    "product": "0123GEOA.txt",
+    "issued": "2017 Jan 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170124GEOA.txt",
+    "source": "GEOA",
+    "product": "0124GEOA.txt",
+    "issued": "2017 Jan 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170125GEOA.txt",
+    "source": "GEOA",
+    "product": "0125GEOA.txt",
+    "issued": "2017 Jan 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170126GEOA.txt",
+    "source": "GEOA",
+    "product": "0126GEOA.txt",
+    "issued": "2017 Jan 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170127GEOA.txt",
+    "source": "GEOA",
+    "product": "0127GEOA.txt",
+    "issued": "2017 Jan 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170128GEOA.txt",
+    "source": "GEOA",
+    "product": "0128GEOA.txt",
+    "issued": "2017 Jan 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170129GEOA.txt",
+    "source": "GEOA",
+    "product": "0129GEOA.txt",
+    "issued": "2017 Jan 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170130GEOA.txt",
+    "source": "GEOA",
+    "product": "0130GEOA.txt",
+    "issued": "2017 Jan 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170131GEOA.txt",
+    "source": "GEOA",
+    "product": "0131GEOA.txt",
+    "issued": "2017 Jan 31 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170201GEOA.txt",
+    "source": "GEOA",
+    "product": "0201GEOA.txt",
+    "issued": "2017 Feb 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170202GEOA.txt",
+    "source": "GEOA",
+    "product": "0202GEOA.txt",
+    "issued": "2017 Feb 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170203GEOA.txt",
+    "source": "GEOA",
+    "product": "0203GEOA.txt",
+    "issued": "2017 Feb 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170204GEOA.txt",
+    "source": "GEOA",
+    "product": "0204GEOA.txt",
+    "issued": "2017 Feb 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170205GEOA.txt",
+    "source": "GEOA",
+    "product": "0205GEOA.txt",
+    "issued": "2017 Feb 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170206GEOA.txt",
+    "source": "GEOA",
+    "product": "0206GEOA.txt",
+    "issued": "2017 Feb 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170207GEOA.txt",
+    "source": "GEOA",
+    "product": "0207GEOA.txt",
+    "issued": "2017 Feb 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170208GEOA.txt",
+    "source": "GEOA",
+    "product": "0208GEOA.txt",
+    "issued": "2017 Feb 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170209GEOA.txt",
+    "source": "GEOA",
+    "product": "0209GEOA.txt",
+    "issued": "2017 Feb 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170210GEOA.txt",
+    "source": "GEOA",
+    "product": "0210GEOA.txt",
+    "issued": "2017 Feb 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170211GEOA.txt",
+    "source": "GEOA",
+    "product": "0211GEOA.txt",
+    "issued": "2017 Feb 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170212GEOA.txt",
+    "source": "GEOA",
+    "product": "0212GEOA.txt",
+    "issued": "2017 Feb 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170213GEOA.txt",
+    "source": "GEOA",
+    "product": "0213GEOA.txt",
+    "issued": "2017 Feb 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170214GEOA.txt",
+    "source": "GEOA",
+    "product": "0214GEOA.txt",
+    "issued": "2017 Feb 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170215GEOA.txt",
+    "source": "GEOA",
+    "product": "0215GEOA.txt",
+    "issued": "2017 Feb 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170216GEOA.txt",
+    "source": "GEOA",
+    "product": "0216GEOA.txt",
+    "issued": "2017 Feb 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170217GEOA.txt",
+    "source": "GEOA",
+    "product": "0217GEOA.txt",
+    "issued": "2017 Feb 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170218GEOA.txt",
+    "source": "GEOA",
+    "product": "0218GEOA.txt",
+    "issued": "2017 Feb 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170219GEOA.txt",
+    "source": "GEOA",
+    "product": "0219GEOA.txt",
+    "issued": "2017 Feb 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170220GEOA.txt",
+    "source": "GEOA",
+    "product": "0220GEOA.txt",
+    "issued": "2017 Feb 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170221GEOA.txt",
+    "source": "GEOA",
+    "product": "0221GEOA.txt",
+    "issued": "2017 Feb 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170222GEOA.txt",
+    "source": "GEOA",
+    "product": "0222GEOA.txt",
+    "issued": "2017 Feb 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170223GEOA.txt",
+    "source": "GEOA",
+    "product": "0223GEOA.txt",
+    "issued": "2017 Feb 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170224GEOA.txt",
+    "source": "GEOA",
+    "product": "0224GEOA.txt",
+    "issued": "2017 Feb 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170225GEOA.txt",
+    "source": "GEOA",
+    "product": "0225GEOA.txt",
+    "issued": "2017 Feb 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170226GEOA.txt",
+    "source": "GEOA",
+    "product": "0226GEOA.txt",
+    "issued": "2017 Feb 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170227GEOA.txt",
+    "source": "GEOA",
+    "product": "0227GEOA.txt",
+    "issued": "2017 Feb 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170228GEOA.txt",
+    "source": "GEOA",
+    "product": "0228GEOA.txt",
+    "issued": "2017 Feb 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170301GEOA.txt",
+    "source": "GEOA",
+    "product": "0301GEOA.txt",
+    "issued": "2017 Mar 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170302GEOA.txt",
+    "source": "GEOA",
+    "product": "0302GEOA.txt",
+    "issued": "2017 Mar 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170303GEOA.txt",
+    "source": "GEOA",
+    "product": "0303GEOA.txt",
+    "issued": "2017 Mar 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170304GEOA.txt",
+    "source": "GEOA",
+    "product": "0304GEOA.txt",
+    "issued": "2017 Mar 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170305GEOA.txt",
+    "source": "GEOA",
+    "product": "0305GEOA.txt",
+    "issued": "2017 Mar 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170306GEOA.txt",
+    "source": "GEOA",
+    "product": "0306GEOA.txt",
+    "issued": "2017 Mar 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170307GEOA.txt",
+    "source": "GEOA",
+    "product": "0307GEOA.txt",
+    "issued": "2017 Mar 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170308GEOA.txt",
+    "source": "GEOA",
+    "product": "0308GEOA.txt",
+    "issued": "2017 Mar 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170309GEOA.txt",
+    "source": "GEOA",
+    "product": "0309GEOA.txt",
+    "issued": "2017 Mar 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170310GEOA.txt",
+    "source": "GEOA",
+    "product": "0310GEOA.txt",
+    "issued": "2017 Mar 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170311GEOA.txt",
+    "source": "GEOA",
+    "product": "0311GEOA.txt",
+    "issued": "2017 Mar 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170312GEOA.txt",
+    "source": "GEOA",
+    "product": "0312GEOA.txt",
+    "issued": "2017 Mar 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170313GEOA.txt",
+    "source": "GEOA",
+    "product": "0313GEOA.txt",
+    "issued": "2017 Mar 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170314GEOA.txt",
+    "source": "GEOA",
+    "product": "0314GEOA.txt",
+    "issued": "2017 Mar 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170315GEOA.txt",
+    "source": "GEOA",
+    "product": "0315GEOA.txt",
+    "issued": "2017 Mar 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170316GEOA.txt",
+    "source": "GEOA",
+    "product": "0316GEOA.txt",
+    "issued": "2017 Mar 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170317GEOA.txt",
+    "source": "GEOA",
+    "product": "0317GEOA.txt",
+    "issued": "2017 Mar 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170318GEOA.txt",
+    "source": "GEOA",
+    "product": "0318GEOA.txt",
+    "issued": "2017 Mar 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170319GEOA.txt",
+    "source": "GEOA",
+    "product": "0319GEOA.txt",
+    "issued": "2017 Mar 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170320GEOA.txt",
+    "source": "GEOA",
+    "product": "0320GEOA.txt",
+    "issued": "2017 Mar 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170321GEOA.txt",
+    "source": "GEOA",
+    "product": "0321GEOA.txt",
+    "issued": "2017 Mar 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170322GEOA.txt",
+    "source": "GEOA",
+    "product": "0322GEOA.txt",
+    "issued": "2017 Mar 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170323GEOA.txt",
+    "source": "GEOA",
+    "product": "0323GEOA.txt",
+    "issued": "2017 Mar 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170324GEOA.txt",
+    "source": "GEOA",
+    "product": "0324GEOA.txt",
+    "issued": "2017 Mar 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170325GEOA.txt",
+    "source": "GEOA",
+    "product": "0325GEOA.txt",
+    "issued": "2017 Mar 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170326GEOA.txt",
+    "source": "GEOA",
+    "product": "0326GEOA.txt",
+    "issued": "2017 Mar 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170327GEOA.txt",
+    "source": "GEOA",
+    "product": "0327GEOA.txt",
+    "issued": "2017 Mar 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170328GEOA.txt",
+    "source": "GEOA",
+    "product": "0328GEOA.txt",
+    "issued": "2017 Mar 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170329GEOA.txt",
+    "source": "GEOA",
+    "product": "0329GEOA.txt",
+    "issued": "2017 Mar 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170330GEOA.txt",
+    "source": "GEOA",
+    "product": "0330GEOA.txt",
+    "issued": "2017 Mar 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170331GEOA.txt",
+    "source": "GEOA",
+    "product": "0331GEOA.txt",
+    "issued": "2017 Mar 31 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170401GEOA.txt",
+    "source": "GEOA",
+    "product": "0401GEOA.txt",
+    "issued": "2017 Apr 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170402GEOA.txt",
+    "source": "GEOA",
+    "product": "0402GEOA.txt",
+    "issued": "2017 Apr 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170403GEOA.txt",
+    "source": "GEOA",
+    "product": "0403GEOA.txt",
+    "issued": "2017 Apr 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170404GEOA.txt",
+    "source": "GEOA",
+    "product": "0404GEOA.txt",
+    "issued": "2017 Apr 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170405GEOA.txt",
+    "source": "GEOA",
+    "product": "0405GEOA.txt",
+    "issued": "2017 Apr 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170406GEOA.txt",
+    "source": "GEOA",
+    "product": "0406GEOA.txt",
+    "issued": "2017 Apr 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170407GEOA.txt",
+    "source": "GEOA",
+    "product": "0407GEOA.txt",
+    "issued": "2017 Apr 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170408GEOA.txt",
+    "source": "GEOA",
+    "product": "0408GEOA.txt",
+    "issued": "2017 Apr 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170409GEOA.txt",
+    "source": "GEOA",
+    "product": "0409GEOA.txt",
+    "issued": "2017 Apr 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170410GEOA.txt",
+    "source": "GEOA",
+    "product": "0410GEOA.txt",
+    "issued": "2017 Apr 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170411GEOA.txt",
+    "source": "GEOA",
+    "product": "0411GEOA.txt",
+    "issued": "2017 Apr 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170412GEOA.txt",
+    "source": "GEOA",
+    "product": "0412GEOA.txt",
+    "issued": "2017 Apr 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170413GEOA.txt",
+    "source": "GEOA",
+    "product": "0413GEOA.txt",
+    "issued": "2017 Apr 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170414GEOA.txt",
+    "source": "GEOA",
+    "product": "0414GEOA.txt",
+    "issued": "2017 Apr 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170415GEOA.txt",
+    "source": "GEOA",
+    "product": "0415GEOA.txt",
+    "issued": "2017 Apr 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170416GEOA.txt",
+    "source": "GEOA",
+    "product": "0416GEOA.txt",
+    "issued": "2017 Apr 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170417GEOA.txt",
+    "source": "GEOA",
+    "product": "0417GEOA.txt",
+    "issued": "2017 Apr 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170418GEOA.txt",
+    "source": "GEOA",
+    "product": "0418GEOA.txt",
+    "issued": "2017 Apr 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170419GEOA.txt",
+    "source": "GEOA",
+    "product": "0419GEOA.txt",
+    "issued": "2017 Apr 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170420GEOA.txt",
+    "source": "GEOA",
+    "product": "0420GEOA.txt",
+    "issued": "2017 Apr 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170421GEOA.txt",
+    "source": "GEOA",
+    "product": "0421GEOA.txt",
+    "issued": "2017 Apr 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170422GEOA.txt",
+    "source": "GEOA",
+    "product": "0422GEOA.txt",
+    "issued": "2017 Apr 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170423GEOA.txt",
+    "source": "GEOA",
+    "product": "0423GEOA.txt",
+    "issued": "2017 Apr 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170424GEOA.txt",
+    "source": "GEOA",
+    "product": "0424GEOA.txt",
+    "issued": "2017 Apr 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170425GEOA.txt",
+    "source": "GEOA",
+    "product": "0425GEOA.txt",
+    "issued": "2017 Apr 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170426GEOA.txt",
+    "source": "GEOA",
+    "product": "0426GEOA.txt",
+    "issued": "2017 Apr 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170427GEOA.txt",
+    "source": "GEOA",
+    "product": "0427GEOA.txt",
+    "issued": "2017 Apr 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170428GEOA.txt",
+    "source": "GEOA",
+    "product": "0428GEOA.txt",
+    "issued": "2017 Apr 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170429GEOA.txt",
+    "source": "GEOA",
+    "product": "0429GEOA.txt",
+    "issued": "2017 Apr 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170430GEOA.txt",
+    "source": "GEOA",
+    "product": "0430GEOA.txt",
+    "issued": "2017 Apr 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170501GEOA.txt",
+    "source": "GEOA",
+    "product": "0501GEOA.txt",
+    "issued": "2017 May 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170502GEOA.txt",
+    "source": "GEOA",
+    "product": "0502GEOA.txt",
+    "issued": "2017 May 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170503GEOA.txt",
+    "source": "GEOA",
+    "product": "0503GEOA.txt",
+    "issued": "2017 May 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170504GEOA.txt",
+    "source": "GEOA",
+    "product": "0504GEOA.txt",
+    "issued": "2017 May 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170505GEOA.txt",
+    "source": "GEOA",
+    "product": "0505GEOA.txt",
+    "issued": "2017 May 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170506GEOA.txt",
+    "source": "GEOA",
+    "product": "0506GEOA.txt",
+    "issued": "2017 May 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170507GEOA.txt",
+    "source": "GEOA",
+    "product": "0507GEOA.txt",
+    "issued": "2017 May 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170508GEOA.txt",
+    "source": "GEOA",
+    "product": "0508GEOA.txt",
+    "issued": "2017 May 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170509GEOA.txt",
+    "source": "GEOA",
+    "product": "0509GEOA.txt",
+    "issued": "2017 May 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170510GEOA.txt",
+    "source": "GEOA",
+    "product": "0510GEOA.txt",
+    "issued": "2017 May 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170511GEOA.txt",
+    "source": "GEOA",
+    "product": "0511GEOA.txt",
+    "issued": "2017 May 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170512GEOA.txt",
+    "source": "GEOA",
+    "product": "0512GEOA.txt",
+    "issued": "2017 May 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170513GEOA.txt",
+    "source": "GEOA",
+    "product": "0513GEOA.txt",
+    "issued": "2017 May 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170514GEOA.txt",
+    "source": "GEOA",
+    "product": "0514GEOA.txt",
+    "issued": "2017 May 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170515GEOA.txt",
+    "source": "GEOA",
+    "product": "0515GEOA.txt",
+    "issued": "2017 May 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170516GEOA.txt",
+    "source": "GEOA",
+    "product": "0516GEOA.txt",
+    "issued": "2017 May 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170517GEOA.txt",
+    "source": "GEOA",
+    "product": "0517GEOA.txt",
+    "issued": "2017 May 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170518GEOA.txt",
+    "source": "GEOA",
+    "product": "0518GEOA.txt",
+    "issued": "2017 May 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170519GEOA.txt",
+    "source": "GEOA",
+    "product": "0519GEOA.txt",
+    "issued": "2017 May 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170520GEOA.txt",
+    "source": "GEOA",
+    "product": "0520GEOA.txt",
+    "issued": "2017 May 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170521GEOA.txt",
+    "source": "GEOA",
+    "product": "0521GEOA.txt",
+    "issued": "2017 May 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170522GEOA.txt",
+    "source": "GEOA",
+    "product": "0522GEOA.txt",
+    "issued": "2017 May 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170523GEOA.txt",
+    "source": "GEOA",
+    "product": "0523GEOA.txt",
+    "issued": "2017 May 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170524GEOA.txt",
+    "source": "GEOA",
+    "product": "0524GEOA.txt",
+    "issued": "2017 May 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170525GEOA.txt",
+    "source": "GEOA",
+    "product": "0525GEOA.txt",
+    "issued": "2017 May 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170526GEOA.txt",
+    "source": "GEOA",
+    "product": "0526GEOA.txt",
+    "issued": "2017 May 26 0405 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170527GEOA.txt",
+    "source": "GEOA",
+    "product": "0527GEOA.txt",
+    "issued": "2017 May 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170528GEOA.txt",
+    "source": "GEOA",
+    "product": "0528GEOA.txt",
+    "issued": "2017 May 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170529GEOA.txt",
+    "source": "GEOA",
+    "product": "0529GEOA.txt",
+    "issued": "2017 May 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170530GEOA.txt",
+    "source": "GEOA",
+    "product": "0530GEOA.txt",
+    "issued": "2017 May 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170531GEOA.txt",
+    "source": "GEOA",
+    "product": "0531GEOA.txt",
+    "issued": "2017 May 31 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170601GEOA.txt",
+    "source": "GEOA",
+    "product": "0601GEOA.txt",
+    "issued": "2017 Jun 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170602GEOA.txt",
+    "source": "GEOA",
+    "product": "0602GEOA.txt",
+    "issued": "2017 Jun 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170603GEOA.txt",
+    "source": "GEOA",
+    "product": "0603GEOA.txt",
+    "issued": "2017 Jun 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170604GEOA.txt",
+    "source": "GEOA",
+    "product": "0604GEOA.txt",
+    "issued": "2017 Jun 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170605GEOA.txt",
+    "source": "GEOA",
+    "product": "0605GEOA.txt",
+    "issued": "2017 Jun 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170606GEOA.txt",
+    "source": "GEOA",
+    "product": "0606GEOA.txt",
+    "issued": "2017 Jun 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170607GEOA.txt",
+    "source": "GEOA",
+    "product": "0607GEOA.txt",
+    "issued": "2017 Jun 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170608GEOA.txt",
+    "source": "GEOA",
+    "product": "0608GEOA.txt",
+    "issued": "2017 Jun 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170609GEOA.txt",
+    "source": "GEOA",
+    "product": "0609GEOA.txt",
+    "issued": "2017 Jun 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170610GEOA.txt",
+    "source": "GEOA",
+    "product": "0610GEOA.txt",
+    "issued": "2017 Jun 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170611GEOA.txt",
+    "source": "GEOA",
+    "product": "0611GEOA.txt",
+    "issued": "2017 Jun 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170612GEOA.txt",
+    "source": "GEOA",
+    "product": "0612GEOA.txt",
+    "issued": "2017 Jun 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170613GEOA.txt",
+    "source": "GEOA",
+    "product": "0613GEOA.txt",
+    "issued": "2017 Jun 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170614GEOA.txt",
+    "source": "GEOA",
+    "product": "0614GEOA.txt",
+    "issued": "2017 Jun 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170615GEOA.txt",
+    "source": "GEOA",
+    "product": "0615GEOA.txt",
+    "issued": "2017 Jun 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170616GEOA.txt",
+    "source": "GEOA",
+    "product": "0616GEOA.txt",
+    "issued": "2017 Jun 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170617GEOA.txt",
+    "source": "GEOA",
+    "product": "0617GEOA.txt",
+    "issued": "2017 Jun 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170618GEOA.txt",
+    "source": "GEOA",
+    "product": "0618GEOA.txt",
+    "issued": "2017 Jun 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170619GEOA.txt",
+    "source": "GEOA",
+    "product": "0619GEOA.txt",
+    "issued": "2017 Jun 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170620GEOA.txt",
+    "source": "GEOA",
+    "product": "0620GEOA.txt",
+    "issued": "2017 Jun 20 0550 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170621GEOA.txt",
+    "source": "GEOA",
+    "product": "0621GEOA.txt",
+    "issued": "2017 Jun 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170622GEOA.txt",
+    "source": "GEOA",
+    "product": "0622GEOA.txt",
+    "issued": "2017 Jun 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170623GEOA.txt",
+    "source": "GEOA",
+    "product": "0623GEOA.txt",
+    "issued": "2017 Jun 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170624GEOA.txt",
+    "source": "GEOA",
+    "product": "0624GEOA.txt",
+    "issued": "2017 Jun 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170625GEOA.txt",
+    "source": "GEOA",
+    "product": "0625GEOA.txt",
+    "issued": "2017 Jun 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170626GEOA.txt",
+    "source": "GEOA",
+    "product": "0626GEOA.txt",
+    "issued": "2017 Jun 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170627GEOA.txt",
+    "source": "GEOA",
+    "product": "0627GEOA.txt",
+    "issued": "2017 Jun 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170628GEOA.txt",
+    "source": "GEOA",
+    "product": "0628GEOA.txt",
+    "issued": "2017 Jun 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170629GEOA.txt",
+    "source": "GEOA",
+    "product": "0629GEOA.txt",
+    "issued": "2017 Jun 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170630GEOA.txt",
+    "source": "GEOA",
+    "product": "0630GEOA.txt",
+    "issued": "2017 Jun 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170701GEOA.txt",
+    "source": "GEOA",
+    "product": "0701GEOA.txt",
+    "issued": "2017 Jul 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170702GEOA.txt",
+    "source": "GEOA",
+    "product": "0702GEOA.txt",
+    "issued": "2017 Jul 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170703GEOA.txt",
+    "source": "GEOA",
+    "product": "0703GEOA.txt",
+    "issued": "2017 Jul 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170704GEOA.txt",
+    "source": "GEOA",
+    "product": "0704GEOA.txt",
+    "issued": "2017 Jul 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170705GEOA.txt",
+    "source": "GEOA",
+    "product": "0705GEOA.txt",
+    "issued": "2017 Jul 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170706GEOA.txt",
+    "source": "GEOA",
+    "product": "0706GEOA.txt",
+    "issued": "2017 Jul 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170707GEOA.txt",
+    "source": "GEOA",
+    "product": "0707GEOA.txt",
+    "issued": "2017 Jul 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170708GEOA.txt",
+    "source": "GEOA",
+    "product": "0708GEOA.txt",
+    "issued": "2017 Jul 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170709GEOA.txt",
+    "source": "GEOA",
+    "product": "0709GEOA.txt",
+    "issued": "2017 Jul 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170710GEOA.txt",
+    "source": "GEOA",
+    "product": "0710GEOA.txt",
+    "issued": "2017 Jul 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170711GEOA.txt",
+    "source": "GEOA",
+    "product": "0711GEOA.txt",
+    "issued": "2017 Jul 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170712GEOA.txt",
+    "source": "GEOA",
+    "product": "0712GEOA.txt",
+    "issued": "2017 Jul 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170713GEOA.txt",
+    "source": "GEOA",
+    "product": "0713GEOA.txt",
+    "issued": "2017 Jul 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170714GEOA.txt",
+    "source": "GEOA",
+    "product": "0714GEOA.txt",
+    "issued": "2017 Jul 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170715GEOA.txt",
+    "source": "GEOA",
+    "product": "0715GEOA.txt",
+    "issued": "2017 Jul 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170716GEOA.txt",
+    "source": "GEOA",
+    "product": "0716GEOA.txt",
+    "issued": "2017 Jul 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170717GEOA.txt",
+    "source": "GEOA",
+    "product": "0717GEOA.txt",
+    "issued": "2017 Jul 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170718GEOA.txt",
+    "source": "GEOA",
+    "product": "0718GEOA.txt",
+    "issued": "2017 Jul 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170719GEOA.txt",
+    "source": "GEOA",
+    "product": "0719GEOA.txt",
+    "issued": "2017 Jul 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170720GEOA.txt",
+    "source": "GEOA",
+    "product": "0720GEOA.txt",
+    "issued": "2017 Jul 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170721GEOA.txt",
+    "source": "GEOA",
+    "product": "0721GEOA.txt",
+    "issued": "2017 Jul 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170722GEOA.txt",
+    "source": "GEOA",
+    "product": "0722GEOA.txt",
+    "issued": "2017 Jul 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170723GEOA.txt",
+    "source": "GEOA",
+    "product": "0723GEOA.txt",
+    "issued": "2017 Jul 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170724GEOA.txt",
+    "source": "GEOA",
+    "product": "0724GEOA.txt",
+    "issued": "2017 Jul 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170725GEOA.txt",
+    "source": "GEOA",
+    "product": "0725GEOA.txt",
+    "issued": "2017 Jul 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170726GEOA.txt",
+    "source": "GEOA",
+    "product": "0726GEOA.txt",
+    "issued": "2017 Jul 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170727GEOA.txt",
+    "source": "GEOA",
+    "product": "0727GEOA.txt",
+    "issued": "2017 Jul 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170728GEOA.txt",
+    "source": "GEOA",
+    "product": "0728GEOA.txt",
+    "issued": "2017 Jul 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170729GEOA.txt",
+    "source": "GEOA",
+    "product": "0729GEOA.txt",
+    "issued": "2017 Jul 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170730GEOA.txt",
+    "source": "GEOA",
+    "product": "0730GEOA.txt",
+    "issued": "2017 Jul 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170731GEOA.txt",
+    "source": "GEOA",
+    "product": "0731GEOA.txt",
+    "issued": "2017 Jul 31 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170801GEOA.txt",
+    "source": "GEOA",
+    "product": "0801GEOA.txt",
+    "issued": "2017 Aug 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170802GEOA.txt",
+    "source": "GEOA",
+    "product": "0802GEOA.txt",
+    "issued": "2017 Aug 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170803GEOA.txt",
+    "source": "GEOA",
+    "product": "0803GEOA.txt",
+    "issued": "2017 Aug 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170804GEOA.txt",
+    "source": "GEOA",
+    "product": "0804GEOA.txt",
+    "issued": "2017 Aug 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170805GEOA.txt",
+    "source": "GEOA",
+    "product": "0805GEOA.txt",
+    "issued": "2017 Aug 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170806GEOA.txt",
+    "source": "GEOA",
+    "product": "0806GEOA.txt",
+    "issued": "2017 Aug 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170807GEOA.txt",
+    "source": "GEOA",
+    "product": "0807GEOA.txt",
+    "issued": "2017 Aug 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170808GEOA.txt",
+    "source": "GEOA",
+    "product": "0808GEOA.txt",
+    "issued": "2017 Aug 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170809GEOA.txt",
+    "source": "GEOA",
+    "product": "0809GEOA.txt",
+    "issued": "2017 Aug 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170810GEOA.txt",
+    "source": "GEOA",
+    "product": "0810GEOA.txt",
+    "issued": "2017 Aug 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170811GEOA.txt",
+    "source": "GEOA",
+    "product": "0811GEOA.txt",
+    "issued": "2017 Aug 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170812GEOA.txt",
+    "source": "GEOA",
+    "product": "0812GEOA.txt",
+    "issued": "2017 Aug 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170813GEOA.txt",
+    "source": "GEOA",
+    "product": "0813GEOA.txt",
+    "issued": "2017 Aug 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170814GEOA.txt",
+    "source": "GEOA",
+    "product": "0814GEOA.txt",
+    "issued": "2017 Aug 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170815GEOA.txt",
+    "source": "GEOA",
+    "product": "0815GEOA.txt",
+    "issued": "2017 Aug 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170816GEOA.txt",
+    "source": "GEOA",
+    "product": "0816GEOA.txt",
+    "issued": "2017 Aug 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170817GEOA.txt",
+    "source": "GEOA",
+    "product": "0817GEOA.txt",
+    "issued": "2017 Aug 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170818GEOA.txt",
+    "source": "GEOA",
+    "product": "0818GEOA.txt",
+    "issued": "2017 Aug 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170819GEOA.txt",
+    "source": "GEOA",
+    "product": "0819GEOA.txt",
+    "issued": "2017 Aug 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170820GEOA.txt",
+    "source": "GEOA",
+    "product": "0820GEOA.txt",
+    "issued": "2017 Aug 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170821GEOA.txt",
+    "source": "GEOA",
+    "product": "0821GEOA.txt",
+    "issued": "2017 Aug 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170822GEOA.txt",
+    "source": "GEOA",
+    "product": "0822GEOA.txt",
+    "issued": "2017 Aug 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170823GEOA.txt",
+    "source": "GEOA",
+    "product": "0823GEOA.txt",
+    "issued": "2017 Aug 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170824GEOA.txt",
+    "source": "GEOA",
+    "product": "0824GEOA.txt",
+    "issued": "2017 Aug 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170825GEOA.txt",
+    "source": "GEOA",
+    "product": "0825GEOA.txt",
+    "issued": "2017 Aug 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170826GEOA.txt",
+    "source": "GEOA",
+    "product": "0826GEOA.txt",
+    "issued": "2017 Aug 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170827GEOA.txt",
+    "source": "GEOA",
+    "product": "0827GEOA.txt",
+    "issued": "2017 Aug 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170828GEOA.txt",
+    "source": "GEOA",
+    "product": "0828GEOA.txt",
+    "issued": "2017 Aug 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170829GEOA.txt",
+    "source": "GEOA",
+    "product": "0829GEOA.txt",
+    "issued": "2017 Aug 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170830GEOA.txt",
+    "source": "GEOA",
+    "product": "0830GEOA.txt",
+    "issued": "2017 Aug 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170831GEOA.txt",
+    "source": "GEOA",
+    "product": "0831GEOA.txt",
+    "issued": "2017 Aug 31 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170901GEOA.txt",
+    "source": "GEOA",
+    "product": "0901GEOA.txt",
+    "issued": "2017 Sep 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170902GEOA.txt",
+    "source": "GEOA",
+    "product": "0902GEOA.txt",
+    "issued": "2017 Sep 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170903GEOA.txt",
+    "source": "GEOA",
+    "product": "0903GEOA.txt",
+    "issued": "2017 Sep 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170904GEOA.txt",
+    "source": "GEOA",
+    "product": "0904GEOA.txt",
+    "issued": "2017 Sep 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170905GEOA.txt",
+    "source": "GEOA",
+    "product": "0905GEOA.txt",
+    "issued": "2017 Sep 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170906GEOA.txt",
+    "source": "GEOA",
+    "product": "0906GEOA.txt",
+    "issued": "2017 Sep 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170907GEOA.txt",
+    "source": "GEOA",
+    "product": "0907GEOA.txt",
+    "issued": "2017 Sep 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170908GEOA.txt",
+    "source": "GEOA",
+    "product": "0908GEOA.txt",
+    "issued": "2017 Sep 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170909GEOA.txt",
+    "source": "GEOA",
+    "product": "0909GEOA.txt",
+    "issued": "2017 Sep 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170910GEOA.txt",
+    "source": "GEOA",
+    "product": "0910GEOA.txt",
+    "issued": "2017 Sep 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170911GEOA.txt",
+    "source": "GEOA",
+    "product": "0911GEOA.txt",
+    "issued": "2017 Sep 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170912GEOA.txt",
+    "source": "GEOA",
+    "product": "0912GEOA.txt",
+    "issued": "2017 Sep 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170913GEOA.txt",
+    "source": "GEOA",
+    "product": "0913GEOA.txt",
+    "issued": "2017 Sep 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170914GEOA.txt",
+    "source": "GEOA",
+    "product": "0914GEOA.txt",
+    "issued": "2017 Sep 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170915GEOA.txt",
+    "source": "GEOA",
+    "product": "0915GEOA.txt",
+    "issued": "2017 Sep 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170916GEOA.txt",
+    "source": "GEOA",
+    "product": "0916GEOA.txt",
+    "issued": "2017 Sep 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170917GEOA.txt",
+    "source": "GEOA",
+    "product": "0917GEOA.txt",
+    "issued": "2017 Sep 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170918GEOA.txt",
+    "source": "GEOA",
+    "product": "0918GEOA.txt",
+    "issued": "2017 Sep 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170919GEOA.txt",
+    "source": "GEOA",
+    "product": "0919GEOA.txt",
+    "issued": "2017 Sep 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170920GEOA.txt",
+    "source": "GEOA",
+    "product": "0920GEOA.txt",
+    "issued": "2017 Sep 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170921GEOA.txt",
+    "source": "GEOA",
+    "product": "0921GEOA.txt",
+    "issued": "2017 Sep 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170922GEOA.txt",
+    "source": "GEOA",
+    "product": "0922GEOA.txt",
+    "issued": "2017 Sep 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170923GEOA.txt",
+    "source": "GEOA",
+    "product": "0923GEOA.txt",
+    "issued": "2017 Sep 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170924GEOA.txt",
+    "source": "GEOA",
+    "product": "0924GEOA.txt",
+    "issued": "2017 Sep 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170925GEOA.txt",
+    "source": "GEOA",
+    "product": "0925GEOA.txt",
+    "issued": "2017 Sep 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170926GEOA.txt",
+    "source": "GEOA",
+    "product": "0926GEOA.txt",
+    "issued": "2017 Sep 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170927GEOA.txt",
+    "source": "GEOA",
+    "product": "0927GEOA.txt",
+    "issued": "2017 Sep 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170928GEOA.txt",
+    "source": "GEOA",
+    "product": "0928GEOA.txt",
+    "issued": "2017 Sep 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170929GEOA.txt",
+    "source": "GEOA",
+    "product": "0929GEOA.txt",
+    "issued": "2017 Sep 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20170930GEOA.txt",
+    "source": "GEOA",
+    "product": "0930GEOA.txt",
+    "issued": "2017 Sep 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171001GEOA.txt",
+    "source": "GEOA",
+    "product": "1001GEOA.txt",
+    "issued": "2017 Oct 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171002GEOA.txt",
+    "source": "GEOA",
+    "product": "1002GEOA.txt",
+    "issued": "2017 Oct 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171003GEOA.txt",
+    "source": "GEOA",
+    "product": "1003GEOA.txt",
+    "issued": "2017 Oct 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171004GEOA.txt",
+    "source": "GEOA",
+    "product": "1004GEOA.txt",
+    "issued": "2017 Oct 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171005GEOA.txt",
+    "source": "GEOA",
+    "product": "1005GEOA.txt",
+    "issued": "2017 Oct 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171006GEOA.txt",
+    "source": "GEOA",
+    "product": "1006GEOA.txt",
+    "issued": "2017 Oct 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171007GEOA.txt",
+    "source": "GEOA",
+    "product": "1007GEOA.txt",
+    "issued": "2017 Oct 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171008GEOA.txt",
+    "source": "GEOA",
+    "product": "1008GEOA.txt",
+    "issued": "2017 Oct 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171009GEOA.txt",
+    "source": "GEOA",
+    "product": "1009GEOA.txt",
+    "issued": "2017 Oct 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171010GEOA.txt",
+    "source": "GEOA",
+    "product": "1010GEOA.txt",
+    "issued": "2017 Oct 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171011GEOA.txt",
+    "source": "GEOA",
+    "product": "1011GEOA.txt",
+    "issued": "2017 Oct 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171012GEOA.txt",
+    "source": "GEOA",
+    "product": "1012GEOA.txt",
+    "issued": "2017 Oct 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171013GEOA.txt",
+    "source": "GEOA",
+    "product": "1013GEOA.txt",
+    "issued": "2017 Oct 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171014GEOA.txt",
+    "source": "GEOA",
+    "product": "1014GEOA.txt",
+    "issued": "2017 Oct 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171015GEOA.txt",
+    "source": "GEOA",
+    "product": "1015GEOA.txt",
+    "issued": "2017 Oct 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171016GEOA.txt",
+    "source": "GEOA",
+    "product": "1016GEOA.txt",
+    "issued": "2017 Oct 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171017GEOA.txt",
+    "source": "GEOA",
+    "product": "1017GEOA.txt",
+    "issued": "2017 Oct 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171018GEOA.txt",
+    "source": "GEOA",
+    "product": "1018GEOA.txt",
+    "issued": "2017 Oct 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171019GEOA.txt",
+    "source": "GEOA",
+    "product": "1019GEOA.txt",
+    "issued": "2017 Oct 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171020GEOA.txt",
+    "source": "GEOA",
+    "product": "1020GEOA.txt",
+    "issued": "2017 Oct 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171021GEOA.txt",
+    "source": "GEOA",
+    "product": "1021GEOA.txt",
+    "issued": "2017 Oct 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171022GEOA.txt",
+    "source": "GEOA",
+    "product": "1022GEOA.txt",
+    "issued": "2017 Oct 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171023GEOA.txt",
+    "source": "GEOA",
+    "product": "1023GEOA.txt",
+    "issued": "2017 Oct 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171024GEOA.txt",
+    "source": "GEOA",
+    "product": "1024GEOA.txt",
+    "issued": "2017 Oct 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171025GEOA.txt",
+    "source": "GEOA",
+    "product": "1025GEOA.txt",
+    "issued": "2017 Oct 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171026GEOA.txt",
+    "source": "GEOA",
+    "product": "1026GEOA.txt",
+    "issued": "2017 Oct 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171027GEOA.txt",
+    "source": "GEOA",
+    "product": "1027GEOA.txt",
+    "issued": "2017 Oct 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171028GEOA.txt",
+    "source": "GEOA",
+    "product": "1028GEOA.txt",
+    "issued": "2017 Oct 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171029GEOA.txt",
+    "source": "GEOA",
+    "product": "1029GEOA.txt",
+    "issued": "2017 Oct 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171030GEOA.txt",
+    "source": "GEOA",
+    "product": "1030GEOA.txt",
+    "issued": "2017 Oct 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171031GEOA.txt",
+    "source": "GEOA",
+    "product": "1031GEOA.txt",
+    "issued": "2017 Oct 31 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171101GEOA.txt",
+    "source": "GEOA",
+    "product": "1101GEOA.txt",
+    "issued": "2017 Nov 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171102GEOA.txt",
+    "source": "GEOA",
+    "product": "1102GEOA.txt",
+    "issued": "2017 Nov 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171103GEOA.txt",
+    "source": "GEOA",
+    "product": "1103GEOA.txt",
+    "issued": "2017 Nov 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171104GEOA.txt",
+    "source": "GEOA",
+    "product": "1104GEOA.txt",
+    "issued": "2017 Nov 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171105GEOA.txt",
+    "source": "GEOA",
+    "product": "1105GEOA.txt",
+    "issued": "2017 Nov 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171106GEOA.txt",
+    "source": "GEOA",
+    "product": "1106GEOA.txt",
+    "issued": "2017 Nov 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171107GEOA.txt",
+    "source": "GEOA",
+    "product": "1107GEOA.txt",
+    "issued": "2017 Nov 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171108GEOA.txt",
+    "source": "GEOA",
+    "product": "1108GEOA.txt",
+    "issued": "2017 Nov 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171109GEOA.txt",
+    "source": "GEOA",
+    "product": "1109GEOA.txt",
+    "issued": "2017 Nov 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171110GEOA.txt",
+    "source": "GEOA",
+    "product": "1110GEOA.txt",
+    "issued": "2017 Nov 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171111GEOA.txt",
+    "source": "GEOA",
+    "product": "1111GEOA.txt",
+    "issued": "2017 Nov 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171112GEOA.txt",
+    "source": "GEOA",
+    "product": "1112GEOA.txt",
+    "issued": "2017 Nov 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171113GEOA.txt",
+    "source": "GEOA",
+    "product": "1113GEOA.txt",
+    "issued": "2017 Nov 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171114GEOA.txt",
+    "source": "GEOA",
+    "product": "1114GEOA.txt",
+    "issued": "2017 Nov 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171115GEOA.txt",
+    "source": "GEOA",
+    "product": "1115GEOA.txt",
+    "issued": "2017 Nov 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171116GEOA.txt",
+    "source": "GEOA",
+    "product": "1116GEOA.txt",
+    "issued": "2017 Nov 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171117GEOA.txt",
+    "source": "GEOA",
+    "product": "1117GEOA.txt",
+    "issued": "2017 Nov 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171118GEOA.txt",
+    "source": "GEOA",
+    "product": "1118GEOA.txt",
+    "issued": "2017 Nov 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171119GEOA.txt",
+    "source": "GEOA",
+    "product": "1119GEOA.txt",
+    "issued": "2017 Nov 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171120GEOA.txt",
+    "source": "GEOA",
+    "product": "1120GEOA.txt",
+    "issued": "2017 Nov 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171121GEOA.txt",
+    "source": "GEOA",
+    "product": "1121GEOA.txt",
+    "issued": "2017 Nov 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171122GEOA.txt",
+    "source": "GEOA",
+    "product": "1122GEOA.txt",
+    "issued": "2017 Nov 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171123GEOA.txt",
+    "source": "GEOA",
+    "product": "1123GEOA.txt",
+    "issued": "2017 Nov 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171124GEOA.txt",
+    "source": "GEOA",
+    "product": "1124GEOA.txt",
+    "issued": "2017 Nov 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171125GEOA.txt",
+    "source": "GEOA",
+    "product": "1125GEOA.txt",
+    "issued": "2017 Nov 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171126GEOA.txt",
+    "source": "GEOA",
+    "product": "1126GEOA.txt",
+    "issued": "2017 Nov 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171127GEOA.txt",
+    "source": "GEOA",
+    "product": "1127GEOA.txt",
+    "issued": "2017 Nov 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171128GEOA.txt",
+    "source": "GEOA",
+    "product": "1128GEOA.txt",
+    "issued": "2017 Nov 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171129GEOA.txt",
+    "source": "GEOA",
+    "product": "1129GEOA.txt",
+    "issued": "2017 Nov 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171130GEOA.txt",
+    "source": "GEOA",
+    "product": "1130GEOA.txt",
+    "issued": "2017 Nov 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171201GEOA.txt",
+    "source": "GEOA",
+    "product": "1201GEOA.txt",
+    "issued": "2017 Dec 01 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171202GEOA.txt",
+    "source": "GEOA",
+    "product": "1202GEOA.txt",
+    "issued": "2017 Dec 02 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171203GEOA.txt",
+    "source": "GEOA",
+    "product": "1203GEOA.txt",
+    "issued": "2017 Dec 03 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171204GEOA.txt",
+    "source": "GEOA",
+    "product": "1204GEOA.txt",
+    "issued": "2017 Dec 04 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171205GEOA.txt",
+    "source": "GEOA",
+    "product": "1205GEOA.txt",
+    "issued": "2017 Dec 05 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171206GEOA.txt",
+    "source": "GEOA",
+    "product": "1206GEOA.txt",
+    "issued": "2017 Dec 06 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171207GEOA.txt",
+    "source": "GEOA",
+    "product": "1207GEOA.txt",
+    "issued": "2017 Dec 07 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171208GEOA.txt",
+    "source": "GEOA",
+    "product": "1208GEOA.txt",
+    "issued": "2017 Dec 08 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171209GEOA.txt",
+    "source": "GEOA",
+    "product": "1209GEOA.txt",
+    "issued": "2017 Dec 09 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171210GEOA.txt",
+    "source": "GEOA",
+    "product": "1210GEOA.txt",
+    "issued": "2017 Dec 10 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171211GEOA.txt",
+    "source": "GEOA",
+    "product": "1211GEOA.txt",
+    "issued": "2017 Dec 11 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171212GEOA.txt",
+    "source": "GEOA",
+    "product": "1212GEOA.txt",
+    "issued": "2017 Dec 12 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171213GEOA.txt",
+    "source": "GEOA",
+    "product": "1213GEOA.txt",
+    "issued": "2017 Dec 13 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171214GEOA.txt",
+    "source": "GEOA",
+    "product": "1214GEOA.txt",
+    "issued": "2017 Dec 14 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171215GEOA.txt",
+    "source": "GEOA",
+    "product": "1215GEOA.txt",
+    "issued": "2017 Dec 15 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171216GEOA.txt",
+    "source": "GEOA",
+    "product": "1216GEOA.txt",
+    "issued": "2017 Dec 16 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171217GEOA.txt",
+    "source": "GEOA",
+    "product": "1217GEOA.txt",
+    "issued": "2017 Dec 17 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171218GEOA.txt",
+    "source": "GEOA",
+    "product": "1218GEOA.txt",
+    "issued": "2017 Dec 18 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171219GEOA.txt",
+    "source": "GEOA",
+    "product": "1219GEOA.txt",
+    "issued": "2017 Dec 19 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171220GEOA.txt",
+    "source": "GEOA",
+    "product": "1220GEOA.txt",
+    "issued": "2017 Dec 20 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171221GEOA.txt",
+    "source": "GEOA",
+    "product": "1221GEOA.txt",
+    "issued": "2017 Dec 21 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171222GEOA.txt",
+    "source": "GEOA",
+    "product": "1222GEOA.txt",
+    "issued": "2017 Dec 22 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171223GEOA.txt",
+    "source": "GEOA",
+    "product": "1223GEOA.txt",
+    "issued": "2017 Dec 23 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171224GEOA.txt",
+    "source": "GEOA",
+    "product": "1224GEOA.txt",
+    "issued": "2017 Dec 24 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171225GEOA.txt",
+    "source": "GEOA",
+    "product": "1225GEOA.txt",
+    "issued": "2017 Dec 25 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171226GEOA.txt",
+    "source": "GEOA",
+    "product": "1226GEOA.txt",
+    "issued": "2017 Dec 26 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171227GEOA.txt",
+    "source": "GEOA",
+    "product": "1227GEOA.txt",
+    "issued": "2017 Dec 27 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171228GEOA.txt",
+    "source": "GEOA",
+    "product": "1228GEOA.txt",
+    "issued": "2017 Dec 28 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171229GEOA.txt",
+    "source": "GEOA",
+    "product": "1229GEOA.txt",
+    "issued": "2017 Dec 29 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171230GEOA.txt",
+    "source": "GEOA",
+    "product": "1230GEOA.txt",
+    "issued": "2017 Dec 30 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20171231GEOA.txt",
+    "source": "GEOA",
+    "product": "1231GEOA.txt",
+    "issued": "2017 Dec 31 0330 UTC",
+    "sdfNumber": null,
+    "sections": []
+  }
+]
