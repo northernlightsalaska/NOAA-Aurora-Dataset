@@ -214,13 +214,6 @@ All data is extracted from NOAA Space Weather Prediction Center:
 - **Data Format**: Original data in text format, converted to JSON for easy consumption
 - **Update Frequency**: Data is updated as new information becomes available from NOAA
 
-## 🛠️ Conversion Scripts
-
-The repository includes scripts for data conversion and updates:
-
-- `json-by-year/check-years.js`: Validates year files and checks for completeness
-- `json-by-year/update-index.js`: Updates the index.json file with current metadata
-
 ## 📅 Last Updated
 
 **2025-11-26** - Repository reorganized with new structure by dataset type and year

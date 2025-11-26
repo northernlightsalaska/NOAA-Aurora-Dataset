@@ -125,11 +125,6 @@ Data extracted from NOAA Space Weather Prediction Center:
 - Source: `https://services.swpc.noaa.gov/text/daily-geomagnetic-indices.txt`
 - Local archive: `NOAA-FTP-Download-Aurora-Dataset/`
 
-## Conversion Scripts
-
-- `convert-dgd-to-json.js`: Converts DGD text files to JSON
-- `fetch-historical-noaa.js`: Fetches and converts from NOAA online source
-
 ## Last Updated
 
 2025-11-24
