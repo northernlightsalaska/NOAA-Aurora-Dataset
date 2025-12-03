@@ -1,0 +1,2946 @@
+[
+  {
+    "file": "20191229events.txt",
+    "source": "EVENTS",
+    "product": "20191229events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20191230events.txt",
+    "source": "EVENTS",
+    "product": "20191230events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20191231events.txt",
+    "source": "EVENTS",
+    "product": "20191231events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200101events.txt",
+    "source": "EVENTS",
+    "product": "20200101events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200102events.txt",
+    "source": "EVENTS",
+    "product": "20200102events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200103events.txt",
+    "source": "EVENTS",
+    "product": "20200103events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200104events.txt",
+    "source": "EVENTS",
+    "product": "20200104events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200105events.txt",
+    "source": "EVENTS",
+    "product": "20200105events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200106events.txt",
+    "source": "EVENTS",
+    "product": "20200106events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200107events.txt",
+    "source": "EVENTS",
+    "product": "20200107events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200108events.txt",
+    "source": "EVENTS",
+    "product": "20200108events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200109events.txt",
+    "source": "EVENTS",
+    "product": "20200109events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200110events.txt",
+    "source": "EVENTS",
+    "product": "20200110events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200111events.txt",
+    "source": "EVENTS",
+    "product": "20200111events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200112events.txt",
+    "source": "EVENTS",
+    "product": "20200112events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200113events.txt",
+    "source": "EVENTS",
+    "product": "20200113events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200114events.txt",
+    "source": "EVENTS",
+    "product": "20200114events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200115events.txt",
+    "source": "EVENTS",
+    "product": "20200115events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200116events.txt",
+    "source": "EVENTS",
+    "product": "20200116events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200117events.txt",
+    "source": "EVENTS",
+    "product": "20200117events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200118events.txt",
+    "source": "EVENTS",
+    "product": "20200118events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200119events.txt",
+    "source": "EVENTS",
+    "product": "20200119events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200120events.txt",
+    "source": "EVENTS",
+    "product": "20200120events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200121events.txt",
+    "source": "EVENTS",
+    "product": "20200121events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200122events.txt",
+    "source": "EVENTS",
+    "product": "20200122events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200123events.txt",
+    "source": "EVENTS",
+    "product": "20200123events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200124events.txt",
+    "source": "EVENTS",
+    "product": "20200124events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200125events.txt",
+    "source": "EVENTS",
+    "product": "20200125events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200126events.txt",
+    "source": "EVENTS",
+    "product": "20200126events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200127events.txt",
+    "source": "EVENTS",
+    "product": "20200127events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200128events.txt",
+    "source": "EVENTS",
+    "product": "20200128events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200129events.txt",
+    "source": "EVENTS",
+    "product": "20200129events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200130events.txt",
+    "source": "EVENTS",
+    "product": "20200130events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200131events.txt",
+    "source": "EVENTS",
+    "product": "20200131events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200201events.txt",
+    "source": "EVENTS",
+    "product": "20200201events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200202events.txt",
+    "source": "EVENTS",
+    "product": "20200202events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200203events.txt",
+    "source": "EVENTS",
+    "product": "20200203events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200204events.txt",
+    "source": "EVENTS",
+    "product": "20200204events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200205events.txt",
+    "source": "EVENTS",
+    "product": "20200205events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200206events.txt",
+    "source": "EVENTS",
+    "product": "20200206events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200207events.txt",
+    "source": "EVENTS",
+    "product": "20200207events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200208events.txt",
+    "source": "EVENTS",
+    "product": "20200208events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200209events.txt",
+    "source": "EVENTS",
+    "product": "20200209events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200210events.txt",
+    "source": "EVENTS",
+    "product": "20200210events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200211events.txt",
+    "source": "EVENTS",
+    "product": "20200211events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200212events.txt",
+    "source": "EVENTS",
+    "product": "20200212events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200213events.txt",
+    "source": "EVENTS",
+    "product": "20200213events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200214events.txt",
+    "source": "EVENTS",
+    "product": "20200214events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200215events.txt",
+    "source": "EVENTS",
+    "product": "20200215events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200216events.txt",
+    "source": "EVENTS",
+    "product": "20200216events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200217events.txt",
+    "source": "EVENTS",
+    "product": "20200217events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200218events.txt",
+    "source": "EVENTS",
+    "product": "20200218events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200219events.txt",
+    "source": "EVENTS",
+    "product": "20200219events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200220events.txt",
+    "source": "EVENTS",
+    "product": "20200220events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200221events.txt",
+    "source": "EVENTS",
+    "product": "20200221events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200222events.txt",
+    "source": "EVENTS",
+    "product": "20200222events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200223events.txt",
+    "source": "EVENTS",
+    "product": "20200223events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200224events.txt",
+    "source": "EVENTS",
+    "product": "20200224events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200225events.txt",
+    "source": "EVENTS",
+    "product": "20200225events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200226events.txt",
+    "source": "EVENTS",
+    "product": "20200226events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200227events.txt",
+    "source": "EVENTS",
+    "product": "20200227events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200228events.txt",
+    "source": "EVENTS",
+    "product": "20200228events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200229events.txt",
+    "source": "EVENTS",
+    "product": "20200229events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200301events.txt",
+    "source": "EVENTS",
+    "product": "20200301events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200302events.txt",
+    "source": "EVENTS",
+    "product": "20200302events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200303events.txt",
+    "source": "EVENTS",
+    "product": "20200303events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200304events.txt",
+    "source": "EVENTS",
+    "product": "20200304events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200305events.txt",
+    "source": "EVENTS",
+    "product": "20200305events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200306events.txt",
+    "source": "EVENTS",
+    "product": "20200306events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200307events.txt",
+    "source": "EVENTS",
+    "product": "20200307events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200308events.txt",
+    "source": "EVENTS",
+    "product": "20200308events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200309events.txt",
+    "source": "EVENTS",
+    "product": "20200309events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200310events.txt",
+    "source": "EVENTS",
+    "product": "20200310events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200311events.txt",
+    "source": "EVENTS",
+    "product": "20200311events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200312events.txt",
+    "source": "EVENTS",
+    "product": "20200312events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200313events.txt",
+    "source": "EVENTS",
+    "product": "20200313events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200314events.txt",
+    "source": "EVENTS",
+    "product": "20200314events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200315events.txt",
+    "source": "EVENTS",
+    "product": "20200315events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200316events.txt",
+    "source": "EVENTS",
+    "product": "20200316events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200317events.txt",
+    "source": "EVENTS",
+    "product": "20200317events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200318events.txt",
+    "source": "EVENTS",
+    "product": "20200318events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200319events.txt",
+    "source": "EVENTS",
+    "product": "20200319events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200320events.txt",
+    "source": "EVENTS",
+    "product": "20200320events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200321events.txt",
+    "source": "EVENTS",
+    "product": "20200321events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200322events.txt",
+    "source": "EVENTS",
+    "product": "20200322events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200323events.txt",
+    "source": "EVENTS",
+    "product": "20200323events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200324events.txt",
+    "source": "EVENTS",
+    "product": "20200324events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200325events.txt",
+    "source": "EVENTS",
+    "product": "20200325events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200326events.txt",
+    "source": "EVENTS",
+    "product": "20200326events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200327events.txt",
+    "source": "EVENTS",
+    "product": "20200327events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200328events.txt",
+    "source": "EVENTS",
+    "product": "20200328events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200329events.txt",
+    "source": "EVENTS",
+    "product": "20200329events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200330events.txt",
+    "source": "EVENTS",
+    "product": "20200330events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200331events.txt",
+    "source": "EVENTS",
+    "product": "20200331events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200401events.txt",
+    "source": "EVENTS",
+    "product": "20200401events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200402events.txt",
+    "source": "EVENTS",
+    "product": "20200402events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200403events.txt",
+    "source": "EVENTS",
+    "product": "20200403events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200404events.txt",
+    "source": "EVENTS",
+    "product": "20200404events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200405events.txt",
+    "source": "EVENTS",
+    "product": "20200405events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200406events.txt",
+    "source": "EVENTS",
+    "product": "20200406events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200407events.txt",
+    "source": "EVENTS",
+    "product": "20200407events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200408events.txt",
+    "source": "EVENTS",
+    "product": "20200408events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200409events.txt",
+    "source": "EVENTS",
+    "product": "20200409events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200410events.txt",
+    "source": "EVENTS",
+    "product": "20200410events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200411events.txt",
+    "source": "EVENTS",
+    "product": "20200411events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200412events.txt",
+    "source": "EVENTS",
+    "product": "20200412events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200413events.txt",
+    "source": "EVENTS",
+    "product": "20200413events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200414events.txt",
+    "source": "EVENTS",
+    "product": "20200414events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200415events.txt",
+    "source": "EVENTS",
+    "product": "20200415events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200416events.txt",
+    "source": "EVENTS",
+    "product": "20200416events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200417events.txt",
+    "source": "EVENTS",
+    "product": "20200417events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200418events.txt",
+    "source": "EVENTS",
+    "product": "20200418events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200419events.txt",
+    "source": "EVENTS",
+    "product": "20200419events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200420events.txt",
+    "source": "EVENTS",
+    "product": "20200420events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200421events.txt",
+    "source": "EVENTS",
+    "product": "20200421events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200422events.txt",
+    "source": "EVENTS",
+    "product": "20200422events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200423events.txt",
+    "source": "EVENTS",
+    "product": "20200423events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200424events.txt",
+    "source": "EVENTS",
+    "product": "20200424events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200425events.txt",
+    "source": "EVENTS",
+    "product": "20200425events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200426events.txt",
+    "source": "EVENTS",
+    "product": "20200426events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200427events.txt",
+    "source": "EVENTS",
+    "product": "20200427events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200428events.txt",
+    "source": "EVENTS",
+    "product": "20200428events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200429events.txt",
+    "source": "EVENTS",
+    "product": "20200429events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200430events.txt",
+    "source": "EVENTS",
+    "product": "20200430events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200501events.txt",
+    "source": "EVENTS",
+    "product": "20200501events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200502events.txt",
+    "source": "EVENTS",
+    "product": "20200502events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200503events.txt",
+    "source": "EVENTS",
+    "product": "20200503events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200504events.txt",
+    "source": "EVENTS",
+    "product": "20200504events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200505events.txt",
+    "source": "EVENTS",
+    "product": "20200505events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200506events.txt",
+    "source": "EVENTS",
+    "product": "20200506events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200507events.txt",
+    "source": "EVENTS",
+    "product": "20200507events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200508events.txt",
+    "source": "EVENTS",
+    "product": "20200508events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200509events.txt",
+    "source": "EVENTS",
+    "product": "20200509events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200510events.txt",
+    "source": "EVENTS",
+    "product": "20200510events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200511events.txt",
+    "source": "EVENTS",
+    "product": "20200511events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200512events.txt",
+    "source": "EVENTS",
+    "product": "20200512events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200513events.txt",
+    "source": "EVENTS",
+    "product": "20200513events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200514events.txt",
+    "source": "EVENTS",
+    "product": "20200514events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200515events.txt",
+    "source": "EVENTS",
+    "product": "20200515events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200516events.txt",
+    "source": "EVENTS",
+    "product": "20200516events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200517events.txt",
+    "source": "EVENTS",
+    "product": "20200517events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200518events.txt",
+    "source": "EVENTS",
+    "product": "20200518events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200519events.txt",
+    "source": "EVENTS",
+    "product": "20200519events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200520events.txt",
+    "source": "EVENTS",
+    "product": "20200520events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200521events.txt",
+    "source": "EVENTS",
+    "product": "20200521events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200522events.txt",
+    "source": "EVENTS",
+    "product": "20200522events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200523events.txt",
+    "source": "EVENTS",
+    "product": "20200523events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200524events.txt",
+    "source": "EVENTS",
+    "product": "20200524events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200525events.txt",
+    "source": "EVENTS",
+    "product": "20200525events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200526events.txt",
+    "source": "EVENTS",
+    "product": "20200526events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200527events.txt",
+    "source": "EVENTS",
+    "product": "20200527events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200528events.txt",
+    "source": "EVENTS",
+    "product": "20200528events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200529events.txt",
+    "source": "EVENTS",
+    "product": "20200529events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200530events.txt",
+    "source": "EVENTS",
+    "product": "20200530events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200531events.txt",
+    "source": "EVENTS",
+    "product": "20200531events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200601events.txt",
+    "source": "EVENTS",
+    "product": "20200601events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200602events.txt",
+    "source": "EVENTS",
+    "product": "20200602events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200603events.txt",
+    "source": "EVENTS",
+    "product": "20200603events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200604events.txt",
+    "source": "EVENTS",
+    "product": "20200604events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200605events.txt",
+    "source": "EVENTS",
+    "product": "20200605events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200606events.txt",
+    "source": "EVENTS",
+    "product": "20200606events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200607events.txt",
+    "source": "EVENTS",
+    "product": "20200607events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200608events.txt",
+    "source": "EVENTS",
+    "product": "20200608events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200609events.txt",
+    "source": "EVENTS",
+    "product": "20200609events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200610events.txt",
+    "source": "EVENTS",
+    "product": "20200610events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200611events.txt",
+    "source": "EVENTS",
+    "product": "20200611events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200612events.txt",
+    "source": "EVENTS",
+    "product": "20200612events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200613events.txt",
+    "source": "EVENTS",
+    "product": "20200613events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200614events.txt",
+    "source": "EVENTS",
+    "product": "20200614events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200615events.txt",
+    "source": "EVENTS",
+    "product": "20200615events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200616events.txt",
+    "source": "EVENTS",
+    "product": "20200616events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200617events.txt",
+    "source": "EVENTS",
+    "product": "20200617events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200618events.txt",
+    "source": "EVENTS",
+    "product": "20200618events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200619events.txt",
+    "source": "EVENTS",
+    "product": "20200619events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200620events.txt",
+    "source": "EVENTS",
+    "product": "20200620events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200621events.txt",
+    "source": "EVENTS",
+    "product": "20200621events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200622events.txt",
+    "source": "EVENTS",
+    "product": "20200622events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200623events.txt",
+    "source": "EVENTS",
+    "product": "20200623events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200624events.txt",
+    "source": "EVENTS",
+    "product": "20200624events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200625events.txt",
+    "source": "EVENTS",
+    "product": "20200625events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200626events.txt",
+    "source": "EVENTS",
+    "product": "20200626events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200627events.txt",
+    "source": "EVENTS",
+    "product": "20200627events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200628events.txt",
+    "source": "EVENTS",
+    "product": "20200628events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200629events.txt",
+    "source": "EVENTS",
+    "product": "20200629events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200630events.txt",
+    "source": "EVENTS",
+    "product": "20200630events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200701events.txt",
+    "source": "EVENTS",
+    "product": "20200701events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200702events.txt",
+    "source": "EVENTS",
+    "product": "20200702events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200703events.txt",
+    "source": "EVENTS",
+    "product": "20200703events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200704events.txt",
+    "source": "EVENTS",
+    "product": "20200704events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200705events.txt",
+    "source": "EVENTS",
+    "product": "20200705events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200706events.txt",
+    "source": "EVENTS",
+    "product": "20200706events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200707events.txt",
+    "source": "EVENTS",
+    "product": "20200707events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200708events.txt",
+    "source": "EVENTS",
+    "product": "20200708events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200709events.txt",
+    "source": "EVENTS",
+    "product": "20200709events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200710events.txt",
+    "source": "EVENTS",
+    "product": "20200710events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200711events.txt",
+    "source": "EVENTS",
+    "product": "20200711events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200712events.txt",
+    "source": "EVENTS",
+    "product": "20200712events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200713events.txt",
+    "source": "EVENTS",
+    "product": "20200713events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200714events.txt",
+    "source": "EVENTS",
+    "product": "20200714events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200715events.txt",
+    "source": "EVENTS",
+    "product": "20200715events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200716events.txt",
+    "source": "EVENTS",
+    "product": "20200716events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200717events.txt",
+    "source": "EVENTS",
+    "product": "20200717events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200718events.txt",
+    "source": "EVENTS",
+    "product": "20200718events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200719events.txt",
+    "source": "EVENTS",
+    "product": "20200719events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200720events.txt",
+    "source": "EVENTS",
+    "product": "20200720events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200721events.txt",
+    "source": "EVENTS",
+    "product": "20200721events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200722events.txt",
+    "source": "EVENTS",
+    "product": "20200722events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200723events.txt",
+    "source": "EVENTS",
+    "product": "20200723events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200724events.txt",
+    "source": "EVENTS",
+    "product": "20200724events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200725events.txt",
+    "source": "EVENTS",
+    "product": "20200725events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200726events.txt",
+    "source": "EVENTS",
+    "product": "20200726events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200727events.txt",
+    "source": "EVENTS",
+    "product": "20200727events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200728events.txt",
+    "source": "EVENTS",
+    "product": "20200728events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200729events.txt",
+    "source": "EVENTS",
+    "product": "20200729events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200730events.txt",
+    "source": "EVENTS",
+    "product": "20200730events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200731events.txt",
+    "source": "EVENTS",
+    "product": "20200731events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200801events.txt",
+    "source": "EVENTS",
+    "product": "20200801events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200802events.txt",
+    "source": "EVENTS",
+    "product": "20200802events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200803events.txt",
+    "source": "EVENTS",
+    "product": "20200803events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200804events.txt",
+    "source": "EVENTS",
+    "product": "20200804events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200805events.txt",
+    "source": "EVENTS",
+    "product": "20200805events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200806events.txt",
+    "source": "EVENTS",
+    "product": "20200806events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200807events.txt",
+    "source": "EVENTS",
+    "product": "20200807events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200808events.txt",
+    "source": "EVENTS",
+    "product": "20200808events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200809events.txt",
+    "source": "EVENTS",
+    "product": "20200809events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200810events.txt",
+    "source": "EVENTS",
+    "product": "20200810events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200811events.txt",
+    "source": "EVENTS",
+    "product": "20200811events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200812events.txt",
+    "source": "EVENTS",
+    "product": "20200812events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200813events.txt",
+    "source": "EVENTS",
+    "product": "20200813events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200814events.txt",
+    "source": "EVENTS",
+    "product": "20200814events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200815events.txt",
+    "source": "EVENTS",
+    "product": "20200815events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200816events.txt",
+    "source": "EVENTS",
+    "product": "20200816events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200817events.txt",
+    "source": "EVENTS",
+    "product": "20200817events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200818events.txt",
+    "source": "EVENTS",
+    "product": "20200818events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200819events.txt",
+    "source": "EVENTS",
+    "product": "20200819events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200820events.txt",
+    "source": "EVENTS",
+    "product": "20200820events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200821events.txt",
+    "source": "EVENTS",
+    "product": "20200821events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200822events.txt",
+    "source": "EVENTS",
+    "product": "20200822events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200823events.txt",
+    "source": "EVENTS",
+    "product": "20200823events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200824events.txt",
+    "source": "EVENTS",
+    "product": "20200824events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200825events.txt",
+    "source": "EVENTS",
+    "product": "20200825events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200826events.txt",
+    "source": "EVENTS",
+    "product": "20200826events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200827events.txt",
+    "source": "EVENTS",
+    "product": "20200827events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200828events.txt",
+    "source": "EVENTS",
+    "product": "20200828events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200829events.txt",
+    "source": "EVENTS",
+    "product": "20200829events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200830events.txt",
+    "source": "EVENTS",
+    "product": "20200830events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200831events.txt",
+    "source": "EVENTS",
+    "product": "20200831events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200901events.txt",
+    "source": "EVENTS",
+    "product": "20200901events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200902events.txt",
+    "source": "EVENTS",
+    "product": "20200902events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200903events.txt",
+    "source": "EVENTS",
+    "product": "20200903events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200904events.txt",
+    "source": "EVENTS",
+    "product": "20200904events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200905events.txt",
+    "source": "EVENTS",
+    "product": "20200905events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200906events.txt",
+    "source": "EVENTS",
+    "product": "20200906events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200907events.txt",
+    "source": "EVENTS",
+    "product": "20200907events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200908events.txt",
+    "source": "EVENTS",
+    "product": "20200908events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200909events.txt",
+    "source": "EVENTS",
+    "product": "20200909events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200910events.txt",
+    "source": "EVENTS",
+    "product": "20200910events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200911events.txt",
+    "source": "EVENTS",
+    "product": "20200911events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200912events.txt",
+    "source": "EVENTS",
+    "product": "20200912events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200913events.txt",
+    "source": "EVENTS",
+    "product": "20200913events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200914events.txt",
+    "source": "EVENTS",
+    "product": "20200914events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200915events.txt",
+    "source": "EVENTS",
+    "product": "20200915events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200916events.txt",
+    "source": "EVENTS",
+    "product": "20200916events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200917events.txt",
+    "source": "EVENTS",
+    "product": "20200917events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200918events.txt",
+    "source": "EVENTS",
+    "product": "20200918events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200919events.txt",
+    "source": "EVENTS",
+    "product": "20200919events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200920events.txt",
+    "source": "EVENTS",
+    "product": "20200920events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200921events.txt",
+    "source": "EVENTS",
+    "product": "20200921events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200922events.txt",
+    "source": "EVENTS",
+    "product": "20200922events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200923events.txt",
+    "source": "EVENTS",
+    "product": "20200923events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200924events.txt",
+    "source": "EVENTS",
+    "product": "20200924events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200925events.txt",
+    "source": "EVENTS",
+    "product": "20200925events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200926events.txt",
+    "source": "EVENTS",
+    "product": "20200926events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200927events.txt",
+    "source": "EVENTS",
+    "product": "20200927events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200928events.txt",
+    "source": "EVENTS",
+    "product": "20200928events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200929events.txt",
+    "source": "EVENTS",
+    "product": "20200929events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20200930events.txt",
+    "source": "EVENTS",
+    "product": "20200930events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201001events.txt",
+    "source": "EVENTS",
+    "product": "20201001events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201002events.txt",
+    "source": "EVENTS",
+    "product": "20201002events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201003events.txt",
+    "source": "EVENTS",
+    "product": "20201003events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201004events.txt",
+    "source": "EVENTS",
+    "product": "20201004events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201005events.txt",
+    "source": "EVENTS",
+    "product": "20201005events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201006events.txt",
+    "source": "EVENTS",
+    "product": "20201006events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201007events.txt",
+    "source": "EVENTS",
+    "product": "20201007events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201008events.txt",
+    "source": "EVENTS",
+    "product": "20201008events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201009events.txt",
+    "source": "EVENTS",
+    "product": "20201009events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201010events.txt",
+    "source": "EVENTS",
+    "product": "20201010events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201011events.txt",
+    "source": "EVENTS",
+    "product": "20201011events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201012events.txt",
+    "source": "EVENTS",
+    "product": "20201012events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201013events.txt",
+    "source": "EVENTS",
+    "product": "20201013events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201014events.txt",
+    "source": "EVENTS",
+    "product": "20201014events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201015events.txt",
+    "source": "EVENTS",
+    "product": "20201015events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201016events.txt",
+    "source": "EVENTS",
+    "product": "20201016events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201017events.txt",
+    "source": "EVENTS",
+    "product": "20201017events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201018events.txt",
+    "source": "EVENTS",
+    "product": "20201018events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201019events.txt",
+    "source": "EVENTS",
+    "product": "20201019events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201020events.txt",
+    "source": "EVENTS",
+    "product": "20201020events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201021events.txt",
+    "source": "EVENTS",
+    "product": "20201021events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201022events.txt",
+    "source": "EVENTS",
+    "product": "20201022events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201023events.txt",
+    "source": "EVENTS",
+    "product": "20201023events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201024events.txt",
+    "source": "EVENTS",
+    "product": "20201024events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201025events.txt",
+    "source": "EVENTS",
+    "product": "20201025events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201026events.txt",
+    "source": "EVENTS",
+    "product": "20201026events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201027events.txt",
+    "source": "EVENTS",
+    "product": "20201027events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201028events.txt",
+    "source": "EVENTS",
+    "product": "20201028events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201029events.txt",
+    "source": "EVENTS",
+    "product": "20201029events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201030events.txt",
+    "source": "EVENTS",
+    "product": "20201030events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201031events.txt",
+    "source": "EVENTS",
+    "product": "20201031events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201101events.txt",
+    "source": "EVENTS",
+    "product": "20201101events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201102events.txt",
+    "source": "EVENTS",
+    "product": "20201102events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201103events.txt",
+    "source": "EVENTS",
+    "product": "20201103events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201104events.txt",
+    "source": "EVENTS",
+    "product": "20201104events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201105events.txt",
+    "source": "EVENTS",
+    "product": "20201105events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201106events.txt",
+    "source": "EVENTS",
+    "product": "20201106events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201107events.txt",
+    "source": "EVENTS",
+    "product": "20201107events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201108events.txt",
+    "source": "EVENTS",
+    "product": "20201108events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201109events.txt",
+    "source": "EVENTS",
+    "product": "20201109events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201110events.txt",
+    "source": "EVENTS",
+    "product": "20201110events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201111events.txt",
+    "source": "EVENTS",
+    "product": "20201111events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201112events.txt",
+    "source": "EVENTS",
+    "product": "20201112events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201113events.txt",
+    "source": "EVENTS",
+    "product": "20201113events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201114events.txt",
+    "source": "EVENTS",
+    "product": "20201114events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201115events.txt",
+    "source": "EVENTS",
+    "product": "20201115events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201116events.txt",
+    "source": "EVENTS",
+    "product": "20201116events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201117events.txt",
+    "source": "EVENTS",
+    "product": "20201117events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201118events.txt",
+    "source": "EVENTS",
+    "product": "20201118events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201119events.txt",
+    "source": "EVENTS",
+    "product": "20201119events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201120events.txt",
+    "source": "EVENTS",
+    "product": "20201120events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201121events.txt",
+    "source": "EVENTS",
+    "product": "20201121events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201122events.txt",
+    "source": "EVENTS",
+    "product": "20201122events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201123events.txt",
+    "source": "EVENTS",
+    "product": "20201123events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201124events.txt",
+    "source": "EVENTS",
+    "product": "20201124events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201125events.txt",
+    "source": "EVENTS",
+    "product": "20201125events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201126events.txt",
+    "source": "EVENTS",
+    "product": "20201126events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201127events.txt",
+    "source": "EVENTS",
+    "product": "20201127events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201128events.txt",
+    "source": "EVENTS",
+    "product": "20201128events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201129events.txt",
+    "source": "EVENTS",
+    "product": "20201129events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201130events.txt",
+    "source": "EVENTS",
+    "product": "20201130events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201201events.txt",
+    "source": "EVENTS",
+    "product": "20201201events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201202events.txt",
+    "source": "EVENTS",
+    "product": "20201202events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201203events.txt",
+    "source": "EVENTS",
+    "product": "20201203events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201204events.txt",
+    "source": "EVENTS",
+    "product": "20201204events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201205events.txt",
+    "source": "EVENTS",
+    "product": "20201205events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201206events.txt",
+    "source": "EVENTS",
+    "product": "20201206events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201207events.txt",
+    "source": "EVENTS",
+    "product": "20201207events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201208events.txt",
+    "source": "EVENTS",
+    "product": "20201208events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201209events.txt",
+    "source": "EVENTS",
+    "product": "20201209events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201210events.txt",
+    "source": "EVENTS",
+    "product": "20201210events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201211events.txt",
+    "source": "EVENTS",
+    "product": "20201211events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201212events.txt",
+    "source": "EVENTS",
+    "product": "20201212events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201213events.txt",
+    "source": "EVENTS",
+    "product": "20201213events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201214events.txt",
+    "source": "EVENTS",
+    "product": "20201214events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201215events.txt",
+    "source": "EVENTS",
+    "product": "20201215events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201216events.txt",
+    "source": "EVENTS",
+    "product": "20201216events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201217events.txt",
+    "source": "EVENTS",
+    "product": "20201217events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201218events.txt",
+    "source": "EVENTS",
+    "product": "20201218events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201219events.txt",
+    "source": "EVENTS",
+    "product": "20201219events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201220events.txt",
+    "source": "EVENTS",
+    "product": "20201220events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201221events.txt",
+    "source": "EVENTS",
+    "product": "20201221events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201222events.txt",
+    "source": "EVENTS",
+    "product": "20201222events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201223events.txt",
+    "source": "EVENTS",
+    "product": "20201223events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201224events.txt",
+    "source": "EVENTS",
+    "product": "20201224events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201225events.txt",
+    "source": "EVENTS",
+    "product": "20201225events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201226events.txt",
+    "source": "EVENTS",
+    "product": "20201226events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201227events.txt",
+    "source": "EVENTS",
+    "product": "20201227events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201228events.txt",
+    "source": "EVENTS",
+    "product": "20201228events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201229events.txt",
+    "source": "EVENTS",
+    "product": "20201229events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20201230events.txt",
+    "source": "EVENTS",
+    "product": "20201230events.txt",
+    "issued": "",
+    "sdfNumber": null,
+    "sections": []
+  }
+]

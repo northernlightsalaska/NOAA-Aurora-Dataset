@@ -1,0 +1,2922 @@
+[
+  {
+    "file": "20060101GEOA.txt",
+    "source": "GEOA",
+    "product": "0101GEOA.txt",
+    "issued": "2006 Jan 01 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060102GEOA.txt",
+    "source": "GEOA",
+    "product": "0102GEOA.txt",
+    "issued": "2006 Jan 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060103GEOA.txt",
+    "source": "GEOA",
+    "product": "0103GEOA.txt",
+    "issued": "2006 Jan 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060104GEOA.txt",
+    "source": "GEOA",
+    "product": "0104GEOA.txt",
+    "issued": "2006 Jan 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060105GEOA.txt",
+    "source": "GEOA",
+    "product": "0105GEOA.txt",
+    "issued": "2006 Jan 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060106GEOA.txt",
+    "source": "GEOA",
+    "product": "0106GEOA.txt",
+    "issued": "2006 Jan 06 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060107GEOA.txt",
+    "source": "GEOA",
+    "product": "0107GEOA.txt",
+    "issued": "2006 Jan 07 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060108GEOA.txt",
+    "source": "GEOA",
+    "product": "0108GEOA.txt",
+    "issued": "2006 Jan 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060109GEOA.txt",
+    "source": "GEOA",
+    "product": "0109GEOA.txt",
+    "issued": "2006 Jan 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060110GEOA.txt",
+    "source": "GEOA",
+    "product": "0110GEOA.txt",
+    "issued": "2006 Jan 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060111GEOA.txt",
+    "source": "GEOA",
+    "product": "0111GEOA.txt",
+    "issued": "2006 Jan 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060112GEOA.txt",
+    "source": "GEOA",
+    "product": "0112GEOA.txt",
+    "issued": "2006 Jan 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060113GEOA.txt",
+    "source": "GEOA",
+    "product": "0113GEOA.txt",
+    "issued": "2006 Jan 13 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060114GEOA.txt",
+    "source": "GEOA",
+    "product": "0114GEOA.txt",
+    "issued": "2006 Jan 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060115GEOA.txt",
+    "source": "GEOA",
+    "product": "0115GEOA.txt",
+    "issued": "2006 Jan 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060116GEOA.txt",
+    "source": "GEOA",
+    "product": "0116GEOA.txt",
+    "issued": "2006 Jan 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060117GEOA.txt",
+    "source": "GEOA",
+    "product": "0117GEOA.txt",
+    "issued": "2006 Jan 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060118GEOA.txt",
+    "source": "GEOA",
+    "product": "0118GEOA.txt",
+    "issued": "2006 Jan 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060119GEOA.txt",
+    "source": "GEOA",
+    "product": "0119GEOA.txt",
+    "issued": "2006 Jan 19 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060120GEOA.txt",
+    "source": "GEOA",
+    "product": "0120GEOA.txt",
+    "issued": "2006 Jan 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060121GEOA.txt",
+    "source": "GEOA",
+    "product": "0121GEOA.txt",
+    "issued": "2006 Jan 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060122GEOA.txt",
+    "source": "GEOA",
+    "product": "0122GEOA.txt",
+    "issued": "2006 Jan 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060123GEOA.txt",
+    "source": "GEOA",
+    "product": "0123GEOA.txt",
+    "issued": "2006 Jan 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060124GEOA.txt",
+    "source": "GEOA",
+    "product": "0124GEOA.txt",
+    "issued": "2006 Jan 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060125GEOA.txt",
+    "source": "GEOA",
+    "product": "0125GEOA.txt",
+    "issued": "2006 Jan 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060126GEOA.txt",
+    "source": "GEOA",
+    "product": "0126GEOA.txt",
+    "issued": "2006 Jan 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060127GEOA.txt",
+    "source": "GEOA",
+    "product": "0127GEOA.txt",
+    "issued": "2006 Jan 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060128GEOA.txt",
+    "source": "GEOA",
+    "product": "0128GEOA.txt",
+    "issued": "2006 Jan 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060129GEOA.txt",
+    "source": "GEOA",
+    "product": "0129GEOA.txt",
+    "issued": "2006 Jan 29 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060130GEOA.txt",
+    "source": "GEOA",
+    "product": "0130GEOA.txt",
+    "issued": "2006 Jan 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060131GEOA.txt",
+    "source": "GEOA",
+    "product": "0131GEOA.txt",
+    "issued": "2006 Jan 31 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060201GEOA.txt",
+    "source": "GEOA",
+    "product": "0201GEOA.txt",
+    "issued": "2006 Feb 01 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060202GEOA.txt",
+    "source": "GEOA",
+    "product": "0202GEOA.txt",
+    "issued": "2006 Feb 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060203GEOA.txt",
+    "source": "GEOA",
+    "product": "0203GEOA.txt",
+    "issued": "2006 Feb 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060204GEOA.txt",
+    "source": "GEOA",
+    "product": "0204GEOA.txt",
+    "issued": "2006 Feb 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060205GEOA.txt",
+    "source": "GEOA",
+    "product": "0205GEOA.txt",
+    "issued": "2006 Feb 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060206GEOA.txt",
+    "source": "GEOA",
+    "product": "0206GEOA.txt",
+    "issued": "2006 Feb 06 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060207GEOA.txt",
+    "source": "GEOA",
+    "product": "0207GEOA.txt",
+    "issued": "2006 Feb 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060208GEOA.txt",
+    "source": "GEOA",
+    "product": "0208GEOA.txt",
+    "issued": "2006 Feb 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060209GEOA.txt",
+    "source": "GEOA",
+    "product": "0209GEOA.txt",
+    "issued": "2006 Feb 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060210GEOA.txt",
+    "source": "GEOA",
+    "product": "0210GEOA.txt",
+    "issued": "2006 Feb 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060211GEOA.txt",
+    "source": "GEOA",
+    "product": "0211GEOA.txt",
+    "issued": "2006 Feb 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060212GEOA.txt",
+    "source": "GEOA",
+    "product": "0212GEOA.txt",
+    "issued": "2006 Feb 12 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060213GEOA.txt",
+    "source": "GEOA",
+    "product": "0213GEOA.txt",
+    "issued": "2006 Feb 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060214GEOA.txt",
+    "source": "GEOA",
+    "product": "0214GEOA.txt",
+    "issued": "2006 Feb 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060215GEOA.txt",
+    "source": "GEOA",
+    "product": "0215GEOA.txt",
+    "issued": "2006 Feb 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060216GEOA.txt",
+    "source": "GEOA",
+    "product": "0216GEOA.txt",
+    "issued": "2006 Feb 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060217GEOA.txt",
+    "source": "GEOA",
+    "product": "0217GEOA.txt",
+    "issued": "2006 Feb 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060218GEOA.txt",
+    "source": "GEOA",
+    "product": "0218GEOA.txt",
+    "issued": "2006 Feb 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060219GEOA.txt",
+    "source": "GEOA",
+    "product": "0219GEOA.txt",
+    "issued": "2006 Feb 19 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060220GEOA.txt",
+    "source": "GEOA",
+    "product": "0220GEOA.txt",
+    "issued": "2006 Feb 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060221GEOA.txt",
+    "source": "GEOA",
+    "product": "0221GEOA.txt",
+    "issued": "2006 Feb 21 0339 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060222GEOA.txt",
+    "source": "GEOA",
+    "product": "0222GEOA.txt",
+    "issued": "2006 Feb 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060223GEOA.txt",
+    "source": "GEOA",
+    "product": "0223GEOA.txt",
+    "issued": "2006 Feb 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060224GEOA.txt",
+    "source": "GEOA",
+    "product": "0224GEOA.txt",
+    "issued": "2006 Feb 24 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060225GEOA.txt",
+    "source": "GEOA",
+    "product": "0225GEOA.txt",
+    "issued": "2006 Feb 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060226GEOA.txt",
+    "source": "GEOA",
+    "product": "0226GEOA.txt",
+    "issued": "2006 Feb 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060227GEOA.txt",
+    "source": "GEOA",
+    "product": "0227GEOA.txt",
+    "issued": "2006 Feb 27 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060228GEOA.txt",
+    "source": "GEOA",
+    "product": "0228GEOA.txt",
+    "issued": "2006 Feb 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060301GEOA.txt",
+    "source": "GEOA",
+    "product": "0301GEOA.txt",
+    "issued": "2006 Mar 01 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060302GEOA.txt",
+    "source": "GEOA",
+    "product": "0302GEOA.txt",
+    "issued": "2006 Mar 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060303GEOA.txt",
+    "source": "GEOA",
+    "product": "0303GEOA.txt",
+    "issued": "2006 Mar 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060304GEOA.txt",
+    "source": "GEOA",
+    "product": "0304GEOA.txt",
+    "issued": "2006 Mar 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060305GEOA.txt",
+    "source": "GEOA",
+    "product": "0305GEOA.txt",
+    "issued": "2006 Mar 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060306GEOA.txt",
+    "source": "GEOA",
+    "product": "0306GEOA.txt",
+    "issued": "2006 Mar 06 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060307GEOA.txt",
+    "source": "GEOA",
+    "product": "0307GEOA.txt",
+    "issued": "2006 Mar 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060308GEOA.txt",
+    "source": "GEOA",
+    "product": "0308GEOA.txt",
+    "issued": "2006 Mar 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060309GEOA.txt",
+    "source": "GEOA",
+    "product": "0309GEOA.txt",
+    "issued": "2006 Mar 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060310GEOA.txt",
+    "source": "GEOA",
+    "product": "0310GEOA.txt",
+    "issued": "2006 Mar 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060311GEOA.txt",
+    "source": "GEOA",
+    "product": "0311GEOA.txt",
+    "issued": "2006 Mar 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060312GEOA.txt",
+    "source": "GEOA",
+    "product": "0312GEOA.txt",
+    "issued": "2006 Mar 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060313GEOA.txt",
+    "source": "GEOA",
+    "product": "0313GEOA.txt",
+    "issued": "2006 Mar 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060314GEOA.txt",
+    "source": "GEOA",
+    "product": "0314GEOA.txt",
+    "issued": "2006 Mar 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060315GEOA.txt",
+    "source": "GEOA",
+    "product": "0315GEOA.txt",
+    "issued": "2006 Mar 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060316GEOA.txt",
+    "source": "GEOA",
+    "product": "0316GEOA.txt",
+    "issued": "2006 Mar 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060317GEOA.txt",
+    "source": "GEOA",
+    "product": "0317GEOA.txt",
+    "issued": "2006 Mar 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060318GEOA.txt",
+    "source": "GEOA",
+    "product": "0318GEOA.txt",
+    "issued": "2006 Mar 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060319GEOA.txt",
+    "source": "GEOA",
+    "product": "0319GEOA.txt",
+    "issued": "2006 Mar 19 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060320GEOA.txt",
+    "source": "GEOA",
+    "product": "0320GEOA.txt",
+    "issued": "2006 Mar 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060321GEOA.txt",
+    "source": "GEOA",
+    "product": "0321GEOA.txt",
+    "issued": "2006 Mar 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060322GEOA.txt",
+    "source": "GEOA",
+    "product": "0322GEOA.txt",
+    "issued": "2006 Mar 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060323GEOA.txt",
+    "source": "GEOA",
+    "product": "0323GEOA.txt",
+    "issued": "2006 Mar 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060324GEOA.txt",
+    "source": "GEOA",
+    "product": "0324GEOA.txt",
+    "issued": "2006 Mar 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060325GEOA.txt",
+    "source": "GEOA",
+    "product": "0325GEOA.txt",
+    "issued": "2006 Mar 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060326GEOA.txt",
+    "source": "GEOA",
+    "product": "0326GEOA.txt",
+    "issued": "2006 Mar 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060327GEOA.txt",
+    "source": "GEOA",
+    "product": "0327GEOA.txt",
+    "issued": "2006 Mar 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060328GEOA.txt",
+    "source": "GEOA",
+    "product": "0328GEOA.txt",
+    "issued": "2006 Mar 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060329GEOA.txt",
+    "source": "GEOA",
+    "product": "0329GEOA.txt",
+    "issued": "2006 Mar 29 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060330GEOA.txt",
+    "source": "GEOA",
+    "product": "0330GEOA.txt",
+    "issued": "2006 Mar 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060331GEOA.txt",
+    "source": "GEOA",
+    "product": "0331GEOA.txt",
+    "issued": "2006 Mar 31 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060401GEOA.txt",
+    "source": "GEOA",
+    "product": "0401GEOA.txt",
+    "issued": "2006 Apr 01 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060402GEOA.txt",
+    "source": "GEOA",
+    "product": "0402GEOA.txt",
+    "issued": "2006 Apr 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060403GEOA.txt",
+    "source": "GEOA",
+    "product": "0403GEOA.txt",
+    "issued": "2006 Apr 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060404GEOA.txt",
+    "source": "GEOA",
+    "product": "0404GEOA.txt",
+    "issued": "2006 Apr 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060405GEOA.txt",
+    "source": "GEOA",
+    "product": "0405GEOA.txt",
+    "issued": "2006 Apr 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060406GEOA.txt",
+    "source": "GEOA",
+    "product": "0406GEOA.txt",
+    "issued": "2006 Apr 06 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060407GEOA.txt",
+    "source": "GEOA",
+    "product": "0407GEOA.txt",
+    "issued": "2006 Apr 07 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060408GEOA.txt",
+    "source": "GEOA",
+    "product": "0408GEOA.txt",
+    "issued": "2006 Apr 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060409GEOA.txt",
+    "source": "GEOA",
+    "product": "0409GEOA.txt",
+    "issued": "2006 Apr 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060410GEOA.txt",
+    "source": "GEOA",
+    "product": "0410GEOA.txt",
+    "issued": "2006 Apr 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060411GEOA.txt",
+    "source": "GEOA",
+    "product": "0411GEOA.txt",
+    "issued": "2006 Apr 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060412GEOA.txt",
+    "source": "GEOA",
+    "product": "0412GEOA.txt",
+    "issued": "2006 Apr 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060413GEOA.txt",
+    "source": "GEOA",
+    "product": "0413GEOA.txt",
+    "issued": "2006 Apr 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060414GEOA.txt",
+    "source": "GEOA",
+    "product": "0414GEOA.txt",
+    "issued": "2006 Apr 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060415GEOA.txt",
+    "source": "GEOA",
+    "product": "0415GEOA.txt",
+    "issued": "2006 Apr 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060416GEOA.txt",
+    "source": "GEOA",
+    "product": "0416GEOA.txt",
+    "issued": "2006 Apr 16 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060417GEOA.txt",
+    "source": "GEOA",
+    "product": "0417GEOA.txt",
+    "issued": "2006 Apr 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060418GEOA.txt",
+    "source": "GEOA",
+    "product": "0418GEOA.txt",
+    "issued": "2006 Apr 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060419GEOA.txt",
+    "source": "GEOA",
+    "product": "0419GEOA.txt",
+    "issued": "2006 Apr 19 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060420GEOA.txt",
+    "source": "GEOA",
+    "product": "0420GEOA.txt",
+    "issued": "2006 Apr 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060421GEOA.txt",
+    "source": "GEOA",
+    "product": "0421GEOA.txt",
+    "issued": "2006 Apr 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060422GEOA.txt",
+    "source": "GEOA",
+    "product": "0422GEOA.txt",
+    "issued": "2006 Apr 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060423GEOA.txt",
+    "source": "GEOA",
+    "product": "0423GEOA.txt",
+    "issued": "2006 Apr 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060424GEOA.txt",
+    "source": "GEOA",
+    "product": "0424GEOA.txt",
+    "issued": "2006 Apr 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060425GEOA.txt",
+    "source": "GEOA",
+    "product": "0425GEOA.txt",
+    "issued": "2006 Apr 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060426GEOA.txt",
+    "source": "GEOA",
+    "product": "0426GEOA.txt",
+    "issued": "2006 Apr 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060427GEOA.txt",
+    "source": "GEOA",
+    "product": "0427GEOA.txt",
+    "issued": "2006 Apr 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060428GEOA.txt",
+    "source": "GEOA",
+    "product": "0428GEOA.txt",
+    "issued": "2006 Apr 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060429GEOA.txt",
+    "source": "GEOA",
+    "product": "0429GEOA.txt",
+    "issued": "2006 Apr 29 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060430GEOA.txt",
+    "source": "GEOA",
+    "product": "0430GEOA.txt",
+    "issued": "2006 Apr 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060501GEOA.txt",
+    "source": "GEOA",
+    "product": "0501GEOA.txt",
+    "issued": "2006 May 01 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060502GEOA.txt",
+    "source": "GEOA",
+    "product": "0502GEOA.txt",
+    "issued": "2006 May 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060503GEOA.txt",
+    "source": "GEOA",
+    "product": "0503GEOA.txt",
+    "issued": "2006 May 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060504GEOA.txt",
+    "source": "GEOA",
+    "product": "0504GEOA.txt",
+    "issued": "2006 May 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060505GEOA.txt",
+    "source": "GEOA",
+    "product": "0505GEOA.txt",
+    "issued": "2006 May 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060506GEOA.txt",
+    "source": "GEOA",
+    "product": "0506GEOA.txt",
+    "issued": "2006 May 06 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060507GEOA.txt",
+    "source": "GEOA",
+    "product": "0507GEOA.txt",
+    "issued": "2006 May 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060508GEOA.txt",
+    "source": "GEOA",
+    "product": "0508GEOA.txt",
+    "issued": "2006 May 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060509GEOA.txt",
+    "source": "GEOA",
+    "product": "0509GEOA.txt",
+    "issued": "2006 May 09 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060510GEOA.txt",
+    "source": "GEOA",
+    "product": "0510GEOA.txt",
+    "issued": "2006 May 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060511GEOA.txt",
+    "source": "GEOA",
+    "product": "0511GEOA.txt",
+    "issued": "2006 May 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060512GEOA.txt",
+    "source": "GEOA",
+    "product": "0512GEOA.txt",
+    "issued": "2006 May 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060513GEOA.txt",
+    "source": "GEOA",
+    "product": "0513GEOA.txt",
+    "issued": "2006 May 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060514GEOA.txt",
+    "source": "GEOA",
+    "product": "0514GEOA.txt",
+    "issued": "2006 May 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060515GEOA.txt",
+    "source": "GEOA",
+    "product": "0515GEOA.txt",
+    "issued": "2006 May 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060516GEOA.txt",
+    "source": "GEOA",
+    "product": "0516GEOA.txt",
+    "issued": "2006 May 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060517GEOA.txt",
+    "source": "GEOA",
+    "product": "0517GEOA.txt",
+    "issued": "2006 May 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060518GEOA.txt",
+    "source": "GEOA",
+    "product": "0518GEOA.txt",
+    "issued": "2006 May 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060519GEOA.txt",
+    "source": "GEOA",
+    "product": "0519GEOA.txt",
+    "issued": "2006 May 19 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060520GEOA.txt",
+    "source": "GEOA",
+    "product": "0520GEOA.txt",
+    "issued": "2006 May 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060521GEOA.txt",
+    "source": "GEOA",
+    "product": "0521GEOA.txt",
+    "issued": "2006 May 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060522GEOA.txt",
+    "source": "GEOA",
+    "product": "0522GEOA.txt",
+    "issued": "2006 May 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060523GEOA.txt",
+    "source": "GEOA",
+    "product": "0523GEOA.txt",
+    "issued": "2006 May 23 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060524GEOA.txt",
+    "source": "GEOA",
+    "product": "0524GEOA.txt",
+    "issued": "2006 May 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060525GEOA.txt",
+    "source": "GEOA",
+    "product": "0525GEOA.txt",
+    "issued": "2006 May 25 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060526GEOA.txt",
+    "source": "GEOA",
+    "product": "0526GEOA.txt",
+    "issued": "2006 May 26 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060527GEOA.txt",
+    "source": "GEOA",
+    "product": "0527GEOA.txt",
+    "issued": "2006 May 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060528GEOA.txt",
+    "source": "GEOA",
+    "product": "0528GEOA.txt",
+    "issued": "2006 May 28 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060529GEOA.txt",
+    "source": "GEOA",
+    "product": "0529GEOA.txt",
+    "issued": "2006 May 29 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060530GEOA.txt",
+    "source": "GEOA",
+    "product": "0530GEOA.txt",
+    "issued": "2006 May 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060531GEOA.txt",
+    "source": "GEOA",
+    "product": "0531GEOA.txt",
+    "issued": "2006 May 31 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060601GEOA.txt",
+    "source": "GEOA",
+    "product": "0601GEOA.txt",
+    "issued": "2006 Jun 01 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060602GEOA.txt",
+    "source": "GEOA",
+    "product": "0602GEOA.txt",
+    "issued": "2006 Jun 02 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060603GEOA.txt",
+    "source": "GEOA",
+    "product": "0603GEOA.txt",
+    "issued": "2006 Jun 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060604GEOA.txt",
+    "source": "GEOA",
+    "product": "0604GEOA.txt",
+    "issued": "2006 Jun 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060605GEOA.txt",
+    "source": "GEOA",
+    "product": "0605GEOA.txt",
+    "issued": "2006 Jun 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060606GEOA.txt",
+    "source": "GEOA",
+    "product": "0606GEOA.txt",
+    "issued": "2006 Jun 06 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060607GEOA.txt",
+    "source": "GEOA",
+    "product": "0607GEOA.txt",
+    "issued": "2006 Jun 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060608GEOA.txt",
+    "source": "GEOA",
+    "product": "0608GEOA.txt",
+    "issued": "2006 Jun 08 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060609GEOA.txt",
+    "source": "GEOA",
+    "product": "0609GEOA.txt",
+    "issued": "2006 Jun 09 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060610GEOA.txt",
+    "source": "GEOA",
+    "product": "0610GEOA.txt",
+    "issued": "2006 Jun 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060611GEOA.txt",
+    "source": "GEOA",
+    "product": "0611GEOA.txt",
+    "issued": "2006 Jun 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060612GEOA.txt",
+    "source": "GEOA",
+    "product": "0612GEOA.txt",
+    "issued": "2006 Jun 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060613GEOA.txt",
+    "source": "GEOA",
+    "product": "0613GEOA.txt",
+    "issued": "2006 Jun 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060614GEOA.txt",
+    "source": "GEOA",
+    "product": "0614GEOA.txt",
+    "issued": "2006 Jun 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060615GEOA.txt",
+    "source": "GEOA",
+    "product": "0615GEOA.txt",
+    "issued": "2006 Jun 15 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060616GEOA.txt",
+    "source": "GEOA",
+    "product": "0616GEOA.txt",
+    "issued": "2006 Jun 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060617GEOA.txt",
+    "source": "GEOA",
+    "product": "0617GEOA.txt",
+    "issued": "2006 Jun 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060618GEOA.txt",
+    "source": "GEOA",
+    "product": "0618GEOA.txt",
+    "issued": "2006 Jun 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060619GEOA.txt",
+    "source": "GEOA",
+    "product": "0619GEOA.txt",
+    "issued": "2006 Jun 19 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060620GEOA.txt",
+    "source": "GEOA",
+    "product": "0620GEOA.txt",
+    "issued": "2006 Jun 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060621GEOA.txt",
+    "source": "GEOA",
+    "product": "0621GEOA.txt",
+    "issued": "2006 Jun 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060622GEOA.txt",
+    "source": "GEOA",
+    "product": "0622GEOA.txt",
+    "issued": "2006 Jun 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060623GEOA.txt",
+    "source": "GEOA",
+    "product": "0623GEOA.txt",
+    "issued": "2006 Jun 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060624GEOA.txt",
+    "source": "GEOA",
+    "product": "0624GEOA.txt",
+    "issued": "2006 Jun 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060625GEOA.txt",
+    "source": "GEOA",
+    "product": "0625GEOA.txt",
+    "issued": "2006 Jun 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060626GEOA.txt",
+    "source": "GEOA",
+    "product": "0626GEOA.txt",
+    "issued": "2006 Jun 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060627GEOA.txt",
+    "source": "GEOA",
+    "product": "0627GEOA.txt",
+    "issued": "2006 Jun 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060628GEOA.txt",
+    "source": "GEOA",
+    "product": "0628GEOA.txt",
+    "issued": "2006 Jun 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060629GEOA.txt",
+    "source": "GEOA",
+    "product": "0629GEOA.txt",
+    "issued": "2006 Jun 29 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060630GEOA.txt",
+    "source": "GEOA",
+    "product": "0630GEOA.txt",
+    "issued": "2006 Jun 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060701GEOA.txt",
+    "source": "GEOA",
+    "product": "0701GEOA.txt",
+    "issued": "2006 Jul 01 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060702GEOA.txt",
+    "source": "GEOA",
+    "product": "0702GEOA.txt",
+    "issued": "2006 Jul 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060703GEOA.txt",
+    "source": "GEOA",
+    "product": "0703GEOA.txt",
+    "issued": "2006 Jul 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060704GEOA.txt",
+    "source": "GEOA",
+    "product": "0704GEOA.txt",
+    "issued": "2006 Jul 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060705GEOA.txt",
+    "source": "GEOA",
+    "product": "0705GEOA.txt",
+    "issued": "2006 Jul 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060706GEOA.txt",
+    "source": "GEOA",
+    "product": "0706GEOA.txt",
+    "issued": "2006 Jul 06 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060707GEOA.txt",
+    "source": "GEOA",
+    "product": "0707GEOA.txt",
+    "issued": "2006 Jul 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060708GEOA.txt",
+    "source": "GEOA",
+    "product": "0708GEOA.txt",
+    "issued": "2006 Jul 08 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060709GEOA.txt",
+    "source": "GEOA",
+    "product": "0709GEOA.txt",
+    "issued": "2006 Jul 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060710GEOA.txt",
+    "source": "GEOA",
+    "product": "0710GEOA.txt",
+    "issued": "2006 Jul 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060711GEOA.txt",
+    "source": "GEOA",
+    "product": "0711GEOA.txt",
+    "issued": "2006 Jul 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060712GEOA.txt",
+    "source": "GEOA",
+    "product": "0712GEOA.txt",
+    "issued": "2006 Jul 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060713GEOA.txt",
+    "source": "GEOA",
+    "product": "0713GEOA.txt",
+    "issued": "2006 Jul 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060714GEOA.txt",
+    "source": "GEOA",
+    "product": "0714GEOA.txt",
+    "issued": "2006 Jul 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060715GEOA.txt",
+    "source": "GEOA",
+    "product": "0715GEOA.txt",
+    "issued": "2006 Jul 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060716GEOA.txt",
+    "source": "GEOA",
+    "product": "0716GEOA.txt",
+    "issued": "2006 Jul 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060717GEOA.txt",
+    "source": "GEOA",
+    "product": "0717GEOA.txt",
+    "issued": "2006 Jul 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060718GEOA.txt",
+    "source": "GEOA",
+    "product": "0718GEOA.txt",
+    "issued": "2006 Jul 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060719GEOA.txt",
+    "source": "GEOA",
+    "product": "0719GEOA.txt",
+    "issued": "2006 Jul 19 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060720GEOA.txt",
+    "source": "GEOA",
+    "product": "0720GEOA.txt",
+    "issued": "2006 Jul 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060721GEOA.txt",
+    "source": "GEOA",
+    "product": "0721GEOA.txt",
+    "issued": "2006 Jul 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060722GEOA.txt",
+    "source": "GEOA",
+    "product": "0722GEOA.txt",
+    "issued": "2006 Jul 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060723GEOA.txt",
+    "source": "GEOA",
+    "product": "0723GEOA.txt",
+    "issued": "2006 Jul 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060724GEOA.txt",
+    "source": "GEOA",
+    "product": "0724GEOA.txt",
+    "issued": "2006 Jul 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060725GEOA.txt",
+    "source": "GEOA",
+    "product": "0725GEOA.txt",
+    "issued": "2006 Jul 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060726GEOA.txt",
+    "source": "GEOA",
+    "product": "0726GEOA.txt",
+    "issued": "2006 Jul 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060727GEOA.txt",
+    "source": "GEOA",
+    "product": "0727GEOA.txt",
+    "issued": "2006 Jul 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060728GEOA.txt",
+    "source": "GEOA",
+    "product": "0728GEOA.txt",
+    "issued": "2006 Jul 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060729GEOA.txt",
+    "source": "GEOA",
+    "product": "0729GEOA.txt",
+    "issued": "2006 Jul 29 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060730GEOA.txt",
+    "source": "GEOA",
+    "product": "0730GEOA.txt",
+    "issued": "2006 Jul 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060731GEOA.txt",
+    "source": "GEOA",
+    "product": "0731GEOA.txt",
+    "issued": "2006 Jul 31 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060801GEOA.txt",
+    "source": "GEOA",
+    "product": "0801GEOA.txt",
+    "issued": "2006 Aug 01 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060802GEOA.txt",
+    "source": "GEOA",
+    "product": "0802GEOA.txt",
+    "issued": "2006 Aug 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060803GEOA.txt",
+    "source": "GEOA",
+    "product": "0803GEOA.txt",
+    "issued": "2006 Aug 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060804GEOA.txt",
+    "source": "GEOA",
+    "product": "0804GEOA.txt",
+    "issued": "2006 Aug 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060805GEOA.txt",
+    "source": "GEOA",
+    "product": "0805GEOA.txt",
+    "issued": "2006 Aug 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060806GEOA.txt",
+    "source": "GEOA",
+    "product": "0806GEOA.txt",
+    "issued": "2006 Aug 06 0354 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060807GEOA.txt",
+    "source": "GEOA",
+    "product": "0807GEOA.txt",
+    "issued": "2006 Aug 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060808GEOA.txt",
+    "source": "GEOA",
+    "product": "0808GEOA.txt",
+    "issued": "2006 Aug 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060809GEOA.txt",
+    "source": "GEOA",
+    "product": "0809GEOA.txt",
+    "issued": "2006 Aug 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060810GEOA.txt",
+    "source": "GEOA",
+    "product": "0810GEOA.txt",
+    "issued": "2006 Aug 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060811GEOA.txt",
+    "source": "GEOA",
+    "product": "0811GEOA.txt",
+    "issued": "2006 Aug 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060812GEOA.txt",
+    "source": "GEOA",
+    "product": "0812GEOA.txt",
+    "issued": "2006 Aug 12 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060813GEOA.txt",
+    "source": "GEOA",
+    "product": "0813GEOA.txt",
+    "issued": "2006 Aug 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060814GEOA.txt",
+    "source": "GEOA",
+    "product": "0814GEOA.txt",
+    "issued": "2006 Aug 14 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060815GEOA.txt",
+    "source": "GEOA",
+    "product": "0815GEOA.txt",
+    "issued": "2006 Aug 15 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060816GEOA.txt",
+    "source": "GEOA",
+    "product": "0816GEOA.txt",
+    "issued": "2006 Aug 16 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060817GEOA.txt",
+    "source": "GEOA",
+    "product": "0817GEOA.txt",
+    "issued": "2006 Aug 17 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060818GEOA.txt",
+    "source": "GEOA",
+    "product": "0818GEOA.txt",
+    "issued": "2006 Aug 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060819GEOA.txt",
+    "source": "GEOA",
+    "product": "0819GEOA.txt",
+    "issued": "2006 Aug 19 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060820GEOA.txt",
+    "source": "GEOA",
+    "product": "0820GEOA.txt",
+    "issued": "2006 Aug 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060821GEOA.txt",
+    "source": "GEOA",
+    "product": "0821GEOA.txt",
+    "issued": "2006 Aug 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060822GEOA.txt",
+    "source": "GEOA",
+    "product": "0822GEOA.txt",
+    "issued": "2006 Aug 22 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060823GEOA.txt",
+    "source": "GEOA",
+    "product": "0823GEOA.txt",
+    "issued": "2006 Aug 23 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060824GEOA.txt",
+    "source": "GEOA",
+    "product": "0824GEOA.txt",
+    "issued": "2006 Aug 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060825GEOA.txt",
+    "source": "GEOA",
+    "product": "0825GEOA.txt",
+    "issued": "2006 Aug 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060826GEOA.txt",
+    "source": "GEOA",
+    "product": "0826GEOA.txt",
+    "issued": "2006 Aug 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060827GEOA.txt",
+    "source": "GEOA",
+    "product": "0827GEOA.txt",
+    "issued": "2006 Aug 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060828GEOA.txt",
+    "source": "GEOA",
+    "product": "0828GEOA.txt",
+    "issued": "2006 Aug 28 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060829GEOA.txt",
+    "source": "GEOA",
+    "product": "0829GEOA.txt",
+    "issued": "2006 Aug 29 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060830GEOA.txt",
+    "source": "GEOA",
+    "product": "0830GEOA.txt",
+    "issued": "2006 Aug 30 0332 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060831GEOA.txt",
+    "source": "GEOA",
+    "product": "0831GEOA.txt",
+    "issued": "2006 Aug 31 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060901GEOA.txt",
+    "source": "GEOA",
+    "product": "0901GEOA.txt",
+    "issued": "2006 Sep 01 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060902GEOA.txt",
+    "source": "GEOA",
+    "product": "0902GEOA.txt",
+    "issued": "2006 Sep 02 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060903GEOA.txt",
+    "source": "GEOA",
+    "product": "0903GEOA.txt",
+    "issued": "2006 Sep 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060904GEOA.txt",
+    "source": "GEOA",
+    "product": "0904GEOA.txt",
+    "issued": "2006 Sep 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060905GEOA.txt",
+    "source": "GEOA",
+    "product": "0905GEOA.txt",
+    "issued": "2006 Sep 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060906GEOA.txt",
+    "source": "GEOA",
+    "product": "0906GEOA.txt",
+    "issued": "2006 Sep 06 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060907GEOA.txt",
+    "source": "GEOA",
+    "product": "0907GEOA.txt",
+    "issued": "2006 Sep 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060908GEOA.txt",
+    "source": "GEOA",
+    "product": "0908GEOA.txt",
+    "issued": "2006 Sep 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060909GEOA.txt",
+    "source": "GEOA",
+    "product": "0909GEOA.txt",
+    "issued": "2006 Sep 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060910GEOA.txt",
+    "source": "GEOA",
+    "product": "0910GEOA.txt",
+    "issued": "2006 Sep 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060911GEOA.txt",
+    "source": "GEOA",
+    "product": "0911GEOA.txt",
+    "issued": "2006 Sep 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060912GEOA.txt",
+    "source": "GEOA",
+    "product": "0912GEOA.txt",
+    "issued": "2006 Sep 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060913GEOA.txt",
+    "source": "GEOA",
+    "product": "0913GEOA.txt",
+    "issued": "2006 Sep 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060914GEOA.txt",
+    "source": "GEOA",
+    "product": "0914GEOA.txt",
+    "issued": "2006 Sep 14 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060915GEOA.txt",
+    "source": "GEOA",
+    "product": "0915GEOA.txt",
+    "issued": "2006 Sep 15 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060916GEOA.txt",
+    "source": "GEOA",
+    "product": "0916GEOA.txt",
+    "issued": "2006 Sep 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060917GEOA.txt",
+    "source": "GEOA",
+    "product": "0917GEOA.txt",
+    "issued": "2006 Sep 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060918GEOA.txt",
+    "source": "GEOA",
+    "product": "0918GEOA.txt",
+    "issued": "2006 Sep 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060919GEOA.txt",
+    "source": "GEOA",
+    "product": "0919GEOA.txt",
+    "issued": "2006 Sep 19 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060920GEOA.txt",
+    "source": "GEOA",
+    "product": "0920GEOA.txt",
+    "issued": "2006 Sep 20 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060921GEOA.txt",
+    "source": "GEOA",
+    "product": "0921GEOA.txt",
+    "issued": "2006 Sep 21 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060922GEOA.txt",
+    "source": "GEOA",
+    "product": "0922GEOA.txt",
+    "issued": "2006 Sep 22 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060923GEOA.txt",
+    "source": "GEOA",
+    "product": "0923GEOA.txt",
+    "issued": "2006 Sep 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060924GEOA.txt",
+    "source": "GEOA",
+    "product": "0924GEOA.txt",
+    "issued": "2006 Sep 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060925GEOA.txt",
+    "source": "GEOA",
+    "product": "0925GEOA.txt",
+    "issued": "2006 Sep 25 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060926GEOA.txt",
+    "source": "GEOA",
+    "product": "0926GEOA.txt",
+    "issued": "2006 Sep 26 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060927GEOA.txt",
+    "source": "GEOA",
+    "product": "0927GEOA.txt",
+    "issued": "2006 Sep 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060928GEOA.txt",
+    "source": "GEOA",
+    "product": "0928GEOA.txt",
+    "issued": "2006 Sep 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060929GEOA.txt",
+    "source": "GEOA",
+    "product": "0929GEOA.txt",
+    "issued": "2006 Sep 29 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20060930GEOA.txt",
+    "source": "GEOA",
+    "product": "0930GEOA.txt",
+    "issued": "2006 Sep 30 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061001GEOA.txt",
+    "source": "GEOA",
+    "product": "1001GEOA.txt",
+    "issued": "2006 Oct 01 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061002GEOA.txt",
+    "source": "GEOA",
+    "product": "1002GEOA.txt",
+    "issued": "2006 Oct 02 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061003GEOA.txt",
+    "source": "GEOA",
+    "product": "1003GEOA.txt",
+    "issued": "2006 Oct 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061004GEOA.txt",
+    "source": "GEOA",
+    "product": "1004GEOA.txt",
+    "issued": "2006 Oct 04 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061005GEOA.txt",
+    "source": "GEOA",
+    "product": "1005GEOA.txt",
+    "issued": "2006 Oct 05 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061006GEOA.txt",
+    "source": "GEOA",
+    "product": "1006GEOA.txt",
+    "issued": "2006 Oct 06 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061007GEOA.txt",
+    "source": "GEOA",
+    "product": "1007GEOA.txt",
+    "issued": "2006 Oct 07 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061008GEOA.txt",
+    "source": "GEOA",
+    "product": "1008GEOA.txt",
+    "issued": "2006 Oct 08 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061009GEOA.txt",
+    "source": "GEOA",
+    "product": "1009GEOA.txt",
+    "issued": "2006 Oct 09 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061010GEOA.txt",
+    "source": "GEOA",
+    "product": "1010GEOA.txt",
+    "issued": "2006 Oct 10 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061011GEOA.txt",
+    "source": "GEOA",
+    "product": "1011GEOA.txt",
+    "issued": "2006 Oct 11 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061012GEOA.txt",
+    "source": "GEOA",
+    "product": "1012GEOA.txt",
+    "issued": "2006 Oct 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061013GEOA.txt",
+    "source": "GEOA",
+    "product": "1013GEOA.txt",
+    "issued": "2006 Oct 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061014GEOA.txt",
+    "source": "GEOA",
+    "product": "1014GEOA.txt",
+    "issued": "2006 Oct 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061015GEOA.txt",
+    "source": "GEOA",
+    "product": "1015GEOA.txt",
+    "issued": "2006 Oct 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061016GEOA.txt",
+    "source": "GEOA",
+    "product": "1016GEOA.txt",
+    "issued": "2006 Oct 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061017GEOA.txt",
+    "source": "GEOA",
+    "product": "1017GEOA.txt",
+    "issued": "2006 Oct 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061018GEOA.txt",
+    "source": "GEOA",
+    "product": "1018GEOA.txt",
+    "issued": "2006 Oct 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061019GEOA.txt",
+    "source": "GEOA",
+    "product": "1019GEOA.txt",
+    "issued": "2006 Oct 19 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061020GEOA.txt",
+    "source": "GEOA",
+    "product": "1020GEOA.txt",
+    "issued": "2006 Oct 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061021GEOA.txt",
+    "source": "GEOA",
+    "product": "1021GEOA.txt",
+    "issued": "2006 Oct 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061022GEOA.txt",
+    "source": "GEOA",
+    "product": "1022GEOA.txt",
+    "issued": "2006 Oct 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061023GEOA.txt",
+    "source": "GEOA",
+    "product": "1023GEOA.txt",
+    "issued": "2006 Oct 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061024GEOA.txt",
+    "source": "GEOA",
+    "product": "1024GEOA.txt",
+    "issued": "2006 Oct 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061025GEOA.txt",
+    "source": "GEOA",
+    "product": "1025GEOA.txt",
+    "issued": "2006 Oct 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061026GEOA.txt",
+    "source": "GEOA",
+    "product": "1026GEOA.txt",
+    "issued": "2006 Oct 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061027GEOA.txt",
+    "source": "GEOA",
+    "product": "1027GEOA.txt",
+    "issued": "2006 Oct 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061028GEOA.txt",
+    "source": "GEOA",
+    "product": "1028GEOA.txt",
+    "issued": "2006 Oct 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061029GEOA.txt",
+    "source": "GEOA",
+    "product": "1029GEOA.txt",
+    "issued": "2006 Oct 29 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061030GEOA.txt",
+    "source": "GEOA",
+    "product": "1030GEOA.txt",
+    "issued": "2006 Oct 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061031GEOA.txt",
+    "source": "GEOA",
+    "product": "1031GEOA.txt",
+    "issued": "2006 Oct 31 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061101GEOA.txt",
+    "source": "GEOA",
+    "product": "1101GEOA.txt",
+    "issued": "2006 Nov 01 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061102GEOA.txt",
+    "source": "GEOA",
+    "product": "1102GEOA.txt",
+    "issued": "2006 Nov 02 0506 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061103GEOA.txt",
+    "source": "GEOA",
+    "product": "1103GEOA.txt",
+    "issued": "2006 Nov 03 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061104GEOA.txt",
+    "source": "GEOA",
+    "product": "1104GEOA.txt",
+    "issued": "2006 Nov 04 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061105GEOA.txt",
+    "source": "GEOA",
+    "product": "1105GEOA.txt",
+    "issued": "2006 Nov 05 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061106GEOA.txt",
+    "source": "GEOA",
+    "product": "1106GEOA.txt",
+    "issued": "2006 Nov 06 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061107GEOA.txt",
+    "source": "GEOA",
+    "product": "1107GEOA.txt",
+    "issued": "2006 Nov 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061108GEOA.txt",
+    "source": "GEOA",
+    "product": "1108GEOA.txt",
+    "issued": "2006 Nov 08 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061109GEOA.txt",
+    "source": "GEOA",
+    "product": "1109GEOA.txt",
+    "issued": "2006 Nov 09 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061110GEOA.txt",
+    "source": "GEOA",
+    "product": "1110GEOA.txt",
+    "issued": "2006 Nov 10 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061111GEOA.txt",
+    "source": "GEOA",
+    "product": "1111GEOA.txt",
+    "issued": "2006 Nov 11 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061112GEOA.txt",
+    "source": "GEOA",
+    "product": "1112GEOA.txt",
+    "issued": "2006 Nov 12 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061113GEOA.txt",
+    "source": "GEOA",
+    "product": "1113GEOA.txt",
+    "issued": "2006 Nov 13 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061114GEOA.txt",
+    "source": "GEOA",
+    "product": "1114GEOA.txt",
+    "issued": "2006 Nov 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061115GEOA.txt",
+    "source": "GEOA",
+    "product": "1115GEOA.txt",
+    "issued": "2006 Nov 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061116GEOA.txt",
+    "source": "GEOA",
+    "product": "1116GEOA.txt",
+    "issued": "2006 Nov 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061117GEOA.txt",
+    "source": "GEOA",
+    "product": "1117GEOA.txt",
+    "issued": "2006 Nov 17 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061118GEOA.txt",
+    "source": "GEOA",
+    "product": "1118GEOA.txt",
+    "issued": "2006 Nov 18 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061119GEOA.txt",
+    "source": "GEOA",
+    "product": "1119GEOA.txt",
+    "issued": "2006 Nov 19 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061120GEOA.txt",
+    "source": "GEOA",
+    "product": "1120GEOA.txt",
+    "issued": "2006 Nov 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061121GEOA.txt",
+    "source": "GEOA",
+    "product": "1121GEOA.txt",
+    "issued": "2006 Nov 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061122GEOA.txt",
+    "source": "GEOA",
+    "product": "1122GEOA.txt",
+    "issued": "2006 Nov 22 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061123GEOA.txt",
+    "source": "GEOA",
+    "product": "1123GEOA.txt",
+    "issued": "2006 Nov 23 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061124GEOA.txt",
+    "source": "GEOA",
+    "product": "1124GEOA.txt",
+    "issued": "2006 Nov 24 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061125GEOA.txt",
+    "source": "GEOA",
+    "product": "1125GEOA.txt",
+    "issued": "2006 Nov 25 0432 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061126GEOA.txt",
+    "source": "GEOA",
+    "product": "1126GEOA.txt",
+    "issued": "2006 Nov 26 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061127GEOA.txt",
+    "source": "GEOA",
+    "product": "1127GEOA.txt",
+    "issued": "2006 Nov 27 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061128GEOA.txt",
+    "source": "GEOA",
+    "product": "1128GEOA.txt",
+    "issued": "2006 Nov 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061129GEOA.txt",
+    "source": "GEOA",
+    "product": "1129GEOA.txt",
+    "issued": "2006 Nov 29 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061130GEOA.txt",
+    "source": "GEOA",
+    "product": "1130GEOA.txt",
+    "issued": "2006 Nov 30 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061201GEOA.txt",
+    "source": "GEOA",
+    "product": "1201GEOA.txt",
+    "issued": "2006 Dec 01 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061202GEOA.txt",
+    "source": "GEOA",
+    "product": "1202GEOA.txt",
+    "issued": "2006 Dec 02 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061203GEOA.txt",
+    "source": "GEOA",
+    "product": "1203GEOA.txt",
+    "issued": "2006 Dec 03 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061204GEOA.txt",
+    "source": "GEOA",
+    "product": "1204GEOA.txt",
+    "issued": "2006 Dec 04 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061205GEOA.txt",
+    "source": "GEOA",
+    "product": "1205GEOA.txt",
+    "issued": "2006 Dec 05 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061206GEOA.txt",
+    "source": "GEOA",
+    "product": "1206GEOA.txt",
+    "issued": "2006 Dec 06 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061207GEOA.txt",
+    "source": "GEOA",
+    "product": "1207GEOA.txt",
+    "issued": "2006 Dec 07 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061208GEOA.txt",
+    "source": "GEOA",
+    "product": "1208GEOA.txt",
+    "issued": "2006 Dec 08 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061209GEOA.txt",
+    "source": "GEOA",
+    "product": "1209GEOA.txt",
+    "issued": "2006 Dec 09 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061210GEOA.txt",
+    "source": "GEOA",
+    "product": "1210GEOA.txt",
+    "issued": "2006 Dec 10 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061211GEOA.txt",
+    "source": "GEOA",
+    "product": "1211GEOA.txt",
+    "issued": "2006 Dec 11 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061212GEOA.txt",
+    "source": "GEOA",
+    "product": "1212GEOA.txt",
+    "issued": "2006 Dec 12 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061213GEOA.txt",
+    "source": "GEOA",
+    "product": "1213GEOA.txt",
+    "issued": "2006 Dec 13 0334 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061214GEOA.txt",
+    "source": "GEOA",
+    "product": "1214GEOA.txt",
+    "issued": "2006 Dec 14 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061215GEOA.txt",
+    "source": "GEOA",
+    "product": "1215GEOA.txt",
+    "issued": "2006 Dec 15 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061216GEOA.txt",
+    "source": "GEOA",
+    "product": "1216GEOA.txt",
+    "issued": "2006 Dec 16 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061217GEOA.txt",
+    "source": "GEOA",
+    "product": "1217GEOA.txt",
+    "issued": "2006 Dec 17 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061218GEOA.txt",
+    "source": "GEOA",
+    "product": "1218GEOA.txt",
+    "issued": "2006 Dec 18 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061219GEOA.txt",
+    "source": "GEOA",
+    "product": "1219GEOA.txt",
+    "issued": "2006 Dec 19 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061220GEOA.txt",
+    "source": "GEOA",
+    "product": "1220GEOA.txt",
+    "issued": "2006 Dec 20 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061221GEOA.txt",
+    "source": "GEOA",
+    "product": "1221GEOA.txt",
+    "issued": "2006 Dec 21 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061222GEOA.txt",
+    "source": "GEOA",
+    "product": "1222GEOA.txt",
+    "issued": "2006 Dec 22 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061223GEOA.txt",
+    "source": "GEOA",
+    "product": "1223GEOA.txt",
+    "issued": "2006 Dec 23 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061224GEOA.txt",
+    "source": "GEOA",
+    "product": "1224GEOA.txt",
+    "issued": "2006 Dec 24 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061225GEOA.txt",
+    "source": "GEOA",
+    "product": "1225GEOA.txt",
+    "issued": "2006 Dec 25 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061226GEOA.txt",
+    "source": "GEOA",
+    "product": "1226GEOA.txt",
+    "issued": "2006 Dec 26 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061227GEOA.txt",
+    "source": "GEOA",
+    "product": "1227GEOA.txt",
+    "issued": "2006 Dec 27 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061228GEOA.txt",
+    "source": "GEOA",
+    "product": "1228GEOA.txt",
+    "issued": "2006 Dec 28 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061229GEOA.txt",
+    "source": "GEOA",
+    "product": "1229GEOA.txt",
+    "issued": "2006 Dec 29 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061230GEOA.txt",
+    "source": "GEOA",
+    "product": "1230GEOA.txt",
+    "issued": "2006 Dec 30 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20061231GEOA.txt",
+    "source": "GEOA",
+    "product": "1231GEOA.txt",
+    "issued": "2006 Dec 31 0333 UTC",
+    "sdfNumber": null,
+    "sections": []
+  }
+]

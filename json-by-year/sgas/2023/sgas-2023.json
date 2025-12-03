@@ -1,0 +1,2922 @@
+[
+  {
+    "file": "20230101SGAS.txt",
+    "source": "SGAS",
+    "product": "0101SGAS.txt",
+    "issued": "2023 Jan 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230102SGAS.txt",
+    "source": "SGAS",
+    "product": "0102SGAS.txt",
+    "issued": "2023 Jan 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230103SGAS.txt",
+    "source": "SGAS",
+    "product": "0103SGAS.txt",
+    "issued": "2023 Jan 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230104SGAS.txt",
+    "source": "SGAS",
+    "product": "0104SGAS.txt",
+    "issued": "2023 Jan 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230105SGAS.txt",
+    "source": "SGAS",
+    "product": "0105SGAS.txt",
+    "issued": "2023 Jan 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230106SGAS.txt",
+    "source": "SGAS",
+    "product": "0106SGAS.txt",
+    "issued": "2023 Jan 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230107SGAS.txt",
+    "source": "SGAS",
+    "product": "0107SGAS.txt",
+    "issued": "2023 Jan 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230108SGAS.txt",
+    "source": "SGAS",
+    "product": "0108SGAS.txt",
+    "issued": "2023 Jan 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230109SGAS.txt",
+    "source": "SGAS",
+    "product": "0109SGAS.txt",
+    "issued": "2023 Jan 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230110SGAS.txt",
+    "source": "SGAS",
+    "product": "0110SGAS.txt",
+    "issued": "2023 Jan 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230111SGAS.txt",
+    "source": "SGAS",
+    "product": "0111SGAS.txt",
+    "issued": "2023 Jan 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230112SGAS.txt",
+    "source": "SGAS",
+    "product": "0112SGAS.txt",
+    "issued": "2023 Jan 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230113SGAS.txt",
+    "source": "SGAS",
+    "product": "0113SGAS.txt",
+    "issued": "2023 Jan 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230114SGAS.txt",
+    "source": "SGAS",
+    "product": "0114SGAS.txt",
+    "issued": "2023 Jan 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230115SGAS.txt",
+    "source": "SGAS",
+    "product": "0115SGAS.txt",
+    "issued": "2023 Jan 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230116SGAS.txt",
+    "source": "SGAS",
+    "product": "0116SGAS.txt",
+    "issued": "2023 Jan 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230117SGAS.txt",
+    "source": "SGAS",
+    "product": "0117SGAS.txt",
+    "issued": "2023 Jan 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230118SGAS.txt",
+    "source": "SGAS",
+    "product": "0118SGAS.txt",
+    "issued": "2023 Jan 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230119SGAS.txt",
+    "source": "SGAS",
+    "product": "0119SGAS.txt",
+    "issued": "2023 Jan 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230120SGAS.txt",
+    "source": "SGAS",
+    "product": "0120SGAS.txt",
+    "issued": "2023 Jan 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230121SGAS.txt",
+    "source": "SGAS",
+    "product": "0121SGAS.txt",
+    "issued": "2023 Jan 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230122SGAS.txt",
+    "source": "SGAS",
+    "product": "0122SGAS.txt",
+    "issued": "2023 Jan 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230123SGAS.txt",
+    "source": "SGAS",
+    "product": "0123SGAS.txt",
+    "issued": "2023 Jan 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230124SGAS.txt",
+    "source": "SGAS",
+    "product": "0124SGAS.txt",
+    "issued": "2023 Jan 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230125SGAS.txt",
+    "source": "SGAS",
+    "product": "0125SGAS.txt",
+    "issued": "2023 Jan 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230126SGAS.txt",
+    "source": "SGAS",
+    "product": "0126SGAS.txt",
+    "issued": "2023 Jan 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230127SGAS.txt",
+    "source": "SGAS",
+    "product": "0127SGAS.txt",
+    "issued": "2023 Jan 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230128SGAS.txt",
+    "source": "SGAS",
+    "product": "0128SGAS.txt",
+    "issued": "2023 Jan 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230129SGAS.txt",
+    "source": "SGAS",
+    "product": "0129SGAS.txt",
+    "issued": "2023 Jan 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230130SGAS.txt",
+    "source": "SGAS",
+    "product": "0130SGAS.txt",
+    "issued": "2023 Jan 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230131SGAS.txt",
+    "source": "SGAS",
+    "product": "0131SGAS.txt",
+    "issued": "2023 Jan 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230201SGAS.txt",
+    "source": "SGAS",
+    "product": "0201SGAS.txt",
+    "issued": "2023 Feb 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230202SGAS.txt",
+    "source": "SGAS",
+    "product": "0202SGAS.txt",
+    "issued": "2023 Feb 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230203SGAS.txt",
+    "source": "SGAS",
+    "product": "0203SGAS.txt",
+    "issued": "2023 Feb 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230204SGAS.txt",
+    "source": "SGAS",
+    "product": "0204SGAS.txt",
+    "issued": "2023 Feb 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230205SGAS.txt",
+    "source": "SGAS",
+    "product": "0205SGAS.txt",
+    "issued": "2023 Feb 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230206SGAS.txt",
+    "source": "SGAS",
+    "product": "0206SGAS.txt",
+    "issued": "2023 Feb 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230207SGAS.txt",
+    "source": "SGAS",
+    "product": "0207SGAS.txt",
+    "issued": "2023 Feb 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230208SGAS.txt",
+    "source": "SGAS",
+    "product": "0208SGAS.txt",
+    "issued": "2023 Feb 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230209SGAS.txt",
+    "source": "SGAS",
+    "product": "0209SGAS.txt",
+    "issued": "2023 Feb 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230210SGAS.txt",
+    "source": "SGAS",
+    "product": "0210SGAS.txt",
+    "issued": "2023 Feb 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230211SGAS.txt",
+    "source": "SGAS",
+    "product": "0211SGAS.txt",
+    "issued": "2023 Feb 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230212SGAS.txt",
+    "source": "SGAS",
+    "product": "0212SGAS.txt",
+    "issued": "2023 Feb 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230213SGAS.txt",
+    "source": "SGAS",
+    "product": "0213SGAS.txt",
+    "issued": "2023 Feb 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230214SGAS.txt",
+    "source": "SGAS",
+    "product": "0214SGAS.txt",
+    "issued": "2023 Feb 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230215SGAS.txt",
+    "source": "SGAS",
+    "product": "0215SGAS.txt",
+    "issued": "2023 Feb 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230216SGAS.txt",
+    "source": "SGAS",
+    "product": "0216SGAS.txt",
+    "issued": "2023 Feb 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230217SGAS.txt",
+    "source": "SGAS",
+    "product": "0217SGAS.txt",
+    "issued": "2023 Feb 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230218SGAS.txt",
+    "source": "SGAS",
+    "product": "0218SGAS.txt",
+    "issued": "2023 Feb 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230219SGAS.txt",
+    "source": "SGAS",
+    "product": "0219SGAS.txt",
+    "issued": "2023 Feb 19 0345 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230220SGAS.txt",
+    "source": "SGAS",
+    "product": "0220SGAS.txt",
+    "issued": "2023 Feb 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230221SGAS.txt",
+    "source": "SGAS",
+    "product": "0221SGAS.txt",
+    "issued": "2023 Feb 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230222SGAS.txt",
+    "source": "SGAS",
+    "product": "0222SGAS.txt",
+    "issued": "2023 Feb 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230223SGAS.txt",
+    "source": "SGAS",
+    "product": "0223SGAS.txt",
+    "issued": "2023 Feb 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230224SGAS.txt",
+    "source": "SGAS",
+    "product": "0224SGAS.txt",
+    "issued": "2023 Feb 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230225SGAS.txt",
+    "source": "SGAS",
+    "product": "0225SGAS.txt",
+    "issued": "2023 Feb 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230226SGAS.txt",
+    "source": "SGAS",
+    "product": "0226SGAS.txt",
+    "issued": "2023 Feb 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230227SGAS.txt",
+    "source": "SGAS",
+    "product": "0227SGAS.txt",
+    "issued": "2023 Feb 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230228SGAS.txt",
+    "source": "SGAS",
+    "product": "0228SGAS.txt",
+    "issued": "2023 Feb 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230301SGAS.txt",
+    "source": "SGAS",
+    "product": "0301SGAS.txt",
+    "issued": "2023 Mar 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230302SGAS.txt",
+    "source": "SGAS",
+    "product": "0302SGAS.txt",
+    "issued": "2023 Mar 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230303SGAS.txt",
+    "source": "SGAS",
+    "product": "0303SGAS.txt",
+    "issued": "2023 Mar 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230304SGAS.txt",
+    "source": "SGAS",
+    "product": "0304SGAS.txt",
+    "issued": "2023 Mar 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230305SGAS.txt",
+    "source": "SGAS",
+    "product": "0305SGAS.txt",
+    "issued": "2023 Mar 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230306SGAS.txt",
+    "source": "SGAS",
+    "product": "0306SGAS.txt",
+    "issued": "2023 Mar 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230307SGAS.txt",
+    "source": "SGAS",
+    "product": "0307SGAS.txt",
+    "issued": "2023 Mar 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230308SGAS.txt",
+    "source": "SGAS",
+    "product": "0308SGAS.txt",
+    "issued": "2023 Mar 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230309SGAS.txt",
+    "source": "SGAS",
+    "product": "0309SGAS.txt",
+    "issued": "2023 Mar 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230310SGAS.txt",
+    "source": "SGAS",
+    "product": "0310SGAS.txt",
+    "issued": "2023 Mar 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230311SGAS.txt",
+    "source": "SGAS",
+    "product": "0311SGAS.txt",
+    "issued": "2023 Mar 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230312SGAS.txt",
+    "source": "SGAS",
+    "product": "0312SGAS.txt",
+    "issued": "2023 Mar 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230313SGAS.txt",
+    "source": "SGAS",
+    "product": "0313SGAS.txt",
+    "issued": "2023 Mar 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230314SGAS.txt",
+    "source": "SGAS",
+    "product": "0314SGAS.txt",
+    "issued": "2023 Mar 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230315SGAS.txt",
+    "source": "SGAS",
+    "product": "0315SGAS.txt",
+    "issued": "2023 Mar 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230316SGAS.txt",
+    "source": "SGAS",
+    "product": "0316SGAS.txt",
+    "issued": "2023 Mar 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230317SGAS.txt",
+    "source": "SGAS",
+    "product": "0317SGAS.txt",
+    "issued": "2023 Mar 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230318SGAS.txt",
+    "source": "SGAS",
+    "product": "0318SGAS.txt",
+    "issued": "2023 Mar 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230319SGAS.txt",
+    "source": "SGAS",
+    "product": "0319SGAS.txt",
+    "issued": "2023 Mar 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230320SGAS.txt",
+    "source": "SGAS",
+    "product": "0320SGAS.txt",
+    "issued": "2023 Mar 20 0600 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230321SGAS.txt",
+    "source": "SGAS",
+    "product": "0321SGAS.txt",
+    "issued": "2023 Mar 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230322SGAS.txt",
+    "source": "SGAS",
+    "product": "0322SGAS.txt",
+    "issued": "2023 Mar 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230323SGAS.txt",
+    "source": "SGAS",
+    "product": "0323SGAS.txt",
+    "issued": "2023 Mar 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230324SGAS.txt",
+    "source": "SGAS",
+    "product": "0324SGAS.txt",
+    "issued": "2023 Mar 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230325SGAS.txt",
+    "source": "SGAS",
+    "product": "0325SGAS.txt",
+    "issued": "2023 Mar 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230326SGAS.txt",
+    "source": "SGAS",
+    "product": "0326SGAS.txt",
+    "issued": "2023 Mar 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230327SGAS.txt",
+    "source": "SGAS",
+    "product": "0327SGAS.txt",
+    "issued": "2023 Mar 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230328SGAS.txt",
+    "source": "SGAS",
+    "product": "0328SGAS.txt",
+    "issued": "2023 Mar 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230329SGAS.txt",
+    "source": "SGAS",
+    "product": "0329SGAS.txt",
+    "issued": "2023 Mar 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230330SGAS.txt",
+    "source": "SGAS",
+    "product": "0330SGAS.txt",
+    "issued": "2023 Mar 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230331SGAS.txt",
+    "source": "SGAS",
+    "product": "0331SGAS.txt",
+    "issued": "2023 Mar 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230401SGAS.txt",
+    "source": "SGAS",
+    "product": "0401SGAS.txt",
+    "issued": "2023 Apr 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230402SGAS.txt",
+    "source": "SGAS",
+    "product": "0402SGAS.txt",
+    "issued": "2023 Apr 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230403SGAS.txt",
+    "source": "SGAS",
+    "product": "0403SGAS.txt",
+    "issued": "2023 Apr 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230404SGAS.txt",
+    "source": "SGAS",
+    "product": "0404SGAS.txt",
+    "issued": "2023 Apr 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230405SGAS.txt",
+    "source": "SGAS",
+    "product": "0405SGAS.txt",
+    "issued": "2023 Apr 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230406SGAS.txt",
+    "source": "SGAS",
+    "product": "0406SGAS.txt",
+    "issued": "2023 Apr 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230407SGAS.txt",
+    "source": "SGAS",
+    "product": "0407SGAS.txt",
+    "issued": "2023 Apr 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230408SGAS.txt",
+    "source": "SGAS",
+    "product": "0408SGAS.txt",
+    "issued": "2023 Apr 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230409SGAS.txt",
+    "source": "SGAS",
+    "product": "0409SGAS.txt",
+    "issued": "2023 Apr 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230410SGAS.txt",
+    "source": "SGAS",
+    "product": "0410SGAS.txt",
+    "issued": "2023 Apr 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230411SGAS.txt",
+    "source": "SGAS",
+    "product": "0411SGAS.txt",
+    "issued": "2023 Apr 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230412SGAS.txt",
+    "source": "SGAS",
+    "product": "0412SGAS.txt",
+    "issued": "2023 Apr 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230413SGAS.txt",
+    "source": "SGAS",
+    "product": "0413SGAS.txt",
+    "issued": "2023 Apr 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230414SGAS.txt",
+    "source": "SGAS",
+    "product": "0414SGAS.txt",
+    "issued": "2023 Apr 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230415SGAS.txt",
+    "source": "SGAS",
+    "product": "0415SGAS.txt",
+    "issued": "2023 Apr 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230416SGAS.txt",
+    "source": "SGAS",
+    "product": "0416SGAS.txt",
+    "issued": "2023 Apr 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230417SGAS.txt",
+    "source": "SGAS",
+    "product": "0417SGAS.txt",
+    "issued": "2023 Apr 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230418SGAS.txt",
+    "source": "SGAS",
+    "product": "0418SGAS.txt",
+    "issued": "2023 Apr 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230419SGAS.txt",
+    "source": "SGAS",
+    "product": "0419SGAS.txt",
+    "issued": "2023 Apr 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230420SGAS.txt",
+    "source": "SGAS",
+    "product": "0420SGAS.txt",
+    "issued": "2023 Apr 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230421SGAS.txt",
+    "source": "SGAS",
+    "product": "0421SGAS.txt",
+    "issued": "2023 Apr 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230422SGAS.txt",
+    "source": "SGAS",
+    "product": "0422SGAS.txt",
+    "issued": "2023 Apr 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230423SGAS.txt",
+    "source": "SGAS",
+    "product": "0423SGAS.txt",
+    "issued": "2023 Apr 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230424SGAS.txt",
+    "source": "SGAS",
+    "product": "0424SGAS.txt",
+    "issued": "2023 Apr 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230425SGAS.txt",
+    "source": "SGAS",
+    "product": "0425SGAS.txt",
+    "issued": "2023 Apr 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230426SGAS.txt",
+    "source": "SGAS",
+    "product": "0426SGAS.txt",
+    "issued": "2023 Apr 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230427SGAS.txt",
+    "source": "SGAS",
+    "product": "0427SGAS.txt",
+    "issued": "2023 Apr 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230428SGAS.txt",
+    "source": "SGAS",
+    "product": "0428SGAS.txt",
+    "issued": "2023 Apr 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230429SGAS.txt",
+    "source": "SGAS",
+    "product": "0429SGAS.txt",
+    "issued": "2023 Apr 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230430SGAS.txt",
+    "source": "SGAS",
+    "product": "0430SGAS.txt",
+    "issued": "2023 Apr 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230501SGAS.txt",
+    "source": "SGAS",
+    "product": "0501SGAS.txt",
+    "issued": "2023 May 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230502SGAS.txt",
+    "source": "SGAS",
+    "product": "0502SGAS.txt",
+    "issued": "2023 May 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230503SGAS.txt",
+    "source": "SGAS",
+    "product": "0503SGAS.txt",
+    "issued": "2023 May 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230504SGAS.txt",
+    "source": "SGAS",
+    "product": "0504SGAS.txt",
+    "issued": "2023 May 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230505SGAS.txt",
+    "source": "SGAS",
+    "product": "0505SGAS.txt",
+    "issued": "2023 May 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230506SGAS.txt",
+    "source": "SGAS",
+    "product": "0506SGAS.txt",
+    "issued": "2023 May 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230507SGAS.txt",
+    "source": "SGAS",
+    "product": "0507SGAS.txt",
+    "issued": "2023 May 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230508SGAS.txt",
+    "source": "SGAS",
+    "product": "0508SGAS.txt",
+    "issued": "2023 May 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230509SGAS.txt",
+    "source": "SGAS",
+    "product": "0509SGAS.txt",
+    "issued": "2023 May 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230510SGAS.txt",
+    "source": "SGAS",
+    "product": "0510SGAS.txt",
+    "issued": "2023 May 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230511SGAS.txt",
+    "source": "SGAS",
+    "product": "0511SGAS.txt",
+    "issued": "2023 May 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230512SGAS.txt",
+    "source": "SGAS",
+    "product": "0512SGAS.txt",
+    "issued": "2023 May 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230513SGAS.txt",
+    "source": "SGAS",
+    "product": "0513SGAS.txt",
+    "issued": "2023 May 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230514SGAS.txt",
+    "source": "SGAS",
+    "product": "0514SGAS.txt",
+    "issued": "2023 May 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230515SGAS.txt",
+    "source": "SGAS",
+    "product": "0515SGAS.txt",
+    "issued": "2023 May 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230516SGAS.txt",
+    "source": "SGAS",
+    "product": "0516SGAS.txt",
+    "issued": "2023 May 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230517SGAS.txt",
+    "source": "SGAS",
+    "product": "0517SGAS.txt",
+    "issued": "2023 May 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230518SGAS.txt",
+    "source": "SGAS",
+    "product": "0518SGAS.txt",
+    "issued": "2023 May 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230519SGAS.txt",
+    "source": "SGAS",
+    "product": "0519SGAS.txt",
+    "issued": "2023 May 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230520SGAS.txt",
+    "source": "SGAS",
+    "product": "0520SGAS.txt",
+    "issued": "2023 May 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230521SGAS.txt",
+    "source": "SGAS",
+    "product": "0521SGAS.txt",
+    "issued": "2023 May 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230522SGAS.txt",
+    "source": "SGAS",
+    "product": "0522SGAS.txt",
+    "issued": "2023 May 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230523SGAS.txt",
+    "source": "SGAS",
+    "product": "0523SGAS.txt",
+    "issued": "2023 May 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230524SGAS.txt",
+    "source": "SGAS",
+    "product": "0524SGAS.txt",
+    "issued": "2023 May 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230525SGAS.txt",
+    "source": "SGAS",
+    "product": "0525SGAS.txt",
+    "issued": "2023 May 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230526SGAS.txt",
+    "source": "SGAS",
+    "product": "0526SGAS.txt",
+    "issued": "2023 May 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230527SGAS.txt",
+    "source": "SGAS",
+    "product": "0527SGAS.txt",
+    "issued": "2023 May 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230528SGAS.txt",
+    "source": "SGAS",
+    "product": "0528SGAS.txt",
+    "issued": "2023 May 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230529SGAS.txt",
+    "source": "SGAS",
+    "product": "0529SGAS.txt",
+    "issued": "2023 May 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230530SGAS.txt",
+    "source": "SGAS",
+    "product": "0530SGAS.txt",
+    "issued": "2023 May 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230531SGAS.txt",
+    "source": "SGAS",
+    "product": "0531SGAS.txt",
+    "issued": "2023 May 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230601SGAS.txt",
+    "source": "SGAS",
+    "product": "0601SGAS.txt",
+    "issued": "2023 Jun 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230602SGAS.txt",
+    "source": "SGAS",
+    "product": "0602SGAS.txt",
+    "issued": "2023 Jun 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230603SGAS.txt",
+    "source": "SGAS",
+    "product": "0603SGAS.txt",
+    "issued": "2023 Jun 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230604SGAS.txt",
+    "source": "SGAS",
+    "product": "0604SGAS.txt",
+    "issued": "2023 Jun 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230605SGAS.txt",
+    "source": "SGAS",
+    "product": "0605SGAS.txt",
+    "issued": "2023 Jun 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230606SGAS.txt",
+    "source": "SGAS",
+    "product": "0606SGAS.txt",
+    "issued": "2023 Jun 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230607SGAS.txt",
+    "source": "SGAS",
+    "product": "0607SGAS.txt",
+    "issued": "2023 Jun 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230608SGAS.txt",
+    "source": "SGAS",
+    "product": "0608SGAS.txt",
+    "issued": "2023 Jun 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230609SGAS.txt",
+    "source": "SGAS",
+    "product": "0609SGAS.txt",
+    "issued": "2023 Jun 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230610SGAS.txt",
+    "source": "SGAS",
+    "product": "0610SGAS.txt",
+    "issued": "2023 Jun 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230611SGAS.txt",
+    "source": "SGAS",
+    "product": "0611SGAS.txt",
+    "issued": "2023 Jun 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230612SGAS.txt",
+    "source": "SGAS",
+    "product": "0612SGAS.txt",
+    "issued": "2023 Jun 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230613SGAS.txt",
+    "source": "SGAS",
+    "product": "0613SGAS.txt",
+    "issued": "2023 Jun 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230614SGAS.txt",
+    "source": "SGAS",
+    "product": "0614SGAS.txt",
+    "issued": "2023 Jun 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230615SGAS.txt",
+    "source": "SGAS",
+    "product": "0615SGAS.txt",
+    "issued": "2023 Jun 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230616SGAS.txt",
+    "source": "SGAS",
+    "product": "0616SGAS.txt",
+    "issued": "2023 Jun 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230617SGAS.txt",
+    "source": "SGAS",
+    "product": "0617SGAS.txt",
+    "issued": "2023 Jun 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230618SGAS.txt",
+    "source": "SGAS",
+    "product": "0618SGAS.txt",
+    "issued": "2023 Jun 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230619SGAS.txt",
+    "source": "SGAS",
+    "product": "0619SGAS.txt",
+    "issued": "2023 Jun 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230620SGAS.txt",
+    "source": "SGAS",
+    "product": "0620SGAS.txt",
+    "issued": "2023 Jun 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230621SGAS.txt",
+    "source": "SGAS",
+    "product": "0621SGAS.txt",
+    "issued": "2023 Jun 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230622SGAS.txt",
+    "source": "SGAS",
+    "product": "0622SGAS.txt",
+    "issued": "2023 Jun 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230623SGAS.txt",
+    "source": "SGAS",
+    "product": "0623SGAS.txt",
+    "issued": "2023 Jun 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230624SGAS.txt",
+    "source": "SGAS",
+    "product": "0624SGAS.txt",
+    "issued": "2023 Jun 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230625SGAS.txt",
+    "source": "SGAS",
+    "product": "0625SGAS.txt",
+    "issued": "2023 Jun 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230626SGAS.txt",
+    "source": "SGAS",
+    "product": "0626SGAS.txt",
+    "issued": "2023 Jun 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230627SGAS.txt",
+    "source": "SGAS",
+    "product": "0627SGAS.txt",
+    "issued": "2023 Jun 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230628SGAS.txt",
+    "source": "SGAS",
+    "product": "0628SGAS.txt",
+    "issued": "2023 Jun 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230629SGAS.txt",
+    "source": "SGAS",
+    "product": "0629SGAS.txt",
+    "issued": "2023 Jun 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230630SGAS.txt",
+    "source": "SGAS",
+    "product": "0630SGAS.txt",
+    "issued": "2023 Jun 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230701SGAS.txt",
+    "source": "SGAS",
+    "product": "0701SGAS.txt",
+    "issued": "2023 Jul 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230702SGAS.txt",
+    "source": "SGAS",
+    "product": "0702SGAS.txt",
+    "issued": "2023 Jul 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230703SGAS.txt",
+    "source": "SGAS",
+    "product": "0703SGAS.txt",
+    "issued": "2023 Jul 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230704SGAS.txt",
+    "source": "SGAS",
+    "product": "0704SGAS.txt",
+    "issued": "2023 Jul 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230705SGAS.txt",
+    "source": "SGAS",
+    "product": "0705SGAS.txt",
+    "issued": "2023 Jul 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230706SGAS.txt",
+    "source": "SGAS",
+    "product": "0706SGAS.txt",
+    "issued": "2023 Jul 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230707SGAS.txt",
+    "source": "SGAS",
+    "product": "0707SGAS.txt",
+    "issued": "2023 Jul 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230708SGAS.txt",
+    "source": "SGAS",
+    "product": "0708SGAS.txt",
+    "issued": "2023 Jul 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230709SGAS.txt",
+    "source": "SGAS",
+    "product": "0709SGAS.txt",
+    "issued": "2023 Jul 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230710SGAS.txt",
+    "source": "SGAS",
+    "product": "0710SGAS.txt",
+    "issued": "2023 Jul 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230711SGAS.txt",
+    "source": "SGAS",
+    "product": "0711SGAS.txt",
+    "issued": "2023 Jul 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230712SGAS.txt",
+    "source": "SGAS",
+    "product": "0712SGAS.txt",
+    "issued": "2023 Jul 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230713SGAS.txt",
+    "source": "SGAS",
+    "product": "0713SGAS.txt",
+    "issued": "2023 Jul 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230714SGAS.txt",
+    "source": "SGAS",
+    "product": "0714SGAS.txt",
+    "issued": "2023 Jul 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230715SGAS.txt",
+    "source": "SGAS",
+    "product": "0715SGAS.txt",
+    "issued": "2023 Jul 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230716SGAS.txt",
+    "source": "SGAS",
+    "product": "0716SGAS.txt",
+    "issued": "2023 Jul 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230717SGAS.txt",
+    "source": "SGAS",
+    "product": "0717SGAS.txt",
+    "issued": "2023 Jul 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230718SGAS.txt",
+    "source": "SGAS",
+    "product": "0718SGAS.txt",
+    "issued": "2023 Jul 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230719SGAS.txt",
+    "source": "SGAS",
+    "product": "0719SGAS.txt",
+    "issued": "2023 Jul 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230720SGAS.txt",
+    "source": "SGAS",
+    "product": "0720SGAS.txt",
+    "issued": "2023 Jul 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230721SGAS.txt",
+    "source": "SGAS",
+    "product": "0721SGAS.txt",
+    "issued": "2023 Jul 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230722SGAS.txt",
+    "source": "SGAS",
+    "product": "0722SGAS.txt",
+    "issued": "2023 Jul 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230723SGAS.txt",
+    "source": "SGAS",
+    "product": "0723SGAS.txt",
+    "issued": "2023 Jul 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230724SGAS.txt",
+    "source": "SGAS",
+    "product": "0724SGAS.txt",
+    "issued": "2023 Jul 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230725SGAS.txt",
+    "source": "SGAS",
+    "product": "0725SGAS.txt",
+    "issued": "2023 Jul 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230726SGAS.txt",
+    "source": "SGAS",
+    "product": "0726SGAS.txt",
+    "issued": "2023 Jul 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230727SGAS.txt",
+    "source": "SGAS",
+    "product": "0727SGAS.txt",
+    "issued": "2023 Jul 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230728SGAS.txt",
+    "source": "SGAS",
+    "product": "0728SGAS.txt",
+    "issued": "2023 Jul 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230729SGAS.txt",
+    "source": "SGAS",
+    "product": "0729SGAS.txt",
+    "issued": "2023 Jul 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230730SGAS.txt",
+    "source": "SGAS",
+    "product": "0730SGAS.txt",
+    "issued": "2023 Jul 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230731SGAS.txt",
+    "source": "SGAS",
+    "product": "0731SGAS.txt",
+    "issued": "2023 Jul 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230801SGAS.txt",
+    "source": "SGAS",
+    "product": "0801SGAS.txt",
+    "issued": "2023 Aug 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230802SGAS.txt",
+    "source": "SGAS",
+    "product": "0802SGAS.txt",
+    "issued": "2023 Aug 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230803SGAS.txt",
+    "source": "SGAS",
+    "product": "0803SGAS.txt",
+    "issued": "2023 Aug 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230804SGAS.txt",
+    "source": "SGAS",
+    "product": "0804SGAS.txt",
+    "issued": "2023 Aug 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230805SGAS.txt",
+    "source": "SGAS",
+    "product": "0805SGAS.txt",
+    "issued": "2023 Aug 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230806SGAS.txt",
+    "source": "SGAS",
+    "product": "0806SGAS.txt",
+    "issued": "2023 Aug 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230807SGAS.txt",
+    "source": "SGAS",
+    "product": "0807SGAS.txt",
+    "issued": "2023 Aug 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230808SGAS.txt",
+    "source": "SGAS",
+    "product": "0808SGAS.txt",
+    "issued": "2023 Aug 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230809SGAS.txt",
+    "source": "SGAS",
+    "product": "0809SGAS.txt",
+    "issued": "2023 Aug 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230810SGAS.txt",
+    "source": "SGAS",
+    "product": "0810SGAS.txt",
+    "issued": "2023 Aug 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230811SGAS.txt",
+    "source": "SGAS",
+    "product": "0811SGAS.txt",
+    "issued": "2023 Aug 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230812SGAS.txt",
+    "source": "SGAS",
+    "product": "0812SGAS.txt",
+    "issued": "2023 Aug 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230813SGAS.txt",
+    "source": "SGAS",
+    "product": "0813SGAS.txt",
+    "issued": "2023 Aug 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230814SGAS.txt",
+    "source": "SGAS",
+    "product": "0814SGAS.txt",
+    "issued": "2023 Aug 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230815SGAS.txt",
+    "source": "SGAS",
+    "product": "0815SGAS.txt",
+    "issued": "2023 Aug 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230816SGAS.txt",
+    "source": "SGAS",
+    "product": "0816SGAS.txt",
+    "issued": "2023 Aug 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230817SGAS.txt",
+    "source": "SGAS",
+    "product": "0817SGAS.txt",
+    "issued": "2023 Aug 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230818SGAS.txt",
+    "source": "SGAS",
+    "product": "0818SGAS.txt",
+    "issued": "2023 Aug 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230819SGAS.txt",
+    "source": "SGAS",
+    "product": "0819SGAS.txt",
+    "issued": "2023 Aug 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230820SGAS.txt",
+    "source": "SGAS",
+    "product": "0820SGAS.txt",
+    "issued": "2023 Aug 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230821SGAS.txt",
+    "source": "SGAS",
+    "product": "0821SGAS.txt",
+    "issued": "2023 Aug 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230822SGAS.txt",
+    "source": "SGAS",
+    "product": "0822SGAS.txt",
+    "issued": "2023 Aug 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230823SGAS.txt",
+    "source": "SGAS",
+    "product": "0823SGAS.txt",
+    "issued": "2023 Aug 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230824SGAS.txt",
+    "source": "SGAS",
+    "product": "0824SGAS.txt",
+    "issued": "2023 Aug 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230825SGAS.txt",
+    "source": "SGAS",
+    "product": "0825SGAS.txt",
+    "issued": "2023 Aug 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230826SGAS.txt",
+    "source": "SGAS",
+    "product": "0826SGAS.txt",
+    "issued": "2023 Aug 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230827SGAS.txt",
+    "source": "SGAS",
+    "product": "0827SGAS.txt",
+    "issued": "2023 Aug 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230828SGAS.txt",
+    "source": "SGAS",
+    "product": "0828SGAS.txt",
+    "issued": "2023 Aug 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230829SGAS.txt",
+    "source": "SGAS",
+    "product": "0829SGAS.txt",
+    "issued": "2023 Aug 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230830SGAS.txt",
+    "source": "SGAS",
+    "product": "0830SGAS.txt",
+    "issued": "2023 Aug 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230831SGAS.txt",
+    "source": "SGAS",
+    "product": "0831SGAS.txt",
+    "issued": "2023 Aug 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230901SGAS.txt",
+    "source": "SGAS",
+    "product": "0901SGAS.txt",
+    "issued": "2023 Sep 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230902SGAS.txt",
+    "source": "SGAS",
+    "product": "0902SGAS.txt",
+    "issued": "2023 Sep 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230903SGAS.txt",
+    "source": "SGAS",
+    "product": "0903SGAS.txt",
+    "issued": "2023 Sep 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230904SGAS.txt",
+    "source": "SGAS",
+    "product": "0904SGAS.txt",
+    "issued": "2023 Sep 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230905SGAS.txt",
+    "source": "SGAS",
+    "product": "0905SGAS.txt",
+    "issued": "2023 Sep 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230906SGAS.txt",
+    "source": "SGAS",
+    "product": "0906SGAS.txt",
+    "issued": "2023 Sep 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230907SGAS.txt",
+    "source": "SGAS",
+    "product": "0907SGAS.txt",
+    "issued": "2023 Sep 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230908SGAS.txt",
+    "source": "SGAS",
+    "product": "0908SGAS.txt",
+    "issued": "2023 Sep 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230909SGAS.txt",
+    "source": "SGAS",
+    "product": "0909SGAS.txt",
+    "issued": "2023 Sep 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230910SGAS.txt",
+    "source": "SGAS",
+    "product": "0910SGAS.txt",
+    "issued": "2023 Sep 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230911SGAS.txt",
+    "source": "SGAS",
+    "product": "0911SGAS.txt",
+    "issued": "2023 Sep 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230912SGAS.txt",
+    "source": "SGAS",
+    "product": "0912SGAS.txt",
+    "issued": "2023 Sep 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230913SGAS.txt",
+    "source": "SGAS",
+    "product": "0913SGAS.txt",
+    "issued": "2023 Sep 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230914SGAS.txt",
+    "source": "SGAS",
+    "product": "0914SGAS.txt",
+    "issued": "2023 Sep 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230915SGAS.txt",
+    "source": "SGAS",
+    "product": "0915SGAS.txt",
+    "issued": "2023 Sep 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230916SGAS.txt",
+    "source": "SGAS",
+    "product": "0916SGAS.txt",
+    "issued": "2023 Sep 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230917SGAS.txt",
+    "source": "SGAS",
+    "product": "0917SGAS.txt",
+    "issued": "2023 Sep 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230918SGAS.txt",
+    "source": "SGAS",
+    "product": "0918SGAS.txt",
+    "issued": "2023 Sep 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230919SGAS.txt",
+    "source": "SGAS",
+    "product": "0919SGAS.txt",
+    "issued": "2023 Sep 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230920SGAS.txt",
+    "source": "SGAS",
+    "product": "0920SGAS.txt",
+    "issued": "2023 Sep 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230921SGAS.txt",
+    "source": "SGAS",
+    "product": "0921SGAS.txt",
+    "issued": "2023 Sep 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230922SGAS.txt",
+    "source": "SGAS",
+    "product": "0922SGAS.txt",
+    "issued": "2023 Sep 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230923SGAS.txt",
+    "source": "SGAS",
+    "product": "0923SGAS.txt",
+    "issued": "2023 Sep 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230924SGAS.txt",
+    "source": "SGAS",
+    "product": "0924SGAS.txt",
+    "issued": "2023 Sep 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230925SGAS.txt",
+    "source": "SGAS",
+    "product": "0925SGAS.txt",
+    "issued": "2023 Sep 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230926SGAS.txt",
+    "source": "SGAS",
+    "product": "0926SGAS.txt",
+    "issued": "2023 Sep 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230927SGAS.txt",
+    "source": "SGAS",
+    "product": "0927SGAS.txt",
+    "issued": "2023 Sep 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230928SGAS.txt",
+    "source": "SGAS",
+    "product": "0928SGAS.txt",
+    "issued": "2023 Sep 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230929SGAS.txt",
+    "source": "SGAS",
+    "product": "0929SGAS.txt",
+    "issued": "2023 Sep 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20230930SGAS.txt",
+    "source": "SGAS",
+    "product": "0930SGAS.txt",
+    "issued": "2023 Sep 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231001SGAS.txt",
+    "source": "SGAS",
+    "product": "1001SGAS.txt",
+    "issued": "2023 Oct 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231002SGAS.txt",
+    "source": "SGAS",
+    "product": "1002SGAS.txt",
+    "issued": "2023 Oct 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231003SGAS.txt",
+    "source": "SGAS",
+    "product": "1003SGAS.txt",
+    "issued": "2023 Oct 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231004SGAS.txt",
+    "source": "SGAS",
+    "product": "1004SGAS.txt",
+    "issued": "2023 Oct 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231005SGAS.txt",
+    "source": "SGAS",
+    "product": "1005SGAS.txt",
+    "issued": "2023 Oct 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231006SGAS.txt",
+    "source": "SGAS",
+    "product": "1006SGAS.txt",
+    "issued": "2023 Oct 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231007SGAS.txt",
+    "source": "SGAS",
+    "product": "1007SGAS.txt",
+    "issued": "2023 Oct 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231008SGAS.txt",
+    "source": "SGAS",
+    "product": "1008SGAS.txt",
+    "issued": "2023 Oct 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231009SGAS.txt",
+    "source": "SGAS",
+    "product": "1009SGAS.txt",
+    "issued": "2023 Oct 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231010SGAS.txt",
+    "source": "SGAS",
+    "product": "1010SGAS.txt",
+    "issued": "2023 Oct 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231011SGAS.txt",
+    "source": "SGAS",
+    "product": "1011SGAS.txt",
+    "issued": "2023 Oct 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231012SGAS.txt",
+    "source": "SGAS",
+    "product": "1012SGAS.txt",
+    "issued": "2023 Oct 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231013SGAS.txt",
+    "source": "SGAS",
+    "product": "1013SGAS.txt",
+    "issued": "2023 Oct 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231014SGAS.txt",
+    "source": "SGAS",
+    "product": "1014SGAS.txt",
+    "issued": "2023 Oct 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231015SGAS.txt",
+    "source": "SGAS",
+    "product": "1015SGAS.txt",
+    "issued": "2023 Oct 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231016SGAS.txt",
+    "source": "SGAS",
+    "product": "1016SGAS.txt",
+    "issued": "2023 Oct 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231017SGAS.txt",
+    "source": "SGAS",
+    "product": "1017SGAS.txt",
+    "issued": "2023 Oct 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231018SGAS.txt",
+    "source": "SGAS",
+    "product": "1018SGAS.txt",
+    "issued": "2023 Oct 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231019SGAS.txt",
+    "source": "SGAS",
+    "product": "1019SGAS.txt",
+    "issued": "2023 Oct 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231020SGAS.txt",
+    "source": "SGAS",
+    "product": "1020SGAS.txt",
+    "issued": "2023 Oct 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231021SGAS.txt",
+    "source": "SGAS",
+    "product": "1021SGAS.txt",
+    "issued": "2023 Oct 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231022SGAS.txt",
+    "source": "SGAS",
+    "product": "1022SGAS.txt",
+    "issued": "2023 Oct 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231023SGAS.txt",
+    "source": "SGAS",
+    "product": "1023SGAS.txt",
+    "issued": "2023 Oct 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231024SGAS.txt",
+    "source": "SGAS",
+    "product": "1024SGAS.txt",
+    "issued": "2023 Oct 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231025SGAS.txt",
+    "source": "SGAS",
+    "product": "1025SGAS.txt",
+    "issued": "2023 Oct 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231026SGAS.txt",
+    "source": "SGAS",
+    "product": "1026SGAS.txt",
+    "issued": "2023 Oct 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231027SGAS.txt",
+    "source": "SGAS",
+    "product": "1027SGAS.txt",
+    "issued": "2023 Oct 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231028SGAS.txt",
+    "source": "SGAS",
+    "product": "1028SGAS.txt",
+    "issued": "2023 Oct 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231029SGAS.txt",
+    "source": "SGAS",
+    "product": "1029SGAS.txt",
+    "issued": "2023 Oct 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231030SGAS.txt",
+    "source": "SGAS",
+    "product": "1030SGAS.txt",
+    "issued": "2023 Oct 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231031SGAS.txt",
+    "source": "SGAS",
+    "product": "1031SGAS.txt",
+    "issued": "2023 Oct 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231101SGAS.txt",
+    "source": "SGAS",
+    "product": "1101SGAS.txt",
+    "issued": "2023 Nov 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231102SGAS.txt",
+    "source": "SGAS",
+    "product": "1102SGAS.txt",
+    "issued": "2023 Nov 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231103SGAS.txt",
+    "source": "SGAS",
+    "product": "1103SGAS.txt",
+    "issued": "2023 Nov 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231104SGAS.txt",
+    "source": "SGAS",
+    "product": "1104SGAS.txt",
+    "issued": "2023 Nov 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231105SGAS.txt",
+    "source": "SGAS",
+    "product": "1105SGAS.txt",
+    "issued": "2023 Nov 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231106SGAS.txt",
+    "source": "SGAS",
+    "product": "1106SGAS.txt",
+    "issued": "2023 Nov 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231107SGAS.txt",
+    "source": "SGAS",
+    "product": "1107SGAS.txt",
+    "issued": "2023 Nov 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231108SGAS.txt",
+    "source": "SGAS",
+    "product": "1108SGAS.txt",
+    "issued": "2023 Nov 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231109SGAS.txt",
+    "source": "SGAS",
+    "product": "1109SGAS.txt",
+    "issued": "2023 Nov 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231110SGAS.txt",
+    "source": "SGAS",
+    "product": "1110SGAS.txt",
+    "issued": "2023 Nov 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231111SGAS.txt",
+    "source": "SGAS",
+    "product": "1111SGAS.txt",
+    "issued": "2023 Nov 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231112SGAS.txt",
+    "source": "SGAS",
+    "product": "1112SGAS.txt",
+    "issued": "2023 Nov 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231113SGAS.txt",
+    "source": "SGAS",
+    "product": "1113SGAS.txt",
+    "issued": "2023 Nov 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231114SGAS.txt",
+    "source": "SGAS",
+    "product": "1114SGAS.txt",
+    "issued": "2023 Nov 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231115SGAS.txt",
+    "source": "SGAS",
+    "product": "1115SGAS.txt",
+    "issued": "2023 Nov 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231116SGAS.txt",
+    "source": "SGAS",
+    "product": "1116SGAS.txt",
+    "issued": "2023 Nov 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231117SGAS.txt",
+    "source": "SGAS",
+    "product": "1117SGAS.txt",
+    "issued": "2023 Nov 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231118SGAS.txt",
+    "source": "SGAS",
+    "product": "1118SGAS.txt",
+    "issued": "2023 Nov 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231119SGAS.txt",
+    "source": "SGAS",
+    "product": "1119SGAS.txt",
+    "issued": "2023 Nov 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231120SGAS.txt",
+    "source": "SGAS",
+    "product": "1120SGAS.txt",
+    "issued": "2023 Nov 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231121SGAS.txt",
+    "source": "SGAS",
+    "product": "1121SGAS.txt",
+    "issued": "2023 Nov 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231122SGAS.txt",
+    "source": "SGAS",
+    "product": "1122SGAS.txt",
+    "issued": "2023 Nov 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231123SGAS.txt",
+    "source": "SGAS",
+    "product": "1123SGAS.txt",
+    "issued": "2023 Nov 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231124SGAS.txt",
+    "source": "SGAS",
+    "product": "1124SGAS.txt",
+    "issued": "2023 Nov 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231125SGAS.txt",
+    "source": "SGAS",
+    "product": "1125SGAS.txt",
+    "issued": "2023 Nov 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231126SGAS.txt",
+    "source": "SGAS",
+    "product": "1126SGAS.txt",
+    "issued": "2023 Nov 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231127SGAS.txt",
+    "source": "SGAS",
+    "product": "1127SGAS.txt",
+    "issued": "2023 Nov 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231128SGAS.txt",
+    "source": "SGAS",
+    "product": "1128SGAS.txt",
+    "issued": "2023 Nov 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231129SGAS.txt",
+    "source": "SGAS",
+    "product": "1129SGAS.txt",
+    "issued": "2023 Nov 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231130SGAS.txt",
+    "source": "SGAS",
+    "product": "1130SGAS.txt",
+    "issued": "2023 Nov 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231201SGAS.txt",
+    "source": "SGAS",
+    "product": "1201SGAS.txt",
+    "issued": "2023 Dec 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231202SGAS.txt",
+    "source": "SGAS",
+    "product": "1202SGAS.txt",
+    "issued": "2023 Dec 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231203SGAS.txt",
+    "source": "SGAS",
+    "product": "1203SGAS.txt",
+    "issued": "2023 Dec 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231204SGAS.txt",
+    "source": "SGAS",
+    "product": "1204SGAS.txt",
+    "issued": "2023 Dec 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231205SGAS.txt",
+    "source": "SGAS",
+    "product": "1205SGAS.txt",
+    "issued": "2023 Dec 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231206SGAS.txt",
+    "source": "SGAS",
+    "product": "1206SGAS.txt",
+    "issued": "2023 Dec 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231207SGAS.txt",
+    "source": "SGAS",
+    "product": "1207SGAS.txt",
+    "issued": "2023 Dec 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231208SGAS.txt",
+    "source": "SGAS",
+    "product": "1208SGAS.txt",
+    "issued": "2023 Dec 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231209SGAS.txt",
+    "source": "SGAS",
+    "product": "1209SGAS.txt",
+    "issued": "2023 Dec 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231210SGAS.txt",
+    "source": "SGAS",
+    "product": "1210SGAS.txt",
+    "issued": "2023 Dec 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231211SGAS.txt",
+    "source": "SGAS",
+    "product": "1211SGAS.txt",
+    "issued": "2023 Dec 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231212SGAS.txt",
+    "source": "SGAS",
+    "product": "1212SGAS.txt",
+    "issued": "2023 Dec 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231213SGAS.txt",
+    "source": "SGAS",
+    "product": "1213SGAS.txt",
+    "issued": "2023 Dec 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231214SGAS.txt",
+    "source": "SGAS",
+    "product": "1214SGAS.txt",
+    "issued": "2023 Dec 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231215SGAS.txt",
+    "source": "SGAS",
+    "product": "1215SGAS.txt",
+    "issued": "2023 Dec 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231216SGAS.txt",
+    "source": "SGAS",
+    "product": "1216SGAS.txt",
+    "issued": "2023 Dec 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231217SGAS.txt",
+    "source": "SGAS",
+    "product": "1217SGAS.txt",
+    "issued": "2023 Dec 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231218SGAS.txt",
+    "source": "SGAS",
+    "product": "1218SGAS.txt",
+    "issued": "2023 Dec 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231219SGAS.txt",
+    "source": "SGAS",
+    "product": "1219SGAS.txt",
+    "issued": "2023 Dec 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231220SGAS.txt",
+    "source": "SGAS",
+    "product": "1220SGAS.txt",
+    "issued": "2023 Dec 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231221SGAS.txt",
+    "source": "SGAS",
+    "product": "1221SGAS.txt",
+    "issued": "2023 Dec 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231222SGAS.txt",
+    "source": "SGAS",
+    "product": "1222SGAS.txt",
+    "issued": "2023 Dec 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231223SGAS.txt",
+    "source": "SGAS",
+    "product": "1223SGAS.txt",
+    "issued": "2023 Dec 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231224SGAS.txt",
+    "source": "SGAS",
+    "product": "1224SGAS.txt",
+    "issued": "2023 Dec 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231225SGAS.txt",
+    "source": "SGAS",
+    "product": "1225SGAS.txt",
+    "issued": "2023 Dec 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231226SGAS.txt",
+    "source": "SGAS",
+    "product": "1226SGAS.txt",
+    "issued": "2023 Dec 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231227SGAS.txt",
+    "source": "SGAS",
+    "product": "1227SGAS.txt",
+    "issued": "2023 Dec 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231228SGAS.txt",
+    "source": "SGAS",
+    "product": "1228SGAS.txt",
+    "issued": "2023 Dec 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231229SGAS.txt",
+    "source": "SGAS",
+    "product": "1229SGAS.txt",
+    "issued": "2023 Dec 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231230SGAS.txt",
+    "source": "SGAS",
+    "product": "1230SGAS.txt",
+    "issued": "2023 Dec 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20231231SGAS.txt",
+    "source": "SGAS",
+    "product": "1231SGAS.txt",
+    "issued": "2023 Dec 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  }
+]

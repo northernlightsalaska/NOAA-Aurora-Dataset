@@ -1,0 +1,2922 @@
+[
+  {
+    "file": "20050101SGAS.txt",
+    "source": "SGAS",
+    "product": "20050101SGAS.txt",
+    "issued": "2005 Jan 01 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050102SGAS.txt",
+    "source": "SGAS",
+    "product": "20050102SGAS.txt",
+    "issued": "2005 Jan 02 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050103SGAS.txt",
+    "source": "SGAS",
+    "product": "20050103SGAS.txt",
+    "issued": "2005 Jan 03 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050104SGAS.txt",
+    "source": "SGAS",
+    "product": "20050104SGAS.txt",
+    "issued": "2005 Jan 04 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050105SGAS.txt",
+    "source": "SGAS",
+    "product": "20050105SGAS.txt",
+    "issued": "2005 Jan 05 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050106SGAS.txt",
+    "source": "SGAS",
+    "product": "20050106SGAS.txt",
+    "issued": "2005 Jan 06 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050107SGAS.txt",
+    "source": "SGAS",
+    "product": "20050107SGAS.txt",
+    "issued": "2005 Jan 07 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050108SGAS.txt",
+    "source": "SGAS",
+    "product": "20050108SGAS.txt",
+    "issued": "2005 Jan 08 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050109SGAS.txt",
+    "source": "SGAS",
+    "product": "20050109SGAS.txt",
+    "issued": "2005 Jan 09 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050110SGAS.txt",
+    "source": "SGAS",
+    "product": "20050110SGAS.txt",
+    "issued": "2005 Jan 10 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050111SGAS.txt",
+    "source": "SGAS",
+    "product": "20050111SGAS.txt",
+    "issued": "2005 Jan 11 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050112SGAS.txt",
+    "source": "SGAS",
+    "product": "20050112SGAS.txt",
+    "issued": "2005 Jan 12 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050113SGAS.txt",
+    "source": "SGAS",
+    "product": "20050113SGAS.txt",
+    "issued": "2005 Jan 13 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050114SGAS.txt",
+    "source": "SGAS",
+    "product": "20050114SGAS.txt",
+    "issued": "2005 Jan 14 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050115SGAS.txt",
+    "source": "SGAS",
+    "product": "20050115SGAS.txt",
+    "issued": "2005 Jan 15 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050116SGAS.txt",
+    "source": "SGAS",
+    "product": "20050116SGAS.txt",
+    "issued": "2005 Jan 16 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050117SGAS.txt",
+    "source": "SGAS",
+    "product": "20050117SGAS.txt",
+    "issued": "2005 Jan 17 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050118SGAS.txt",
+    "source": "SGAS",
+    "product": "20050118SGAS.txt",
+    "issued": "2005 Jan 18 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050119SGAS.txt",
+    "source": "SGAS",
+    "product": "20050119SGAS.txt",
+    "issued": "2005 Jan 19 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050120SGAS.txt",
+    "source": "SGAS",
+    "product": "20050120SGAS.txt",
+    "issued": "2005 Jan 20 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050121SGAS.txt",
+    "source": "SGAS",
+    "product": "20050121SGAS.txt",
+    "issued": "2005 Jan 21 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050122SGAS.txt",
+    "source": "SGAS",
+    "product": "20050122SGAS.txt",
+    "issued": "2005 Jan 22 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050123SGAS.txt",
+    "source": "SGAS",
+    "product": "20050123SGAS.txt",
+    "issued": "2005 Jan 23 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050124SGAS.txt",
+    "source": "SGAS",
+    "product": "20050124SGAS.txt",
+    "issued": "2005 Jan 24 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050125SGAS.txt",
+    "source": "SGAS",
+    "product": "20050125SGAS.txt",
+    "issued": "2005 Jan 25 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050126SGAS.txt",
+    "source": "SGAS",
+    "product": "20050126SGAS.txt",
+    "issued": "2005 Jan 26 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050127SGAS.txt",
+    "source": "SGAS",
+    "product": "20050127SGAS.txt",
+    "issued": "2005 Jan 27 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050128SGAS.txt",
+    "source": "SGAS",
+    "product": "20050128SGAS.txt",
+    "issued": "2005 Jan 28 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050129SGAS.txt",
+    "source": "SGAS",
+    "product": "20050129SGAS.txt",
+    "issued": "2005 Jan 29 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050130SGAS.txt",
+    "source": "SGAS",
+    "product": "20050130SGAS.txt",
+    "issued": "2005 Jan 30 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050131SGAS.txt",
+    "source": "SGAS",
+    "product": "20050131SGAS.txt",
+    "issued": "2005 Jan 31 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050201SGAS.txt",
+    "source": "SGAS",
+    "product": "20050201SGAS.txt",
+    "issued": "2005 Feb 01 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050202SGAS.txt",
+    "source": "SGAS",
+    "product": "20050202SGAS.txt",
+    "issued": "2005 Feb 02 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050203SGAS.txt",
+    "source": "SGAS",
+    "product": "20050203SGAS.txt",
+    "issued": "2005 Feb 03 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050204SGAS.txt",
+    "source": "SGAS",
+    "product": "20050204SGAS.txt",
+    "issued": "2005 Feb 04 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050205SGAS.txt",
+    "source": "SGAS",
+    "product": "20050205SGAS.txt",
+    "issued": "2005 Feb 05 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050206SGAS.txt",
+    "source": "SGAS",
+    "product": "20050206SGAS.txt",
+    "issued": "2005 Feb 06 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050207SGAS.txt",
+    "source": "SGAS",
+    "product": "20050207SGAS.txt",
+    "issued": "2005 Feb 07 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050208SGAS.txt",
+    "source": "SGAS",
+    "product": "20050208SGAS.txt",
+    "issued": "2005 Feb 08 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050209SGAS.txt",
+    "source": "SGAS",
+    "product": "20050209SGAS.txt",
+    "issued": "2005 Feb 09 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050210SGAS.txt",
+    "source": "SGAS",
+    "product": "20050210SGAS.txt",
+    "issued": "2005 Feb 10 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050211SGAS.txt",
+    "source": "SGAS",
+    "product": "20050211SGAS.txt",
+    "issued": "2005 Feb 11 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050212SGAS.txt",
+    "source": "SGAS",
+    "product": "20050212SGAS.txt",
+    "issued": "2005 Feb 12 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050213SGAS.txt",
+    "source": "SGAS",
+    "product": "20050213SGAS.txt",
+    "issued": "2005 Feb 13 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050214SGAS.txt",
+    "source": "SGAS",
+    "product": "20050214SGAS.txt",
+    "issued": "2005 Feb 14 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050215SGAS.txt",
+    "source": "SGAS",
+    "product": "20050215SGAS.txt",
+    "issued": "2005 Feb 15 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050216SGAS.txt",
+    "source": "SGAS",
+    "product": "20050216SGAS.txt",
+    "issued": "2005 Feb 16 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050217SGAS.txt",
+    "source": "SGAS",
+    "product": "20050217SGAS.txt",
+    "issued": "2005 Feb 17 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050218SGAS.txt",
+    "source": "SGAS",
+    "product": "20050218SGAS.txt",
+    "issued": "2005 Feb 18 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050219SGAS.txt",
+    "source": "SGAS",
+    "product": "20050219SGAS.txt",
+    "issued": "2005 Feb 19 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050220SGAS.txt",
+    "source": "SGAS",
+    "product": "20050220SGAS.txt",
+    "issued": "2005 Feb 20 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050221SGAS.txt",
+    "source": "SGAS",
+    "product": "20050221SGAS.txt",
+    "issued": "2005 Feb 21 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050222SGAS.txt",
+    "source": "SGAS",
+    "product": "20050222SGAS.txt",
+    "issued": "2005 Feb 22 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050223SGAS.txt",
+    "source": "SGAS",
+    "product": "20050223SGAS.txt",
+    "issued": "2005 Feb 23 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050224SGAS.txt",
+    "source": "SGAS",
+    "product": "20050224SGAS.txt",
+    "issued": "2005 Feb 24 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050225SGAS.txt",
+    "source": "SGAS",
+    "product": "20050225SGAS.txt",
+    "issued": "2005 Feb 25 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050226SGAS.txt",
+    "source": "SGAS",
+    "product": "20050226SGAS.txt",
+    "issued": "2005 Feb 26 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050227SGAS.txt",
+    "source": "SGAS",
+    "product": "20050227SGAS.txt",
+    "issued": "2005 Feb 27 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050228SGAS.txt",
+    "source": "SGAS",
+    "product": "20050228SGAS.txt",
+    "issued": "2005 Feb 28 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050301SGAS.txt",
+    "source": "SGAS",
+    "product": "20050301SGAS.txt",
+    "issued": "2005 Mar 01 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050302SGAS.txt",
+    "source": "SGAS",
+    "product": "20050302SGAS.txt",
+    "issued": "2005 Mar 02 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050303SGAS.txt",
+    "source": "SGAS",
+    "product": "20050303SGAS.txt",
+    "issued": "2005 Mar 03 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050304SGAS.txt",
+    "source": "SGAS",
+    "product": "20050304SGAS.txt",
+    "issued": "2005 Mar 04 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050305SGAS.txt",
+    "source": "SGAS",
+    "product": "20050305SGAS.txt",
+    "issued": "2005 Mar 05 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050306SGAS.txt",
+    "source": "SGAS",
+    "product": "20050306SGAS.txt",
+    "issued": "2005 Mar 06 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050307SGAS.txt",
+    "source": "SGAS",
+    "product": "20050307SGAS.txt",
+    "issued": "2005 Mar 07 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050308SGAS.txt",
+    "source": "SGAS",
+    "product": "20050308SGAS.txt",
+    "issued": "2005 Mar 08 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050309SGAS.txt",
+    "source": "SGAS",
+    "product": "20050309SGAS.txt",
+    "issued": "2005 Mar 09 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050310SGAS.txt",
+    "source": "SGAS",
+    "product": "20050310SGAS.txt",
+    "issued": "2005 Mar 10 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050311SGAS.txt",
+    "source": "SGAS",
+    "product": "20050311SGAS.txt",
+    "issued": "2005 Mar 11 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050312SGAS.txt",
+    "source": "SGAS",
+    "product": "20050312SGAS.txt",
+    "issued": "2005 Mar 12 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050313SGAS.txt",
+    "source": "SGAS",
+    "product": "20050313SGAS.txt",
+    "issued": "2005 Mar 13 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050314SGAS.txt",
+    "source": "SGAS",
+    "product": "20050314SGAS.txt",
+    "issued": "2005 Mar 14 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050315SGAS.txt",
+    "source": "SGAS",
+    "product": "20050315SGAS.txt",
+    "issued": "2005 Mar 15 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050316SGAS.txt",
+    "source": "SGAS",
+    "product": "20050316SGAS.txt",
+    "issued": "2005 Mar 16 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050317SGAS.txt",
+    "source": "SGAS",
+    "product": "20050317SGAS.txt",
+    "issued": "2005 Mar 17 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050318SGAS.txt",
+    "source": "SGAS",
+    "product": "20050318SGAS.txt",
+    "issued": "2005 Mar 18 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050319SGAS.txt",
+    "source": "SGAS",
+    "product": "20050319SGAS.txt",
+    "issued": "2005 Mar 19 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050320SGAS.txt",
+    "source": "SGAS",
+    "product": "20050320SGAS.txt",
+    "issued": "2005 Mar 20 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050321SGAS.txt",
+    "source": "SGAS",
+    "product": "20050321SGAS.txt",
+    "issued": "2005 Mar 21 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050322SGAS.txt",
+    "source": "SGAS",
+    "product": "20050322SGAS.txt",
+    "issued": "2005 Mar 22 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050323SGAS.txt",
+    "source": "SGAS",
+    "product": "20050323SGAS.txt",
+    "issued": "2005 Mar 23 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050324SGAS.txt",
+    "source": "SGAS",
+    "product": "20050324SGAS.txt",
+    "issued": "2005 Mar 24 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050325SGAS.txt",
+    "source": "SGAS",
+    "product": "20050325SGAS.txt",
+    "issued": "2005 Mar 25 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050326SGAS.txt",
+    "source": "SGAS",
+    "product": "20050326SGAS.txt",
+    "issued": "2005 Mar 26 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050327SGAS.txt",
+    "source": "SGAS",
+    "product": "20050327SGAS.txt",
+    "issued": "2005 Mar 27 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050328SGAS.txt",
+    "source": "SGAS",
+    "product": "20050328SGAS.txt",
+    "issued": "2005 Mar 28 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050329SGAS.txt",
+    "source": "SGAS",
+    "product": "20050329SGAS.txt",
+    "issued": "2005 Mar 29 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050330SGAS.txt",
+    "source": "SGAS",
+    "product": "20050330SGAS.txt",
+    "issued": "2005 Mar 30 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050331SGAS.txt",
+    "source": "SGAS",
+    "product": "20050331SGAS.txt",
+    "issued": "2005 Mar 31 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050401SGAS.txt",
+    "source": "SGAS",
+    "product": "20050401SGAS.txt",
+    "issued": "2005 Apr 01 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050402SGAS.txt",
+    "source": "SGAS",
+    "product": "20050402SGAS.txt",
+    "issued": "2005 Apr 02 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050403SGAS.txt",
+    "source": "SGAS",
+    "product": "20050403SGAS.txt",
+    "issued": "2005 Apr 03 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050404SGAS.txt",
+    "source": "SGAS",
+    "product": "20050404SGAS.txt",
+    "issued": "2005 Apr 04 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050405SGAS.txt",
+    "source": "SGAS",
+    "product": "20050405SGAS.txt",
+    "issued": "2005 Apr 05 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050406SGAS.txt",
+    "source": "SGAS",
+    "product": "20050406SGAS.txt",
+    "issued": "2005 Apr 06 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050407SGAS.txt",
+    "source": "SGAS",
+    "product": "20050407SGAS.txt",
+    "issued": "2005 Apr 07 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050408SGAS.txt",
+    "source": "SGAS",
+    "product": "20050408SGAS.txt",
+    "issued": "2005 Apr 08 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050409SGAS.txt",
+    "source": "SGAS",
+    "product": "20050409SGAS.txt",
+    "issued": "2005 Apr 09 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050410SGAS.txt",
+    "source": "SGAS",
+    "product": "20050410SGAS.txt",
+    "issued": "2005 Apr 10 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050411SGAS.txt",
+    "source": "SGAS",
+    "product": "20050411SGAS.txt",
+    "issued": "2005 Apr 11 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050412SGAS.txt",
+    "source": "SGAS",
+    "product": "20050412SGAS.txt",
+    "issued": "2005 Apr 12 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050413SGAS.txt",
+    "source": "SGAS",
+    "product": "20050413SGAS.txt",
+    "issued": "2005 Apr 13 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050414SGAS.txt",
+    "source": "SGAS",
+    "product": "20050414SGAS.txt",
+    "issued": "2005 Apr 14 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050415SGAS.txt",
+    "source": "SGAS",
+    "product": "20050415SGAS.txt",
+    "issued": "2005 Apr 15 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050416SGAS.txt",
+    "source": "SGAS",
+    "product": "20050416SGAS.txt",
+    "issued": "2005 Apr 16 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050417SGAS.txt",
+    "source": "SGAS",
+    "product": "20050417SGAS.txt",
+    "issued": "2005 Apr 17 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050418SGAS.txt",
+    "source": "SGAS",
+    "product": "20050418SGAS.txt",
+    "issued": "2005 Apr 18 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050419SGAS.txt",
+    "source": "SGAS",
+    "product": "20050419SGAS.txt",
+    "issued": "2005 Apr 19 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050420SGAS.txt",
+    "source": "SGAS",
+    "product": "20050420SGAS.txt",
+    "issued": "2005 Apr 20 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050421SGAS.txt",
+    "source": "SGAS",
+    "product": "20050421SGAS.txt",
+    "issued": "2005 Apr 21 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050422SGAS.txt",
+    "source": "SGAS",
+    "product": "20050422SGAS.txt",
+    "issued": "2005 Apr 22 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050423SGAS.txt",
+    "source": "SGAS",
+    "product": "20050423SGAS.txt",
+    "issued": "2005 Apr 23 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050424SGAS.txt",
+    "source": "SGAS",
+    "product": "20050424SGAS.txt",
+    "issued": "2005 Apr 24 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050425SGAS.txt",
+    "source": "SGAS",
+    "product": "20050425SGAS.txt",
+    "issued": "2005 Apr 25 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050426SGAS.txt",
+    "source": "SGAS",
+    "product": "20050426SGAS.txt",
+    "issued": "2005 Apr 26 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050427SGAS.txt",
+    "source": "SGAS",
+    "product": "20050427SGAS.txt",
+    "issued": "2005 Apr 27 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050428SGAS.txt",
+    "source": "SGAS",
+    "product": "20050428SGAS.txt",
+    "issued": "2005 Apr 28 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050429SGAS.txt",
+    "source": "SGAS",
+    "product": "20050429SGAS.txt",
+    "issued": "2005 Apr 29 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050430SGAS.txt",
+    "source": "SGAS",
+    "product": "20050430SGAS.txt",
+    "issued": "2005 Apr 30 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050501SGAS.txt",
+    "source": "SGAS",
+    "product": "20050501SGAS.txt",
+    "issued": "2005 May 01 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050502SGAS.txt",
+    "source": "SGAS",
+    "product": "20050502SGAS.txt",
+    "issued": "2005 May 02 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050503SGAS.txt",
+    "source": "SGAS",
+    "product": "20050503SGAS.txt",
+    "issued": "2005 May 03 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050504SGAS.txt",
+    "source": "SGAS",
+    "product": "20050504SGAS.txt",
+    "issued": "2005 May 04 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050505SGAS.txt",
+    "source": "SGAS",
+    "product": "20050505SGAS.txt",
+    "issued": "2005 May 05 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050506SGAS.txt",
+    "source": "SGAS",
+    "product": "20050506SGAS.txt",
+    "issued": "2005 May 06 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050507SGAS.txt",
+    "source": "SGAS",
+    "product": "20050507SGAS.txt",
+    "issued": "2005 May 07 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050508SGAS.txt",
+    "source": "SGAS",
+    "product": "20050508SGAS.txt",
+    "issued": "2005 May 08 1540 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050509SGAS.txt",
+    "source": "SGAS",
+    "product": "20050509SGAS.txt",
+    "issued": "2005 May 09 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050510SGAS.txt",
+    "source": "SGAS",
+    "product": "0510SGAS.txt",
+    "issued": "2005 May 10 0312 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050511SGAS.txt",
+    "source": "SGAS",
+    "product": "0511SGAS.txt",
+    "issued": "2005 May 11 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050512SGAS.txt",
+    "source": "SGAS",
+    "product": "20050512SGAS.txt",
+    "issued": "2005 May 12 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050513SGAS.txt",
+    "source": "SGAS",
+    "product": "20050513SGAS.txt",
+    "issued": "2005 May 13 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050514SGAS.txt",
+    "source": "SGAS",
+    "product": "20050514SGAS.txt",
+    "issued": "2005 May 14 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050515SGAS.txt",
+    "source": "SGAS",
+    "product": "20050515SGAS.txt",
+    "issued": "2005 May 15 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050516SGAS.txt",
+    "source": "SGAS",
+    "product": "20050516SGAS.txt",
+    "issued": "2005 May 16 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050517SGAS.txt",
+    "source": "SGAS",
+    "product": "20050517SGAS.txt",
+    "issued": "2005 May 17 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050518SGAS.txt",
+    "source": "SGAS",
+    "product": "20050518SGAS.txt",
+    "issued": "2005 May 18 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050519SGAS.txt",
+    "source": "SGAS",
+    "product": "20050519SGAS.txt",
+    "issued": "2005 May 19 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050520SGAS.txt",
+    "source": "SGAS",
+    "product": "20050520SGAS.txt",
+    "issued": "2005 May 20 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050521SGAS.txt",
+    "source": "SGAS",
+    "product": "20050521SGAS.txt",
+    "issued": "2005 May 21 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050522SGAS.txt",
+    "source": "SGAS",
+    "product": "20050522SGAS.txt",
+    "issued": "2005 May 22 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050523SGAS.txt",
+    "source": "SGAS",
+    "product": "20050523SGAS.txt",
+    "issued": "2005 May 23 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050524SGAS.txt",
+    "source": "SGAS",
+    "product": "20050524SGAS.txt",
+    "issued": "2005 May 24 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050525SGAS.txt",
+    "source": "SGAS",
+    "product": "20050525SGAS.txt",
+    "issued": "2005 May 25 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050526SGAS.txt",
+    "source": "SGAS",
+    "product": "20050526SGAS.txt",
+    "issued": "2005 May 26 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050527SGAS.txt",
+    "source": "SGAS",
+    "product": "20050527SGAS.txt",
+    "issued": "2005 May 27 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050528SGAS.txt",
+    "source": "SGAS",
+    "product": "20050528SGAS.txt",
+    "issued": "2005 May 28 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050529SGAS.txt",
+    "source": "SGAS",
+    "product": "20050529SGAS.txt",
+    "issued": "2005 May 29 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050530SGAS.txt",
+    "source": "SGAS",
+    "product": "20050530SGAS.txt",
+    "issued": "2005 May 30 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050531SGAS.txt",
+    "source": "SGAS",
+    "product": "20050531SGAS.txt",
+    "issued": "2005 May 31 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050601SGAS.txt",
+    "source": "SGAS",
+    "product": "20050601SGAS.txt",
+    "issued": "2005 Jun 01 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050602SGAS.txt",
+    "source": "SGAS",
+    "product": "20050602SGAS.txt",
+    "issued": "2005 Jun 02 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050603SGAS.txt",
+    "source": "SGAS",
+    "product": "20050603SGAS.txt",
+    "issued": "2005 Jun 03 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050604SGAS.txt",
+    "source": "SGAS",
+    "product": "20050604SGAS.txt",
+    "issued": "2005 Jun 04 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050605SGAS.txt",
+    "source": "SGAS",
+    "product": "20050605SGAS.txt",
+    "issued": "2005 Jun 05 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050606SGAS.txt",
+    "source": "SGAS",
+    "product": "20050606SGAS.txt",
+    "issued": "2005 Jun 06 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050607SGAS.txt",
+    "source": "SGAS",
+    "product": "20050607SGAS.txt",
+    "issued": "2005 Jun 07 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050608SGAS.txt",
+    "source": "SGAS",
+    "product": "20050608SGAS.txt",
+    "issued": "2005 Jun 08 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050609SGAS.txt",
+    "source": "SGAS",
+    "product": "20050609SGAS.txt",
+    "issued": "2005 Jun 09 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050610SGAS.txt",
+    "source": "SGAS",
+    "product": "20050610SGAS.txt",
+    "issued": "2005 Jun 10 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050611SGAS.txt",
+    "source": "SGAS",
+    "product": "20050611SGAS.txt",
+    "issued": "2005 Jun 11 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050612SGAS.txt",
+    "source": "SGAS",
+    "product": "20050612SGAS.txt",
+    "issued": "2005 Jun 12 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050613SGAS.txt",
+    "source": "SGAS",
+    "product": "20050613SGAS.txt",
+    "issued": "2005 Jun 13 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050614SGAS.txt",
+    "source": "SGAS",
+    "product": "20050614SGAS.txt",
+    "issued": "2005 Jun 14 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050615SGAS.txt",
+    "source": "SGAS",
+    "product": "20050615SGAS.txt",
+    "issued": "2005 Jun 15 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050616SGAS.txt",
+    "source": "SGAS",
+    "product": "20050616SGAS.txt",
+    "issued": "2005 Jun 16 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050617SGAS.txt",
+    "source": "SGAS",
+    "product": "20050617SGAS.txt",
+    "issued": "2005 Jun 17 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050618SGAS.txt",
+    "source": "SGAS",
+    "product": "20050618SGAS.txt",
+    "issued": "2005 Jun 18 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050619SGAS.txt",
+    "source": "SGAS",
+    "product": "20050619SGAS.txt",
+    "issued": "2005 Jun 19 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050620SGAS.txt",
+    "source": "SGAS",
+    "product": "20050620SGAS.txt",
+    "issued": "2005 Jun 20 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050621SGAS.txt",
+    "source": "SGAS",
+    "product": "20050621SGAS.txt",
+    "issued": "2005 Jun 21 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050622SGAS.txt",
+    "source": "SGAS",
+    "product": "20050622SGAS.txt",
+    "issued": "2005 Jun 22 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050623SGAS.txt",
+    "source": "SGAS",
+    "product": "20050623SGAS.txt",
+    "issued": "2005 Jun 23 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050624SGAS.txt",
+    "source": "SGAS",
+    "product": "20050624SGAS.txt",
+    "issued": "2005 Jun 24 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050625SGAS.txt",
+    "source": "SGAS",
+    "product": "20050625SGAS.txt",
+    "issued": "2005 Jun 25 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050626SGAS.txt",
+    "source": "SGAS",
+    "product": "20050626SGAS.txt",
+    "issued": "2005 Jun 26 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050627SGAS.txt",
+    "source": "SGAS",
+    "product": "20050627SGAS.txt",
+    "issued": "2005 Jun 27 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050628SGAS.txt",
+    "source": "SGAS",
+    "product": "20050628SGAS.txt",
+    "issued": "2005 Jun 28 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050629SGAS.txt",
+    "source": "SGAS",
+    "product": "20050629SGAS.txt",
+    "issued": "2005 Jun 29 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050630SGAS.txt",
+    "source": "SGAS",
+    "product": "20050630SGAS.txt",
+    "issued": "2005 Jun 30 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050701SGAS.txt",
+    "source": "SGAS",
+    "product": "20050701SGAS.txt",
+    "issued": "2005 Jul 01 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050702SGAS.txt",
+    "source": "SGAS",
+    "product": "20050702SGAS.txt",
+    "issued": "2005 Jul 02 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050703SGAS.txt",
+    "source": "SGAS",
+    "product": "20050703SGAS.txt",
+    "issued": "2005 Jul 03 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050704SGAS.txt",
+    "source": "SGAS",
+    "product": "20050704SGAS.txt",
+    "issued": "2005 Jul 04 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050705SGAS.txt",
+    "source": "SGAS",
+    "product": "20050705SGAS.txt",
+    "issued": "2005 Jul 05 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050706SGAS.txt",
+    "source": "SGAS",
+    "product": "20050706SGAS.txt",
+    "issued": "2005 Jul 06 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050707SGAS.txt",
+    "source": "SGAS",
+    "product": "20050707SGAS.txt",
+    "issued": "2005 Jul 07 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050708SGAS.txt",
+    "source": "SGAS",
+    "product": "20050708SGAS.txt",
+    "issued": "2005 Jul 08 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050709SGAS.txt",
+    "source": "SGAS",
+    "product": "20050709SGAS.txt",
+    "issued": "2005 Jul 09 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050710SGAS.txt",
+    "source": "SGAS",
+    "product": "20050710SGAS.txt",
+    "issued": "2005 Jul 10 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050711SGAS.txt",
+    "source": "SGAS",
+    "product": "20050711SGAS.txt",
+    "issued": "2005 Jul 11 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050712SGAS.txt",
+    "source": "SGAS",
+    "product": "20050712SGAS.txt",
+    "issued": "2005 Jul 12 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050713SGAS.txt",
+    "source": "SGAS",
+    "product": "20050713SGAS.txt",
+    "issued": "2005 Jul 13 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050714SGAS.txt",
+    "source": "SGAS",
+    "product": "20050714SGAS.txt",
+    "issued": "2005 Jul 14 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050715SGAS.txt",
+    "source": "SGAS",
+    "product": "20050715SGAS.txt",
+    "issued": "2005 Jul 15 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050716SGAS.txt",
+    "source": "SGAS",
+    "product": "20050716SGAS.txt",
+    "issued": "2005 Jul 16 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050717SGAS.txt",
+    "source": "SGAS",
+    "product": "20050717SGAS.txt",
+    "issued": "2005 Jul 17 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050718SGAS.txt",
+    "source": "SGAS",
+    "product": "20050718SGAS.txt",
+    "issued": "2005 Jul 18 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050719SGAS.txt",
+    "source": "SGAS",
+    "product": "20050719SGAS.txt",
+    "issued": "2005 Jul 19 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050720SGAS.txt",
+    "source": "SGAS",
+    "product": "20050720SGAS.txt",
+    "issued": "2005 Jul 20 0250 UT",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050721SGAS.txt",
+    "source": "SGAS",
+    "product": "0721SGAS.txt",
+    "issued": "2005 Jul 21 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050722SGAS.txt",
+    "source": "SGAS",
+    "product": "0722SGAS.txt",
+    "issued": "2005 Jul 22 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050723SGAS.txt",
+    "source": "SGAS",
+    "product": "0723SGAS.txt",
+    "issued": "2005 Jul 23 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050724SGAS.txt",
+    "source": "SGAS",
+    "product": "0724SGAS.txt",
+    "issued": "2005 Jul 24 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050725SGAS.txt",
+    "source": "SGAS",
+    "product": "0725SGAS.txt",
+    "issued": "2005 Jul 25 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050726SGAS.txt",
+    "source": "SGAS",
+    "product": "0726SGAS.txt",
+    "issued": "2005 Jul 26 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050727SGAS.txt",
+    "source": "SGAS",
+    "product": "0727SGAS.txt",
+    "issued": "2005 Jul 27 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050728SGAS.txt",
+    "source": "SGAS",
+    "product": "0728SGAS.txt",
+    "issued": "2005 Jul 28 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050729SGAS.txt",
+    "source": "SGAS",
+    "product": "0729SGAS.txt",
+    "issued": "2005 Jul 29 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050730SGAS.txt",
+    "source": "SGAS",
+    "product": "0730SGAS.txt",
+    "issued": "2005 Jul 30 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050731SGAS.txt",
+    "source": "SGAS",
+    "product": "0731SGAS.txt",
+    "issued": "2005 Jul 31 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050801SGAS.txt",
+    "source": "SGAS",
+    "product": "0801SGAS.txt",
+    "issued": "2005 Aug 01 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050802SGAS.txt",
+    "source": "SGAS",
+    "product": "0802SGAS.txt",
+    "issued": "2005 Aug 02 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050803SGAS.txt",
+    "source": "SGAS",
+    "product": "0803SGAS.txt",
+    "issued": "2005 Aug 03 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050804SGAS.txt",
+    "source": "SGAS",
+    "product": "0804SGAS.txt",
+    "issued": "2005 Aug 04 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050805SGAS.txt",
+    "source": "SGAS",
+    "product": "0805SGAS.txt",
+    "issued": "2005 Aug 05 0249 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050806SGAS.txt",
+    "source": "SGAS",
+    "product": "0806SGAS.txt",
+    "issued": "2005 Aug 06 0249 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050807SGAS.txt",
+    "source": "SGAS",
+    "product": "0807SGAS.txt",
+    "issued": "2005 Aug 07 0249 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050808SGAS.txt",
+    "source": "SGAS",
+    "product": "0808SGAS.txt",
+    "issued": "2005 Aug 08 0249 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050809SGAS.txt",
+    "source": "SGAS",
+    "product": "0809SGAS.txt",
+    "issued": "2005 Aug 09 0249 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050810SGAS.txt",
+    "source": "SGAS",
+    "product": "0810SGAS.txt",
+    "issued": "2005 Aug 10 0249 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050811SGAS.txt",
+    "source": "SGAS",
+    "product": "0811SGAS.txt",
+    "issued": "2005 Aug 11 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050812SGAS.txt",
+    "source": "SGAS",
+    "product": "0812SGAS.txt",
+    "issued": "2005 Aug 12 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050813SGAS.txt",
+    "source": "SGAS",
+    "product": "0813SGAS.txt",
+    "issued": "2005 Aug 13 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050814SGAS.txt",
+    "source": "SGAS",
+    "product": "0814SGAS.txt",
+    "issued": "2005 Aug 14 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050815SGAS.txt",
+    "source": "SGAS",
+    "product": "0815SGAS.txt",
+    "issued": "2005 Aug 15 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050816SGAS.txt",
+    "source": "SGAS",
+    "product": "0816SGAS.txt",
+    "issued": "2005 Aug 16 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050817SGAS.txt",
+    "source": "SGAS",
+    "product": "0817SGAS.txt",
+    "issued": "2005 Aug 17 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050818SGAS.txt",
+    "source": "SGAS",
+    "product": "0818SGAS.txt",
+    "issued": "2005 Aug 18 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050819SGAS.txt",
+    "source": "SGAS",
+    "product": "0819SGAS.txt",
+    "issued": "2005 Aug 19 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050820SGAS.txt",
+    "source": "SGAS",
+    "product": "0820SGAS.txt",
+    "issued": "2005 Aug 20 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050821SGAS.txt",
+    "source": "SGAS",
+    "product": "0821SGAS.txt",
+    "issued": "2005 Aug 21 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050822SGAS.txt",
+    "source": "SGAS",
+    "product": "0822SGAS.txt",
+    "issued": "2005 Aug 22 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050823SGAS.txt",
+    "source": "SGAS",
+    "product": "0823SGAS.txt",
+    "issued": "2005 Aug 23 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050824SGAS.txt",
+    "source": "SGAS",
+    "product": "0824SGAS.txt",
+    "issued": "2005 Aug 24 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050825SGAS.txt",
+    "source": "SGAS",
+    "product": "0825SGAS.txt",
+    "issued": "2005 Aug 25 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050826SGAS.txt",
+    "source": "SGAS",
+    "product": "0826SGAS.txt",
+    "issued": "2005 Aug 26 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050827SGAS.txt",
+    "source": "SGAS",
+    "product": "0827SGAS.txt",
+    "issued": "2005 Aug 27 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050828SGAS.txt",
+    "source": "SGAS",
+    "product": "0828SGAS.txt",
+    "issued": "2005 Aug 28 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050829SGAS.txt",
+    "source": "SGAS",
+    "product": "0829SGAS.txt",
+    "issued": "2005 Aug 29 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050830SGAS.txt",
+    "source": "SGAS",
+    "product": "0830SGAS.txt",
+    "issued": "2005 Aug 30 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050831SGAS.txt",
+    "source": "SGAS",
+    "product": "0831SGAS.txt",
+    "issued": "2005 Aug 31 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050901SGAS.txt",
+    "source": "SGAS",
+    "product": "0901SGAS.txt",
+    "issued": "2005 Sep 01 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050902SGAS.txt",
+    "source": "SGAS",
+    "product": "0902SGAS.txt",
+    "issued": "2005 Sep 02 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050903SGAS.txt",
+    "source": "SGAS",
+    "product": "0903SGAS.txt",
+    "issued": "2005 Sep 03 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050904SGAS.txt",
+    "source": "SGAS",
+    "product": "0904SGAS.txt",
+    "issued": "2005 Sep 04 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050905SGAS.txt",
+    "source": "SGAS",
+    "product": "0905SGAS.txt",
+    "issued": "2005 Sep 05 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050906SGAS.txt",
+    "source": "SGAS",
+    "product": "0906SGAS.txt",
+    "issued": "2005 Sep 06 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050907SGAS.txt",
+    "source": "SGAS",
+    "product": "0907SGAS.txt",
+    "issued": "2005 Sep 07 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050908SGAS.txt",
+    "source": "SGAS",
+    "product": "0908SGAS.txt",
+    "issued": "2005 Sep 08 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050909SGAS.txt",
+    "source": "SGAS",
+    "product": "0909SGAS.txt",
+    "issued": "2005 Sep 09 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050910SGAS.txt",
+    "source": "SGAS",
+    "product": "0910SGAS.txt",
+    "issued": "2005 Sep 10 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050911SGAS.txt",
+    "source": "SGAS",
+    "product": "0911SGAS.txt",
+    "issued": "2005 Sep 11 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050912SGAS.txt",
+    "source": "SGAS",
+    "product": "0912SGAS.txt",
+    "issued": "2005 Sep 12 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050913SGAS.txt",
+    "source": "SGAS",
+    "product": "0913SGAS.txt",
+    "issued": "2005 Sep 13 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050914SGAS.txt",
+    "source": "SGAS",
+    "product": "0914SGAS.txt",
+    "issued": "2005 Sep 14 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050915SGAS.txt",
+    "source": "SGAS",
+    "product": "0915SGAS.txt",
+    "issued": "2005 Sep 15 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050916SGAS.txt",
+    "source": "SGAS",
+    "product": "0916SGAS.txt",
+    "issued": "2005 Sep 16 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050917SGAS.txt",
+    "source": "SGAS",
+    "product": "0917SGAS.txt",
+    "issued": "2005 Sep 17 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050918SGAS.txt",
+    "source": "SGAS",
+    "product": "0918SGAS.txt",
+    "issued": "2005 Sep 18 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050919SGAS.txt",
+    "source": "SGAS",
+    "product": "0919SGAS.txt",
+    "issued": "2005 Sep 19 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050920SGAS.txt",
+    "source": "SGAS",
+    "product": "0920SGAS.txt",
+    "issued": "2005 Sep 20 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050921SGAS.txt",
+    "source": "SGAS",
+    "product": "0921SGAS.txt",
+    "issued": "2005 Sep 21 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050922SGAS.txt",
+    "source": "SGAS",
+    "product": "0922SGAS.txt",
+    "issued": "2005 Sep 22 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050923SGAS.txt",
+    "source": "SGAS",
+    "product": "0923SGAS.txt",
+    "issued": "2005 Sep 23 0458 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050924SGAS.txt",
+    "source": "SGAS",
+    "product": "0924SGAS.txt",
+    "issued": "2005 Sep 24 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050925SGAS.txt",
+    "source": "SGAS",
+    "product": "0925SGAS.txt",
+    "issued": "2005 Sep 25 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050926SGAS.txt",
+    "source": "SGAS",
+    "product": "0926SGAS.txt",
+    "issued": "2005 Sep 26 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050927SGAS.txt",
+    "source": "SGAS",
+    "product": "0927SGAS.txt",
+    "issued": "2005 Sep 27 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050928SGAS.txt",
+    "source": "SGAS",
+    "product": "0928SGAS.txt",
+    "issued": "2005 Sep 28 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050929SGAS.txt",
+    "source": "SGAS",
+    "product": "0929SGAS.txt",
+    "issued": "2005 Sep 29 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20050930SGAS.txt",
+    "source": "SGAS",
+    "product": "0930SGAS.txt",
+    "issued": "2005 Sep 30 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051001SGAS.txt",
+    "source": "SGAS",
+    "product": "1001SGAS.txt",
+    "issued": "2005 Oct 01 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051002SGAS.txt",
+    "source": "SGAS",
+    "product": "1002SGAS.txt",
+    "issued": "2005 Oct 02 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051003SGAS.txt",
+    "source": "SGAS",
+    "product": "1003SGAS.txt",
+    "issued": "2005 Oct 03 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051004SGAS.txt",
+    "source": "SGAS",
+    "product": "1004SGAS.txt",
+    "issued": "2005 Oct 04 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051005SGAS.txt",
+    "source": "SGAS",
+    "product": "1005SGAS.txt",
+    "issued": "2005 Oct 05 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051006SGAS.txt",
+    "source": "SGAS",
+    "product": "1006SGAS.txt",
+    "issued": "2005 Oct 06 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051007SGAS.txt",
+    "source": "SGAS",
+    "product": "1007SGAS.txt",
+    "issued": "2005 Oct 07 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051008SGAS.txt",
+    "source": "SGAS",
+    "product": "1008SGAS.txt",
+    "issued": "2005 Oct 08 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051009SGAS.txt",
+    "source": "SGAS",
+    "product": "1009SGAS.txt",
+    "issued": "2005 Oct 09 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051010SGAS.txt",
+    "source": "SGAS",
+    "product": "1010SGAS.txt",
+    "issued": "2005 Oct 10 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051011SGAS.txt",
+    "source": "SGAS",
+    "product": "1011SGAS.txt",
+    "issued": "2005 Oct 11 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051012SGAS.txt",
+    "source": "SGAS",
+    "product": "1012SGAS.txt",
+    "issued": "2005 Oct 12 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051013SGAS.txt",
+    "source": "SGAS",
+    "product": "1013SGAS.txt",
+    "issued": "2005 Oct 13 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051014SGAS.txt",
+    "source": "SGAS",
+    "product": "1014SGAS.txt",
+    "issued": "2005 Oct 14 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051015SGAS.txt",
+    "source": "SGAS",
+    "product": "1015SGAS.txt",
+    "issued": "2005 Oct 15 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051016SGAS.txt",
+    "source": "SGAS",
+    "product": "1016SGAS.txt",
+    "issued": "2005 Oct 16 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051017SGAS.txt",
+    "source": "SGAS",
+    "product": "1017SGAS.txt",
+    "issued": "2005 Oct 17 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051018SGAS.txt",
+    "source": "SGAS",
+    "product": "1018SGAS.txt",
+    "issued": "2005 Oct 18 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051019SGAS.txt",
+    "source": "SGAS",
+    "product": "1019SGAS.txt",
+    "issued": "2005 Oct 19 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051020SGAS.txt",
+    "source": "SGAS",
+    "product": "1020SGAS.txt",
+    "issued": "2005 Oct 20 0249 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051021SGAS.txt",
+    "source": "SGAS",
+    "product": "1021SGAS.txt",
+    "issued": "2005 Oct 21 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051022SGAS.txt",
+    "source": "SGAS",
+    "product": "1022SGAS.txt",
+    "issued": "2005 Oct 22 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051023SGAS.txt",
+    "source": "SGAS",
+    "product": "1023SGAS.txt",
+    "issued": "2005 Oct 23 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051024SGAS.txt",
+    "source": "SGAS",
+    "product": "1024SGAS.txt",
+    "issued": "2005 Oct 24 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051025SGAS.txt",
+    "source": "SGAS",
+    "product": "1025SGAS.txt",
+    "issued": "2005 Oct 25 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051026SGAS.txt",
+    "source": "SGAS",
+    "product": "1026SGAS.txt",
+    "issued": "2005 Oct 26 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051027SGAS.txt",
+    "source": "SGAS",
+    "product": "1027SGAS.txt",
+    "issued": "2005 Oct 27 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051028SGAS.txt",
+    "source": "SGAS",
+    "product": "1028SGAS.txt",
+    "issued": "2005 Oct 28 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051029SGAS.txt",
+    "source": "SGAS",
+    "product": "1029SGAS.txt",
+    "issued": "2005 Oct 29 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051030SGAS.txt",
+    "source": "SGAS",
+    "product": "1030SGAS.txt",
+    "issued": "2005 Oct 30 0341 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051031SGAS.txt",
+    "source": "SGAS",
+    "product": "1031SGAS.txt",
+    "issued": "2005 Oct 31 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051101SGAS.txt",
+    "source": "SGAS",
+    "product": "1101SGAS.txt",
+    "issued": "2005 Nov 01 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051102SGAS.txt",
+    "source": "SGAS",
+    "product": "1102SGAS.txt",
+    "issued": "2005 Nov 02 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051103SGAS.txt",
+    "source": "SGAS",
+    "product": "1103SGAS.txt",
+    "issued": "2005 Nov 03 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051104SGAS.txt",
+    "source": "SGAS",
+    "product": "1104SGAS.txt",
+    "issued": "2005 Nov 04 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051105SGAS.txt",
+    "source": "SGAS",
+    "product": "1105SGAS.txt",
+    "issued": "2005 Nov 05 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051106SGAS.txt",
+    "source": "SGAS",
+    "product": "1106SGAS.txt",
+    "issued": "2005 Nov 06 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051107SGAS.txt",
+    "source": "SGAS",
+    "product": "1107SGAS.txt",
+    "issued": "2005 Nov 07 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051108SGAS.txt",
+    "source": "SGAS",
+    "product": "1108SGAS.txt",
+    "issued": "2005 Nov 08 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051109SGAS.txt",
+    "source": "SGAS",
+    "product": "1109SGAS.txt",
+    "issued": "2005 Nov 09 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051110SGAS.txt",
+    "source": "SGAS",
+    "product": "1110SGAS.txt",
+    "issued": "2005 Nov 10 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051111SGAS.txt",
+    "source": "SGAS",
+    "product": "1111SGAS.txt",
+    "issued": "2005 Nov 11 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051112SGAS.txt",
+    "source": "SGAS",
+    "product": "1112SGAS.txt",
+    "issued": "2005 Nov 12 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051113SGAS.txt",
+    "source": "SGAS",
+    "product": "1113SGAS.txt",
+    "issued": "2005 Nov 13 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051114SGAS.txt",
+    "source": "SGAS",
+    "product": "1114SGAS.txt",
+    "issued": "2005 Nov 14 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051115SGAS.txt",
+    "source": "SGAS",
+    "product": "1115SGAS.txt",
+    "issued": "2005 Nov 15 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051116SGAS.txt",
+    "source": "SGAS",
+    "product": "1116SGAS.txt",
+    "issued": "2005 Nov 16 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051117SGAS.txt",
+    "source": "SGAS",
+    "product": "1117SGAS.txt",
+    "issued": "2005 Nov 17 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051118SGAS.txt",
+    "source": "SGAS",
+    "product": "1118SGAS.txt",
+    "issued": "2005 Nov 18 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051119SGAS.txt",
+    "source": "SGAS",
+    "product": "1119SGAS.txt",
+    "issued": "2005 Nov 19 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051120SGAS.txt",
+    "source": "SGAS",
+    "product": "1120SGAS.txt",
+    "issued": "2005 Nov 20 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051121SGAS.txt",
+    "source": "SGAS",
+    "product": "1121SGAS.txt",
+    "issued": "2005 Nov 21 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051122SGAS.txt",
+    "source": "SGAS",
+    "product": "1122SGAS.txt",
+    "issued": "2005 Nov 22 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051123SGAS.txt",
+    "source": "SGAS",
+    "product": "1123SGAS.txt",
+    "issued": "2005 Nov 23 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051124SGAS.txt",
+    "source": "SGAS",
+    "product": "1124SGAS.txt",
+    "issued": "2005 Nov 24 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051125SGAS.txt",
+    "source": "SGAS",
+    "product": "1125SGAS.txt",
+    "issued": "2005 Nov 25 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051126SGAS.txt",
+    "source": "SGAS",
+    "product": "1126SGAS.txt",
+    "issued": "2005 Nov 26 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051127SGAS.txt",
+    "source": "SGAS",
+    "product": "1127SGAS.txt",
+    "issued": "2005 Nov 27 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051128SGAS.txt",
+    "source": "SGAS",
+    "product": "1128SGAS.txt",
+    "issued": "2005 Nov 28 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051129SGAS.txt",
+    "source": "SGAS",
+    "product": "1129SGAS.txt",
+    "issued": "2005 Nov 29 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051130SGAS.txt",
+    "source": "SGAS",
+    "product": "1130SGAS.txt",
+    "issued": "2005 Nov 30 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051201SGAS.txt",
+    "source": "SGAS",
+    "product": "1201SGAS.txt",
+    "issued": "2005 Dec 01 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051202SGAS.txt",
+    "source": "SGAS",
+    "product": "1202SGAS.txt",
+    "issued": "2005 Dec 02 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051203SGAS.txt",
+    "source": "SGAS",
+    "product": "1203SGAS.txt",
+    "issued": "2005 Dec 03 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051204SGAS.txt",
+    "source": "SGAS",
+    "product": "1204SGAS.txt",
+    "issued": "2005 Dec 04 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051205SGAS.txt",
+    "source": "SGAS",
+    "product": "1205SGAS.txt",
+    "issued": "2005 Dec 05 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051206SGAS.txt",
+    "source": "SGAS",
+    "product": "1206SGAS.txt",
+    "issued": "2005 Dec 06 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051207SGAS.txt",
+    "source": "SGAS",
+    "product": "1207SGAS.txt",
+    "issued": "2005 Dec 07 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051208SGAS.txt",
+    "source": "SGAS",
+    "product": "1208SGAS.txt",
+    "issued": "2005 Dec 08 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051209SGAS.txt",
+    "source": "SGAS",
+    "product": "1209SGAS.txt",
+    "issued": "2005 Dec 09 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051210SGAS.txt",
+    "source": "SGAS",
+    "product": "1210SGAS.txt",
+    "issued": "2005 Dec 10 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051211SGAS.txt",
+    "source": "SGAS",
+    "product": "1211SGAS.txt",
+    "issued": "2005 Dec 11 0327 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051212SGAS.txt",
+    "source": "SGAS",
+    "product": "1212SGAS.txt",
+    "issued": "2005 Dec 12 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051213SGAS.txt",
+    "source": "SGAS",
+    "product": "1213SGAS.txt",
+    "issued": "2005 Dec 13 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051214SGAS.txt",
+    "source": "SGAS",
+    "product": "1214SGAS.txt",
+    "issued": "2005 Dec 14 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051215SGAS.txt",
+    "source": "SGAS",
+    "product": "1215SGAS.txt",
+    "issued": "2005 Dec 15 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051216SGAS.txt",
+    "source": "SGAS",
+    "product": "1216SGAS.txt",
+    "issued": "2005 Dec 16 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051217SGAS.txt",
+    "source": "SGAS",
+    "product": "1217SGAS.txt",
+    "issued": "2005 Dec 17 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051218SGAS.txt",
+    "source": "SGAS",
+    "product": "1218SGAS.txt",
+    "issued": "2005 Dec 18 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051219SGAS.txt",
+    "source": "SGAS",
+    "product": "1219SGAS.txt",
+    "issued": "2005 Dec 19 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051220SGAS.txt",
+    "source": "SGAS",
+    "product": "1220SGAS.txt",
+    "issued": "2005 Dec 20 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051221SGAS.txt",
+    "source": "SGAS",
+    "product": "1221SGAS.txt",
+    "issued": "2005 Dec 21 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051222SGAS.txt",
+    "source": "SGAS",
+    "product": "1222SGAS.txt",
+    "issued": "2005 Dec 22 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051223SGAS.txt",
+    "source": "SGAS",
+    "product": "1223SGAS.txt",
+    "issued": "2005 Dec 23 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051224SGAS.txt",
+    "source": "SGAS",
+    "product": "1224SGAS.txt",
+    "issued": "2005 Dec 24 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051225SGAS.txt",
+    "source": "SGAS",
+    "product": "1225SGAS.txt",
+    "issued": "2005 Dec 25 0247 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051226SGAS.txt",
+    "source": "SGAS",
+    "product": "1226SGAS.txt",
+    "issued": "2005 Dec 26 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051227SGAS.txt",
+    "source": "SGAS",
+    "product": "1227SGAS.txt",
+    "issued": "2005 Dec 27 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051228SGAS.txt",
+    "source": "SGAS",
+    "product": "1228SGAS.txt",
+    "issued": "2005 Dec 28 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051229SGAS.txt",
+    "source": "SGAS",
+    "product": "1229SGAS.txt",
+    "issued": "2005 Dec 29 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051230SGAS.txt",
+    "source": "SGAS",
+    "product": "1230SGAS.txt",
+    "issued": "2005 Dec 30 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20051231SGAS.txt",
+    "source": "SGAS",
+    "product": "1231SGAS.txt",
+    "issued": "2005 Dec 31 0248 UTC",
+    "sdfNumber": null,
+    "sections": []
+  }
+]

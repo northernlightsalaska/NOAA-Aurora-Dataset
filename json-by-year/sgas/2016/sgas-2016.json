@@ -1,0 +1,2930 @@
+[
+  {
+    "file": "20160101SGAS.txt",
+    "source": "SGAS",
+    "product": "0101SGAS.txt",
+    "issued": "2016 Jan 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160102SGAS.txt",
+    "source": "SGAS",
+    "product": "0102SGAS.txt",
+    "issued": "2016 Jan 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160103SGAS.txt",
+    "source": "SGAS",
+    "product": "0103SGAS.txt",
+    "issued": "2016 Jan 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160104SGAS.txt",
+    "source": "SGAS",
+    "product": "0104SGAS.txt",
+    "issued": "2016 Jan 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160105SGAS.txt",
+    "source": "SGAS",
+    "product": "0105SGAS.txt",
+    "issued": "2016 Jan 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160106SGAS.txt",
+    "source": "SGAS",
+    "product": "0106SGAS.txt",
+    "issued": "2016 Jan 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160107SGAS.txt",
+    "source": "SGAS",
+    "product": "0107SGAS.txt",
+    "issued": "2016 Jan 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160108SGAS.txt",
+    "source": "SGAS",
+    "product": "0108SGAS.txt",
+    "issued": "2016 Jan 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160109SGAS.txt",
+    "source": "SGAS",
+    "product": "0109SGAS.txt",
+    "issued": "2016 Jan 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160110SGAS.txt",
+    "source": "SGAS",
+    "product": "0110SGAS.txt",
+    "issued": "2016 Jan 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160111SGAS.txt",
+    "source": "SGAS",
+    "product": "0111SGAS.txt",
+    "issued": "2016 Jan 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160112SGAS.txt",
+    "source": "SGAS",
+    "product": "0112SGAS.txt",
+    "issued": "2016 Jan 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160113SGAS.txt",
+    "source": "SGAS",
+    "product": "0113SGAS.txt",
+    "issued": "2016 Jan 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160114SGAS.txt",
+    "source": "SGAS",
+    "product": "0114SGAS.txt",
+    "issued": "2016 Jan 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160115SGAS.txt",
+    "source": "SGAS",
+    "product": "0115SGAS.txt",
+    "issued": "2016 Jan 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160116SGAS.txt",
+    "source": "SGAS",
+    "product": "0116SGAS.txt",
+    "issued": "2016 Jan 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160117SGAS.txt",
+    "source": "SGAS",
+    "product": "0117SGAS.txt",
+    "issued": "2016 Jan 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160118SGAS.txt",
+    "source": "SGAS",
+    "product": "0118SGAS.txt",
+    "issued": "2016 Jan 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160119SGAS.txt",
+    "source": "SGAS",
+    "product": "0119SGAS.txt",
+    "issued": "2016 Jan 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160120SGAS.txt",
+    "source": "SGAS",
+    "product": "0120SGAS.txt",
+    "issued": "2016 Jan 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160121SGAS.txt",
+    "source": "SGAS",
+    "product": "0121SGAS.txt",
+    "issued": "2016 Jan 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160122SGAS.txt",
+    "source": "SGAS",
+    "product": "0122SGAS.txt",
+    "issued": "2016 Jan 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160123SGAS.txt",
+    "source": "SGAS",
+    "product": "0123SGAS.txt",
+    "issued": "2016 Jan 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160124SGAS.txt",
+    "source": "SGAS",
+    "product": "0124SGAS.txt",
+    "issued": "2016 Jan 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160125SGAS.txt",
+    "source": "SGAS",
+    "product": "0125SGAS.txt",
+    "issued": "2016 Jan 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160126SGAS.txt",
+    "source": "SGAS",
+    "product": "0126SGAS.txt",
+    "issued": "2016 Jan 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160127SGAS.txt",
+    "source": "SGAS",
+    "product": "0127SGAS.txt",
+    "issued": "2016 Jan 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160128SGAS.txt",
+    "source": "SGAS",
+    "product": "0128SGAS.txt",
+    "issued": "2016 Jan 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160129SGAS.txt",
+    "source": "SGAS",
+    "product": "0129SGAS.txt",
+    "issued": "2016 Jan 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160130SGAS.txt",
+    "source": "SGAS",
+    "product": "0130SGAS.txt",
+    "issued": "2016 Jan 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160131SGAS.txt",
+    "source": "SGAS",
+    "product": "0131SGAS.txt",
+    "issued": "2016 Jan 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160201SGAS.txt",
+    "source": "SGAS",
+    "product": "0201SGAS.txt",
+    "issued": "2016 Feb 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160202SGAS.txt",
+    "source": "SGAS",
+    "product": "0202SGAS.txt",
+    "issued": "2016 Feb 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160203SGAS.txt",
+    "source": "SGAS",
+    "product": "0203SGAS.txt",
+    "issued": "2016 Feb 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160204SGAS.txt",
+    "source": "SGAS",
+    "product": "0204SGAS.txt",
+    "issued": "2016 Feb 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160205SGAS.txt",
+    "source": "SGAS",
+    "product": "0205SGAS.txt",
+    "issued": "2016 Feb 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160206SGAS.txt",
+    "source": "SGAS",
+    "product": "0206SGAS.txt",
+    "issued": "2016 Feb 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160207SGAS.txt",
+    "source": "SGAS",
+    "product": "0207SGAS.txt",
+    "issued": "2016 Feb 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160208SGAS.txt",
+    "source": "SGAS",
+    "product": "0208SGAS.txt",
+    "issued": "2016 Feb 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160209SGAS.txt",
+    "source": "SGAS",
+    "product": "0209SGAS.txt",
+    "issued": "2016 Feb 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160210SGAS.txt",
+    "source": "SGAS",
+    "product": "0210SGAS.txt",
+    "issued": "2016 Feb 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160211SGAS.txt",
+    "source": "SGAS",
+    "product": "0211SGAS.txt",
+    "issued": "2016 Feb 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160212SGAS.txt",
+    "source": "SGAS",
+    "product": "0212SGAS.txt",
+    "issued": "2016 Feb 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160213SGAS.txt",
+    "source": "SGAS",
+    "product": "0213SGAS.txt",
+    "issued": "2016 Feb 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160214SGAS.txt",
+    "source": "SGAS",
+    "product": "0214SGAS.txt",
+    "issued": "2016 Feb 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160215SGAS.txt",
+    "source": "SGAS",
+    "product": "0215SGAS.txt",
+    "issued": "2016 Feb 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160216SGAS.txt",
+    "source": "SGAS",
+    "product": "0216SGAS.txt",
+    "issued": "2016 Feb 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160217SGAS.txt",
+    "source": "SGAS",
+    "product": "0217SGAS.txt",
+    "issued": "2016 Feb 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160218SGAS.txt",
+    "source": "SGAS",
+    "product": "0218SGAS.txt",
+    "issued": "2016 Feb 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160219SGAS.txt",
+    "source": "SGAS",
+    "product": "0219SGAS.txt",
+    "issued": "2016 Feb 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160220SGAS.txt",
+    "source": "SGAS",
+    "product": "0220SGAS.txt",
+    "issued": "2016 Feb 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160221SGAS.txt",
+    "source": "SGAS",
+    "product": "0221SGAS.txt",
+    "issued": "2016 Feb 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160222SGAS.txt",
+    "source": "SGAS",
+    "product": "0222SGAS.txt",
+    "issued": "2016 Feb 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160223SGAS.txt",
+    "source": "SGAS",
+    "product": "0223SGAS.txt",
+    "issued": "2016 Feb 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160224SGAS.txt",
+    "source": "SGAS",
+    "product": "0224SGAS.txt",
+    "issued": "2016 Feb 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160225SGAS.txt",
+    "source": "SGAS",
+    "product": "0225SGAS.txt",
+    "issued": "2016 Feb 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160226SGAS.txt",
+    "source": "SGAS",
+    "product": "0226SGAS.txt",
+    "issued": "2016 Feb 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160227SGAS.txt",
+    "source": "SGAS",
+    "product": "0227SGAS.txt",
+    "issued": "2016 Feb 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160228SGAS.txt",
+    "source": "SGAS",
+    "product": "0228SGAS.txt",
+    "issued": "2016 Feb 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160229SGAS.txt",
+    "source": "SGAS",
+    "product": "0229SGAS.txt",
+    "issued": "2016 Feb 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160301SGAS.txt",
+    "source": "SGAS",
+    "product": "0301SGAS.txt",
+    "issued": "2016 Mar 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160302SGAS.txt",
+    "source": "SGAS",
+    "product": "0302SGAS.txt",
+    "issued": "2016 Mar 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160303SGAS.txt",
+    "source": "SGAS",
+    "product": "0303SGAS.txt",
+    "issued": "2016 Mar 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160304SGAS.txt",
+    "source": "SGAS",
+    "product": "0304SGAS.txt",
+    "issued": "2016 Mar 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160305SGAS.txt",
+    "source": "SGAS",
+    "product": "0305SGAS.txt",
+    "issued": "2016 Mar 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160306SGAS.txt",
+    "source": "SGAS",
+    "product": "0306SGAS.txt",
+    "issued": "2016 Mar 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160307SGAS.txt",
+    "source": "SGAS",
+    "product": "0307SGAS.txt",
+    "issued": "2016 Mar 07 0255 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160308SGAS.txt",
+    "source": "SGAS",
+    "product": "0308SGAS.txt",
+    "issued": "2016 Mar 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160309SGAS.txt",
+    "source": "SGAS",
+    "product": "0309SGAS.txt",
+    "issued": "2016 Mar 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160310SGAS.txt",
+    "source": "SGAS",
+    "product": "0310SGAS.txt",
+    "issued": "2016 Mar 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160311SGAS.txt",
+    "source": "SGAS",
+    "product": "0311SGAS.txt",
+    "issued": "2016 Mar 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160312SGAS.txt",
+    "source": "SGAS",
+    "product": "0312SGAS.txt",
+    "issued": "2016 Mar 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160313SGAS.txt",
+    "source": "SGAS",
+    "product": "0313SGAS.txt",
+    "issued": "2016 Mar 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160314SGAS.txt",
+    "source": "SGAS",
+    "product": "0314SGAS.txt",
+    "issued": "2016 Mar 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160315SGAS.txt",
+    "source": "SGAS",
+    "product": "0315SGAS.txt",
+    "issued": "2016 Mar 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160316SGAS.txt",
+    "source": "SGAS",
+    "product": "0316SGAS.txt",
+    "issued": "2016 Mar 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160317SGAS.txt",
+    "source": "SGAS",
+    "product": "0317SGAS.txt",
+    "issued": "2016 Mar 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160318SGAS.txt",
+    "source": "SGAS",
+    "product": "0318SGAS.txt",
+    "issued": "2016 Mar 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160319SGAS.txt",
+    "source": "SGAS",
+    "product": "0319SGAS.txt",
+    "issued": "2016 Mar 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160320SGAS.txt",
+    "source": "SGAS",
+    "product": "0320SGAS.txt",
+    "issued": "2016 Mar 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160321SGAS.txt",
+    "source": "SGAS",
+    "product": "0321SGAS.txt",
+    "issued": "2016 Mar 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160322SGAS.txt",
+    "source": "SGAS",
+    "product": "0322SGAS.txt",
+    "issued": "2016 Mar 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160323SGAS.txt",
+    "source": "SGAS",
+    "product": "0323SGAS.txt",
+    "issued": "2016 Mar 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160324SGAS.txt",
+    "source": "SGAS",
+    "product": "0324SGAS.txt",
+    "issued": "2016 Mar 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160325SGAS.txt",
+    "source": "SGAS",
+    "product": "0325SGAS.txt",
+    "issued": "2016 Mar 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160326SGAS.txt",
+    "source": "SGAS",
+    "product": "0326SGAS.txt",
+    "issued": "2016 Mar 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160327SGAS.txt",
+    "source": "SGAS",
+    "product": "0327SGAS.txt",
+    "issued": "2016 Mar 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160328SGAS.txt",
+    "source": "SGAS",
+    "product": "0328SGAS.txt",
+    "issued": "2016 Mar 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160329SGAS.txt",
+    "source": "SGAS",
+    "product": "0329SGAS.txt",
+    "issued": "2016 Mar 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160330SGAS.txt",
+    "source": "SGAS",
+    "product": "0330SGAS.txt",
+    "issued": "2016 Mar 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160331SGAS.txt",
+    "source": "SGAS",
+    "product": "0331SGAS.txt",
+    "issued": "2016 Mar 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160401SGAS.txt",
+    "source": "SGAS",
+    "product": "0401SGAS.txt",
+    "issued": "2016 Apr 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160402SGAS.txt",
+    "source": "SGAS",
+    "product": "0402SGAS.txt",
+    "issued": "2016 Apr 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160403SGAS.txt",
+    "source": "SGAS",
+    "product": "0403SGAS.txt",
+    "issued": "2016 Apr 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160404SGAS.txt",
+    "source": "SGAS",
+    "product": "0404SGAS.txt",
+    "issued": "2016 Apr 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160405SGAS.txt",
+    "source": "SGAS",
+    "product": "0405SGAS.txt",
+    "issued": "2016 Apr 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160406SGAS.txt",
+    "source": "SGAS",
+    "product": "0406SGAS.txt",
+    "issued": "2016 Apr 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160407SGAS.txt",
+    "source": "SGAS",
+    "product": "0407SGAS.txt",
+    "issued": "2016 Apr 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160408SGAS.txt",
+    "source": "SGAS",
+    "product": "0408SGAS.txt",
+    "issued": "2016 Apr 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160409SGAS.txt",
+    "source": "SGAS",
+    "product": "0409SGAS.txt",
+    "issued": "2016 Apr 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160410SGAS.txt",
+    "source": "SGAS",
+    "product": "0410SGAS.txt",
+    "issued": "2016 Apr 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160411SGAS.txt",
+    "source": "SGAS",
+    "product": "0411SGAS.txt",
+    "issued": "2016 Apr 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160412SGAS.txt",
+    "source": "SGAS",
+    "product": "0412SGAS.txt",
+    "issued": "2016 Apr 12 0250 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160413SGAS.txt",
+    "source": "SGAS",
+    "product": "0413SGAS.txt",
+    "issued": "2016 Apr 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160414SGAS.txt",
+    "source": "SGAS",
+    "product": "0414SGAS.txt",
+    "issued": "2016 Apr 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160415SGAS.txt",
+    "source": "SGAS",
+    "product": "0415SGAS.txt",
+    "issued": "2016 Apr 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160416SGAS.txt",
+    "source": "SGAS",
+    "product": "0416SGAS.txt",
+    "issued": "2016 Apr 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160417SGAS.txt",
+    "source": "SGAS",
+    "product": "0417SGAS.txt",
+    "issued": "2016 Apr 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160418SGAS.txt",
+    "source": "SGAS",
+    "product": "0418SGAS.txt",
+    "issued": "2016 Apr 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160419SGAS.txt",
+    "source": "SGAS",
+    "product": "0419SGAS.txt",
+    "issued": "2016 Apr 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160420SGAS.txt",
+    "source": "SGAS",
+    "product": "0420SGAS.txt",
+    "issued": "2016 Apr 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160421SGAS.txt",
+    "source": "SGAS",
+    "product": "0421SGAS.txt",
+    "issued": "2016 Apr 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160422SGAS.txt",
+    "source": "SGAS",
+    "product": "0422SGAS.txt",
+    "issued": "2016 Apr 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160423SGAS.txt",
+    "source": "SGAS",
+    "product": "0423SGAS.txt",
+    "issued": "2016 Apr 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160424SGAS.txt",
+    "source": "SGAS",
+    "product": "0424SGAS.txt",
+    "issued": "2016 Apr 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160425SGAS.txt",
+    "source": "SGAS",
+    "product": "0425SGAS.txt",
+    "issued": "2016 Apr 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160426SGAS.txt",
+    "source": "SGAS",
+    "product": "0426SGAS.txt",
+    "issued": "2016 Apr 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160427SGAS.txt",
+    "source": "SGAS",
+    "product": "0427SGAS.txt",
+    "issued": "2016 Apr 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160428SGAS.txt",
+    "source": "SGAS",
+    "product": "0428SGAS.txt",
+    "issued": "2016 Apr 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160429SGAS.txt",
+    "source": "SGAS",
+    "product": "0429SGAS.txt",
+    "issued": "2016 Apr 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160430SGAS.txt",
+    "source": "SGAS",
+    "product": "0430SGAS.txt",
+    "issued": "2016 Apr 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160501SGAS.txt",
+    "source": "SGAS",
+    "product": "0501SGAS.txt",
+    "issued": "2016 May 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160502SGAS.txt",
+    "source": "SGAS",
+    "product": "0502SGAS.txt",
+    "issued": "2016 May 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160503SGAS.txt",
+    "source": "SGAS",
+    "product": "0503SGAS.txt",
+    "issued": "2016 May 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160504SGAS.txt",
+    "source": "SGAS",
+    "product": "0504SGAS.txt",
+    "issued": "2016 May 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160505SGAS.txt",
+    "source": "SGAS",
+    "product": "0505SGAS.txt",
+    "issued": "2016 May 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160506SGAS.txt",
+    "source": "SGAS",
+    "product": "0506SGAS.txt",
+    "issued": "2016 May 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160507SGAS.txt",
+    "source": "SGAS",
+    "product": "0507SGAS.txt",
+    "issued": "2016 May 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160508SGAS.txt",
+    "source": "SGAS",
+    "product": "0508SGAS.txt",
+    "issued": "2016 May 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160509SGAS.txt",
+    "source": "SGAS",
+    "product": "0509SGAS.txt",
+    "issued": "2016 May 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160510SGAS.txt",
+    "source": "SGAS",
+    "product": "0510SGAS.txt",
+    "issued": "2016 May 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160511SGAS.txt",
+    "source": "SGAS",
+    "product": "0511SGAS.txt",
+    "issued": "2016 May 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160512SGAS.txt",
+    "source": "SGAS",
+    "product": "0512SGAS.txt",
+    "issued": "2016 May 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160513SGAS.txt",
+    "source": "SGAS",
+    "product": "0513SGAS.txt",
+    "issued": "2016 May 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160514SGAS.txt",
+    "source": "SGAS",
+    "product": "0514SGAS.txt",
+    "issued": "2016 May 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160515SGAS.txt",
+    "source": "SGAS",
+    "product": "0515SGAS.txt",
+    "issued": "2016 May 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160516SGAS.txt",
+    "source": "SGAS",
+    "product": "0516SGAS.txt",
+    "issued": "2016 May 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160517SGAS.txt",
+    "source": "SGAS",
+    "product": "0517SGAS.txt",
+    "issued": "2016 May 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160518SGAS.txt",
+    "source": "SGAS",
+    "product": "0518SGAS.txt",
+    "issued": "2016 May 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160519SGAS.txt",
+    "source": "SGAS",
+    "product": "0519SGAS.txt",
+    "issued": "2016 May 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160520SGAS.txt",
+    "source": "SGAS",
+    "product": "0520SGAS.txt",
+    "issued": "2016 May 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160521SGAS.txt",
+    "source": "SGAS",
+    "product": "0521SGAS.txt",
+    "issued": "2016 May 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160522SGAS.txt",
+    "source": "SGAS",
+    "product": "0522SGAS.txt",
+    "issued": "2016 May 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160523SGAS.txt",
+    "source": "SGAS",
+    "product": "0523SGAS.txt",
+    "issued": "2016 May 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160524SGAS.txt",
+    "source": "SGAS",
+    "product": "0524SGAS.txt",
+    "issued": "2016 May 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160525SGAS.txt",
+    "source": "SGAS",
+    "product": "0525SGAS.txt",
+    "issued": "2016 May 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160526SGAS.txt",
+    "source": "SGAS",
+    "product": "0526SGAS.txt",
+    "issued": "2016 May 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160527SGAS.txt",
+    "source": "SGAS",
+    "product": "0527SGAS.txt",
+    "issued": "2016 May 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160528SGAS.txt",
+    "source": "SGAS",
+    "product": "0528SGAS.txt",
+    "issued": "2016 May 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160529SGAS.txt",
+    "source": "SGAS",
+    "product": "0529SGAS.txt",
+    "issued": "2016 May 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160530SGAS.txt",
+    "source": "SGAS",
+    "product": "0530SGAS.txt",
+    "issued": "2016 May 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160531SGAS.txt",
+    "source": "SGAS",
+    "product": "0531SGAS.txt",
+    "issued": "2016 May 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160601SGAS.txt",
+    "source": "SGAS",
+    "product": "0601SGAS.txt",
+    "issued": "2016 Jun 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160602SGAS.txt",
+    "source": "SGAS",
+    "product": "0602SGAS.txt",
+    "issued": "2016 Jun 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160603SGAS.txt",
+    "source": "SGAS",
+    "product": "0603SGAS.txt",
+    "issued": "2016 Jun 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160604SGAS.txt",
+    "source": "SGAS",
+    "product": "0604SGAS.txt",
+    "issued": "2016 Jun 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160605SGAS.txt",
+    "source": "SGAS",
+    "product": "0605SGAS.txt",
+    "issued": "2016 Jun 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160606SGAS.txt",
+    "source": "SGAS",
+    "product": "0606SGAS.txt",
+    "issued": "2016 Jun 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160607SGAS.txt",
+    "source": "SGAS",
+    "product": "0607SGAS.txt",
+    "issued": "2016 Jun 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160608SGAS.txt",
+    "source": "SGAS",
+    "product": "0608SGAS.txt",
+    "issued": "2016 Jun 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160609SGAS.txt",
+    "source": "SGAS",
+    "product": "0609SGAS.txt",
+    "issued": "2016 Jun 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160610SGAS.txt",
+    "source": "SGAS",
+    "product": "0610SGAS.txt",
+    "issued": "2016 Jun 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160611SGAS.txt",
+    "source": "SGAS",
+    "product": "0611SGAS.txt",
+    "issued": "2016 Jun 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160612SGAS.txt",
+    "source": "SGAS",
+    "product": "0612SGAS.txt",
+    "issued": "2016 Jun 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160613SGAS.txt",
+    "source": "SGAS",
+    "product": "0613SGAS.txt",
+    "issued": "2016 Jun 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160614SGAS.txt",
+    "source": "SGAS",
+    "product": "0614SGAS.txt",
+    "issued": "2016 Jun 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160615SGAS.txt",
+    "source": "SGAS",
+    "product": "0615SGAS.txt",
+    "issued": "2016 Jun 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160616SGAS.txt",
+    "source": "SGAS",
+    "product": "0616SGAS.txt",
+    "issued": "2016 Jun 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160617SGAS.txt",
+    "source": "SGAS",
+    "product": "0617SGAS.txt",
+    "issued": "2016 Jun 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160618SGAS.txt",
+    "source": "SGAS",
+    "product": "0618SGAS.txt",
+    "issued": "2016 Jun 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160619SGAS.txt",
+    "source": "SGAS",
+    "product": "0619SGAS.txt",
+    "issued": "2016 Jun 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160620SGAS.txt",
+    "source": "SGAS",
+    "product": "0620SGAS.txt",
+    "issued": "2016 Jun 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160621SGAS.txt",
+    "source": "SGAS",
+    "product": "0621SGAS.txt",
+    "issued": "2016 Jun 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160622SGAS.txt",
+    "source": "SGAS",
+    "product": "0622SGAS.txt",
+    "issued": "2016 Jun 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160623SGAS.txt",
+    "source": "SGAS",
+    "product": "0623SGAS.txt",
+    "issued": "2016 Jun 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160624SGAS.txt",
+    "source": "SGAS",
+    "product": "0624SGAS.txt",
+    "issued": "2016 Jun 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160625SGAS.txt",
+    "source": "SGAS",
+    "product": "0625SGAS.txt",
+    "issued": "2016 Jun 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160626SGAS.txt",
+    "source": "SGAS",
+    "product": "0626SGAS.txt",
+    "issued": "2016 Jun 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160627SGAS.txt",
+    "source": "SGAS",
+    "product": "0627SGAS.txt",
+    "issued": "2016 Jun 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160628SGAS.txt",
+    "source": "SGAS",
+    "product": "0628SGAS.txt",
+    "issued": "2016 Jun 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160629SGAS.txt",
+    "source": "SGAS",
+    "product": "0629SGAS.txt",
+    "issued": "2016 Jun 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160630SGAS.txt",
+    "source": "SGAS",
+    "product": "0630SGAS.txt",
+    "issued": "2016 Jun 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160701SGAS.txt",
+    "source": "SGAS",
+    "product": "0701SGAS.txt",
+    "issued": "2016 Jul 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160702SGAS.txt",
+    "source": "SGAS",
+    "product": "0702SGAS.txt",
+    "issued": "2016 Jul 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160703SGAS.txt",
+    "source": "SGAS",
+    "product": "0703SGAS.txt",
+    "issued": "2016 Jul 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160704SGAS.txt",
+    "source": "SGAS",
+    "product": "0704SGAS.txt",
+    "issued": "2016 Jul 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160705SGAS.txt",
+    "source": "SGAS",
+    "product": "0705SGAS.txt",
+    "issued": "2016 Jul 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160706SGAS.txt",
+    "source": "SGAS",
+    "product": "0706SGAS.txt",
+    "issued": "2016 Jul 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160707SGAS.txt",
+    "source": "SGAS",
+    "product": "0707SGAS.txt",
+    "issued": "2016 Jul 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160708SGAS.txt",
+    "source": "SGAS",
+    "product": "0708SGAS.txt",
+    "issued": "2016 Jul 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160709SGAS.txt",
+    "source": "SGAS",
+    "product": "0709SGAS.txt",
+    "issued": "2016 Jul 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160710SGAS.txt",
+    "source": "SGAS",
+    "product": "0710SGAS.txt",
+    "issued": "2016 Jul 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160711SGAS.txt",
+    "source": "SGAS",
+    "product": "0711SGAS.txt",
+    "issued": "2016 Jul 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160712SGAS.txt",
+    "source": "SGAS",
+    "product": "0712SGAS.txt",
+    "issued": "2016 Jul 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160713SGAS.txt",
+    "source": "SGAS",
+    "product": "0713SGAS.txt",
+    "issued": "2016 Jul 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160714SGAS.txt",
+    "source": "SGAS",
+    "product": "0714SGAS.txt",
+    "issued": "2016 Jul 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160715SGAS.txt",
+    "source": "SGAS",
+    "product": "0715SGAS.txt",
+    "issued": "2016 Jul 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160716SGAS.txt",
+    "source": "SGAS",
+    "product": "0716SGAS.txt",
+    "issued": "2016 Jul 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160717SGAS.txt",
+    "source": "SGAS",
+    "product": "0717SGAS.txt",
+    "issued": "2016 Jul 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160718SGAS.txt",
+    "source": "SGAS",
+    "product": "0718SGAS.txt",
+    "issued": "2016 Jul 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160719SGAS.txt",
+    "source": "SGAS",
+    "product": "0719SGAS.txt",
+    "issued": "2016 Jul 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160720SGAS.txt",
+    "source": "SGAS",
+    "product": "0720SGAS.txt",
+    "issued": "2016 Jul 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160721SGAS.txt",
+    "source": "SGAS",
+    "product": "0721SGAS.txt",
+    "issued": "2016 Jul 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160722SGAS.txt",
+    "source": "SGAS",
+    "product": "0722SGAS.txt",
+    "issued": "2016 Jul 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160723SGAS.txt",
+    "source": "SGAS",
+    "product": "0723SGAS.txt",
+    "issued": "2016 Jul 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160724SGAS.txt",
+    "source": "SGAS",
+    "product": "0724SGAS.txt",
+    "issued": "2016 Jul 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160725SGAS.txt",
+    "source": "SGAS",
+    "product": "0725SGAS.txt",
+    "issued": "2016 Jul 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160726SGAS.txt",
+    "source": "SGAS",
+    "product": "0726SGAS.txt",
+    "issued": "2016 Jul 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160727SGAS.txt",
+    "source": "SGAS",
+    "product": "0727SGAS.txt",
+    "issued": "2016 Jul 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160728SGAS.txt",
+    "source": "SGAS",
+    "product": "0728SGAS.txt",
+    "issued": "2016 Jul 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160729SGAS.txt",
+    "source": "SGAS",
+    "product": "0729SGAS.txt",
+    "issued": "2016 Jul 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160730SGAS.txt",
+    "source": "SGAS",
+    "product": "0730SGAS.txt",
+    "issued": "2016 Jul 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160731SGAS.txt",
+    "source": "SGAS",
+    "product": "0731SGAS.txt",
+    "issued": "2016 Jul 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160801SGAS.txt",
+    "source": "SGAS",
+    "product": "0801SGAS.txt",
+    "issued": "2016 Aug 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160802SGAS.txt",
+    "source": "SGAS",
+    "product": "0802SGAS.txt",
+    "issued": "2016 Aug 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160803SGAS.txt",
+    "source": "SGAS",
+    "product": "0803SGAS.txt",
+    "issued": "2016 Aug 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160804SGAS.txt",
+    "source": "SGAS",
+    "product": "0804SGAS.txt",
+    "issued": "2016 Aug 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160805SGAS.txt",
+    "source": "SGAS",
+    "product": "0805SGAS.txt",
+    "issued": "2016 Aug 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160806SGAS.txt",
+    "source": "SGAS",
+    "product": "0806SGAS.txt",
+    "issued": "2016 Aug 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160807SGAS.txt",
+    "source": "SGAS",
+    "product": "0807SGAS.txt",
+    "issued": "2016 Aug 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160808SGAS.txt",
+    "source": "SGAS",
+    "product": "0808SGAS.txt",
+    "issued": "2016 Aug 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160809SGAS.txt",
+    "source": "SGAS",
+    "product": "0809SGAS.txt",
+    "issued": "2016 Aug 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160810SGAS.txt",
+    "source": "SGAS",
+    "product": "0810SGAS.txt",
+    "issued": "2016 Aug 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160811SGAS.txt",
+    "source": "SGAS",
+    "product": "0811SGAS.txt",
+    "issued": "2016 Aug 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160812SGAS.txt",
+    "source": "SGAS",
+    "product": "0812SGAS.txt",
+    "issued": "2016 Aug 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160813SGAS.txt",
+    "source": "SGAS",
+    "product": "0813SGAS.txt",
+    "issued": "2016 Aug 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160814SGAS.txt",
+    "source": "SGAS",
+    "product": "0814SGAS.txt",
+    "issued": "2016 Aug 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160815SGAS.txt",
+    "source": "SGAS",
+    "product": "0815SGAS.txt",
+    "issued": "2016 Aug 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160816SGAS.txt",
+    "source": "SGAS",
+    "product": "0816SGAS.txt",
+    "issued": "2016 Aug 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160817SGAS.txt",
+    "source": "SGAS",
+    "product": "0817SGAS.txt",
+    "issued": "2016 Aug 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160818SGAS.txt",
+    "source": "SGAS",
+    "product": "0818SGAS.txt",
+    "issued": "2016 Aug 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160819SGAS.txt",
+    "source": "SGAS",
+    "product": "0819SGAS.txt",
+    "issued": "2016 Aug 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160820SGAS.txt",
+    "source": "SGAS",
+    "product": "0820SGAS.txt",
+    "issued": "2016 Aug 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160821SGAS.txt",
+    "source": "SGAS",
+    "product": "0821SGAS.txt",
+    "issued": "2016 Aug 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160822SGAS.txt",
+    "source": "SGAS",
+    "product": "0822SGAS.txt",
+    "issued": "2016 Aug 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160823SGAS.txt",
+    "source": "SGAS",
+    "product": "0823SGAS.txt",
+    "issued": "2016 Aug 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160824SGAS.txt",
+    "source": "SGAS",
+    "product": "0824SGAS.txt",
+    "issued": "2016 Aug 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160825SGAS.txt",
+    "source": "SGAS",
+    "product": "0825SGAS.txt",
+    "issued": "2016 Aug 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160826SGAS.txt",
+    "source": "SGAS",
+    "product": "0826SGAS.txt",
+    "issued": "2016 Aug 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160827SGAS.txt",
+    "source": "SGAS",
+    "product": "0827SGAS.txt",
+    "issued": "2016 Aug 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160828SGAS.txt",
+    "source": "SGAS",
+    "product": "0828SGAS.txt",
+    "issued": "2016 Aug 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160829SGAS.txt",
+    "source": "SGAS",
+    "product": "0829SGAS.txt",
+    "issued": "2016 Aug 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160830SGAS.txt",
+    "source": "SGAS",
+    "product": "0830SGAS.txt",
+    "issued": "2016 Aug 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160831SGAS.txt",
+    "source": "SGAS",
+    "product": "0831SGAS.txt",
+    "issued": "2016 Aug 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160901SGAS.txt",
+    "source": "SGAS",
+    "product": "0901SGAS.txt",
+    "issued": "2016 Sep 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160902SGAS.txt",
+    "source": "SGAS",
+    "product": "0902SGAS.txt",
+    "issued": "2016 Sep 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160903SGAS.txt",
+    "source": "SGAS",
+    "product": "0903SGAS.txt",
+    "issued": "2016 Sep 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160904SGAS.txt",
+    "source": "SGAS",
+    "product": "0904SGAS.txt",
+    "issued": "2016 Sep 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160905SGAS.txt",
+    "source": "SGAS",
+    "product": "0905SGAS.txt",
+    "issued": "2016 Sep 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160906SGAS.txt",
+    "source": "SGAS",
+    "product": "0906SGAS.txt",
+    "issued": "2016 Sep 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160907SGAS.txt",
+    "source": "SGAS",
+    "product": "0907SGAS.txt",
+    "issued": "2016 Sep 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160908SGAS.txt",
+    "source": "SGAS",
+    "product": "0908SGAS.txt",
+    "issued": "2016 Sep 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160909SGAS.txt",
+    "source": "SGAS",
+    "product": "0909SGAS.txt",
+    "issued": "2016 Sep 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160910SGAS.txt",
+    "source": "SGAS",
+    "product": "0910SGAS.txt",
+    "issued": "2016 Sep 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160911SGAS.txt",
+    "source": "SGAS",
+    "product": "0911SGAS.txt",
+    "issued": "2016 Sep 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160912SGAS.txt",
+    "source": "SGAS",
+    "product": "0912SGAS.txt",
+    "issued": "2016 Sep 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160913SGAS.txt",
+    "source": "SGAS",
+    "product": "0913SGAS.txt",
+    "issued": "2016 Sep 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160914SGAS.txt",
+    "source": "SGAS",
+    "product": "0914SGAS.txt",
+    "issued": "2016 Sep 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160915SGAS.txt",
+    "source": "SGAS",
+    "product": "0915SGAS.txt",
+    "issued": "2016 Sep 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160916SGAS.txt",
+    "source": "SGAS",
+    "product": "0916SGAS.txt",
+    "issued": "2016 Sep 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160917SGAS.txt",
+    "source": "SGAS",
+    "product": "0917SGAS.txt",
+    "issued": "2016 Sep 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160918SGAS.txt",
+    "source": "SGAS",
+    "product": "0918SGAS.txt",
+    "issued": "2016 Sep 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160919SGAS.txt",
+    "source": "SGAS",
+    "product": "0919SGAS.txt",
+    "issued": "2016 Sep 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160920SGAS.txt",
+    "source": "SGAS",
+    "product": "0920SGAS.txt",
+    "issued": "2016 Sep 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160921SGAS.txt",
+    "source": "SGAS",
+    "product": "0921SGAS.txt",
+    "issued": "2016 Sep 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160922SGAS.txt",
+    "source": "SGAS",
+    "product": "0922SGAS.txt",
+    "issued": "2016 Sep 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160923SGAS.txt",
+    "source": "SGAS",
+    "product": "0923SGAS.txt",
+    "issued": "2016 Sep 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160924SGAS.txt",
+    "source": "SGAS",
+    "product": "0924SGAS.txt",
+    "issued": "2016 Sep 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160925SGAS.txt",
+    "source": "SGAS",
+    "product": "0925SGAS.txt",
+    "issued": "2016 Sep 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160926SGAS.txt",
+    "source": "SGAS",
+    "product": "0926SGAS.txt",
+    "issued": "2016 Sep 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160927SGAS.txt",
+    "source": "SGAS",
+    "product": "0927SGAS.txt",
+    "issued": "2016 Sep 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160928SGAS.txt",
+    "source": "SGAS",
+    "product": "0928SGAS.txt",
+    "issued": "2016 Sep 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160929SGAS.txt",
+    "source": "SGAS",
+    "product": "0929SGAS.txt",
+    "issued": "2016 Sep 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20160930SGAS.txt",
+    "source": "SGAS",
+    "product": "0930SGAS.txt",
+    "issued": "2016 Sep 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161001SGAS.txt",
+    "source": "SGAS",
+    "product": "1001SGAS.txt",
+    "issued": "2016 Oct 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161002SGAS.txt",
+    "source": "SGAS",
+    "product": "1002SGAS.txt",
+    "issued": "2016 Oct 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161003SGAS.txt",
+    "source": "SGAS",
+    "product": "1003SGAS.txt",
+    "issued": "2016 Oct 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161004SGAS.txt",
+    "source": "SGAS",
+    "product": "1004SGAS.txt",
+    "issued": "2016 Oct 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161005SGAS.txt",
+    "source": "SGAS",
+    "product": "1005SGAS.txt",
+    "issued": "2016 Oct 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161006SGAS.txt",
+    "source": "SGAS",
+    "product": "1006SGAS.txt",
+    "issued": "2016 Oct 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161007SGAS.txt",
+    "source": "SGAS",
+    "product": "1007SGAS.txt",
+    "issued": "2016 Oct 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161008SGAS.txt",
+    "source": "SGAS",
+    "product": "1008SGAS.txt",
+    "issued": "2016 Oct 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161009SGAS.txt",
+    "source": "SGAS",
+    "product": "1009SGAS.txt",
+    "issued": "2016 Oct 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161010SGAS.txt",
+    "source": "SGAS",
+    "product": "1010SGAS.txt",
+    "issued": "2016 Oct 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161011SGAS.txt",
+    "source": "SGAS",
+    "product": "1011SGAS.txt",
+    "issued": "2016 Oct 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161012SGAS.txt",
+    "source": "SGAS",
+    "product": "1012SGAS.txt",
+    "issued": "2016 Oct 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161013SGAS.txt",
+    "source": "SGAS",
+    "product": "1013SGAS.txt",
+    "issued": "2016 Oct 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161014SGAS.txt",
+    "source": "SGAS",
+    "product": "1014SGAS.txt",
+    "issued": "2016 Oct 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161015SGAS.txt",
+    "source": "SGAS",
+    "product": "1015SGAS.txt",
+    "issued": "2016 Oct 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161016SGAS.txt",
+    "source": "SGAS",
+    "product": "1016SGAS.txt",
+    "issued": "2016 Oct 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161017SGAS.txt",
+    "source": "SGAS",
+    "product": "1017SGAS.txt",
+    "issued": "2016 Oct 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161018SGAS.txt",
+    "source": "SGAS",
+    "product": "1018SGAS.txt",
+    "issued": "2016 Oct 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161019SGAS.txt",
+    "source": "SGAS",
+    "product": "1019SGAS.txt",
+    "issued": "2016 Oct 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161020SGAS.txt",
+    "source": "SGAS",
+    "product": "1020SGAS.txt",
+    "issued": "2016 Oct 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161021SGAS.txt",
+    "source": "SGAS",
+    "product": "1021SGAS.txt",
+    "issued": "2016 Oct 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161022SGAS.txt",
+    "source": "SGAS",
+    "product": "1022SGAS.txt",
+    "issued": "2016 Oct 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161023SGAS.txt",
+    "source": "SGAS",
+    "product": "1023SGAS.txt",
+    "issued": "2016 Oct 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161024SGAS.txt",
+    "source": "SGAS",
+    "product": "1024SGAS.txt",
+    "issued": "2016 Oct 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161025SGAS.txt",
+    "source": "SGAS",
+    "product": "1025SGAS.txt",
+    "issued": "2016 Oct 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161026SGAS.txt",
+    "source": "SGAS",
+    "product": "1026SGAS.txt",
+    "issued": "2016 Oct 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161027SGAS.txt",
+    "source": "SGAS",
+    "product": "1027SGAS.txt",
+    "issued": "2016 Oct 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161028SGAS.txt",
+    "source": "SGAS",
+    "product": "1028SGAS.txt",
+    "issued": "2016 Oct 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161029SGAS.txt",
+    "source": "SGAS",
+    "product": "1029SGAS.txt",
+    "issued": "2016 Oct 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161030SGAS.txt",
+    "source": "SGAS",
+    "product": "1030SGAS.txt",
+    "issued": "2016 Oct 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161031SGAS.txt",
+    "source": "SGAS",
+    "product": "1031SGAS.txt",
+    "issued": "2016 Oct 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161101SGAS.txt",
+    "source": "SGAS",
+    "product": "1101SGAS.txt",
+    "issued": "2016 Nov 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161102SGAS.txt",
+    "source": "SGAS",
+    "product": "1102SGAS.txt",
+    "issued": "2016 Nov 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161103SGAS.txt",
+    "source": "SGAS",
+    "product": "1103SGAS.txt",
+    "issued": "2016 Nov 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161104SGAS.txt",
+    "source": "SGAS",
+    "product": "1104SGAS.txt",
+    "issued": "2016 Nov 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161105SGAS.txt",
+    "source": "SGAS",
+    "product": "1105SGAS.txt",
+    "issued": "2016 Nov 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161106SGAS.txt",
+    "source": "SGAS",
+    "product": "1106SGAS.txt",
+    "issued": "2016 Nov 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161107SGAS.txt",
+    "source": "SGAS",
+    "product": "1107SGAS.txt",
+    "issued": "2016 Nov 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161108SGAS.txt",
+    "source": "SGAS",
+    "product": "1108SGAS.txt",
+    "issued": "2016 Nov 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161109SGAS.txt",
+    "source": "SGAS",
+    "product": "1109SGAS.txt",
+    "issued": "2016 Nov 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161110SGAS.txt",
+    "source": "SGAS",
+    "product": "1110SGAS.txt",
+    "issued": "2016 Nov 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161111SGAS.txt",
+    "source": "SGAS",
+    "product": "1111SGAS.txt",
+    "issued": "2016 Nov 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161112SGAS.txt",
+    "source": "SGAS",
+    "product": "1112SGAS.txt",
+    "issued": "2016 Nov 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161113SGAS.txt",
+    "source": "SGAS",
+    "product": "1113SGAS.txt",
+    "issued": "2016 Nov 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161114SGAS.txt",
+    "source": "SGAS",
+    "product": "1114SGAS.txt",
+    "issued": "2016 Nov 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161115SGAS.txt",
+    "source": "SGAS",
+    "product": "1115SGAS.txt",
+    "issued": "2016 Nov 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161116SGAS.txt",
+    "source": "SGAS",
+    "product": "1116SGAS.txt",
+    "issued": "2016 Nov 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161117SGAS.txt",
+    "source": "SGAS",
+    "product": "1117SGAS.txt",
+    "issued": "2016 Nov 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161118SGAS.txt",
+    "source": "SGAS",
+    "product": "1118SGAS.txt",
+    "issued": "2016 Nov 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161119SGAS.txt",
+    "source": "SGAS",
+    "product": "1119SGAS.txt",
+    "issued": "2016 Nov 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161120SGAS.txt",
+    "source": "SGAS",
+    "product": "1120SGAS.txt",
+    "issued": "2016 Nov 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161121SGAS.txt",
+    "source": "SGAS",
+    "product": "1121SGAS.txt",
+    "issued": "2016 Nov 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161122SGAS.txt",
+    "source": "SGAS",
+    "product": "1122SGAS.txt",
+    "issued": "2016 Nov 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161123SGAS.txt",
+    "source": "SGAS",
+    "product": "1123SGAS.txt",
+    "issued": "2016 Nov 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161124SGAS.txt",
+    "source": "SGAS",
+    "product": "1124SGAS.txt",
+    "issued": "2016 Nov 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161125SGAS.txt",
+    "source": "SGAS",
+    "product": "1125SGAS.txt",
+    "issued": "2016 Nov 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161126SGAS.txt",
+    "source": "SGAS",
+    "product": "1126SGAS.txt",
+    "issued": "2016 Nov 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161127SGAS.txt",
+    "source": "SGAS",
+    "product": "1127SGAS.txt",
+    "issued": "2016 Nov 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161128SGAS.txt",
+    "source": "SGAS",
+    "product": "1128SGAS.txt",
+    "issued": "2016 Nov 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161129SGAS.txt",
+    "source": "SGAS",
+    "product": "1129SGAS.txt",
+    "issued": "2016 Nov 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161130SGAS.txt",
+    "source": "SGAS",
+    "product": "1130SGAS.txt",
+    "issued": "2016 Nov 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161201SGAS.txt",
+    "source": "SGAS",
+    "product": "1201SGAS.txt",
+    "issued": "2016 Dec 01 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161202SGAS.txt",
+    "source": "SGAS",
+    "product": "1202SGAS.txt",
+    "issued": "2016 Dec 02 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161203SGAS.txt",
+    "source": "SGAS",
+    "product": "1203SGAS.txt",
+    "issued": "2016 Dec 03 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161204SGAS.txt",
+    "source": "SGAS",
+    "product": "1204SGAS.txt",
+    "issued": "2016 Dec 04 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161205SGAS.txt",
+    "source": "SGAS",
+    "product": "1205SGAS.txt",
+    "issued": "2016 Dec 05 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161206SGAS.txt",
+    "source": "SGAS",
+    "product": "1206SGAS.txt",
+    "issued": "2016 Dec 06 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161207SGAS.txt",
+    "source": "SGAS",
+    "product": "1207SGAS.txt",
+    "issued": "2016 Dec 07 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161208SGAS.txt",
+    "source": "SGAS",
+    "product": "1208SGAS.txt",
+    "issued": "2016 Dec 08 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161209SGAS.txt",
+    "source": "SGAS",
+    "product": "1209SGAS.txt",
+    "issued": "2016 Dec 09 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161210SGAS.txt",
+    "source": "SGAS",
+    "product": "1210SGAS.txt",
+    "issued": "2016 Dec 10 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161211SGAS.txt",
+    "source": "SGAS",
+    "product": "1211SGAS.txt",
+    "issued": "2016 Dec 11 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161212SGAS.txt",
+    "source": "SGAS",
+    "product": "1212SGAS.txt",
+    "issued": "2016 Dec 12 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161213SGAS.txt",
+    "source": "SGAS",
+    "product": "1213SGAS.txt",
+    "issued": "2016 Dec 13 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161214SGAS.txt",
+    "source": "SGAS",
+    "product": "1214SGAS.txt",
+    "issued": "2016 Dec 14 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161215SGAS.txt",
+    "source": "SGAS",
+    "product": "1215SGAS.txt",
+    "issued": "2016 Dec 15 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161216SGAS.txt",
+    "source": "SGAS",
+    "product": "1216SGAS.txt",
+    "issued": "2016 Dec 16 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161217SGAS.txt",
+    "source": "SGAS",
+    "product": "1217SGAS.txt",
+    "issued": "2016 Dec 17 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161218SGAS.txt",
+    "source": "SGAS",
+    "product": "1218SGAS.txt",
+    "issued": "2016 Dec 18 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161219SGAS.txt",
+    "source": "SGAS",
+    "product": "1219SGAS.txt",
+    "issued": "2016 Dec 19 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161220SGAS.txt",
+    "source": "SGAS",
+    "product": "1220SGAS.txt",
+    "issued": "2016 Dec 20 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161221SGAS.txt",
+    "source": "SGAS",
+    "product": "1221SGAS.txt",
+    "issued": "2016 Dec 21 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161222SGAS.txt",
+    "source": "SGAS",
+    "product": "1222SGAS.txt",
+    "issued": "2016 Dec 22 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161223SGAS.txt",
+    "source": "SGAS",
+    "product": "1223SGAS.txt",
+    "issued": "2016 Dec 23 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161224SGAS.txt",
+    "source": "SGAS",
+    "product": "1224SGAS.txt",
+    "issued": "2016 Dec 24 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161225SGAS.txt",
+    "source": "SGAS",
+    "product": "1225SGAS.txt",
+    "issued": "2016 Dec 25 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161226SGAS.txt",
+    "source": "SGAS",
+    "product": "1226SGAS.txt",
+    "issued": "2016 Dec 26 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161227SGAS.txt",
+    "source": "SGAS",
+    "product": "1227SGAS.txt",
+    "issued": "2016 Dec 27 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161228SGAS.txt",
+    "source": "SGAS",
+    "product": "1228SGAS.txt",
+    "issued": "2016 Dec 28 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161229SGAS.txt",
+    "source": "SGAS",
+    "product": "1229SGAS.txt",
+    "issued": "2016 Dec 29 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161230SGAS.txt",
+    "source": "SGAS",
+    "product": "1230SGAS.txt",
+    "issued": "2016 Dec 30 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  },
+  {
+    "file": "20161231SGAS.txt",
+    "source": "SGAS",
+    "product": "1231SGAS.txt",
+    "issued": "2016 Dec 31 0245 UTC",
+    "sdfNumber": null,
+    "sections": []
+  }
+]

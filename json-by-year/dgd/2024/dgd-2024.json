@@ -1,0 +1,12826 @@
+{
+  "days": [
+    {
+      "date": "2024-01-01",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        4,
+        4,
+        4,
+        3,
+        3
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        0.33,
+        1,
+        1,
+        1.67,
+        2,
+        2.67,
+        3,
+        4
+      ]
+    },
+    {
+      "date": "2024-01-02",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        3,
+        5,
+        4,
+        0,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.67,
+        2.67,
+        1,
+        2,
+        2.33,
+        2.67,
+        1.33,
+        1
+      ]
+    },
+    {
+      "date": "2024-01-03",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        1,
+        3,
+        1,
+        4,
+        3,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        2.67,
+        2.67,
+        1.67,
+        2,
+        2,
+        2.67,
+        3,
+        3
+      ]
+    },
+    {
+      "date": "2024-01-04",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        2,
+        0,
+        2,
+        0,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        0.67,
+        1.67,
+        1,
+        0.67,
+        1.33,
+        1,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-01-05",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        2,
+        1,
+        0,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        1,
+        0,
+        2,
+        3,
+        4,
+        0,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2.33,
+        1.33,
+        0.33,
+        1.33,
+        1.33,
+        2,
+        0.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-01-06",
+      "middleLatitudeA": 2,
+      "middleLatitudeK": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.67,
+        1.33,
+        0,
+        0.33,
+        0.33,
+        0.33,
+        0.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-01-07",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        0
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.33,
+        0,
+        0.67,
+        0.67,
+        0.67,
+        1,
+        0.67,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-01-08",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        1,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        3,
+        1,
+        0,
+        1
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        0.33,
+        0.67,
+        0.33,
+        0.67,
+        2,
+        1.33,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-01-09",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        3,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        0,
+        2,
+        3,
+        2,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        1.67,
+        2.67,
+        1,
+        1.33,
+        1.67,
+        0.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-01-10",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        5,
+        5,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.67,
+        2,
+        1.33,
+        2.33,
+        2.33,
+        1.67,
+        2.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-01-11",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        0,
+        0,
+        3,
+        3,
+        5,
+        1,
+        0,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        1.33,
+        2.33,
+        2,
+        2.33,
+        1.33,
+        1,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-01-12",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        2,
+        1,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        2,
+        2,
+        3,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        0.67,
+        1.33,
+        1.33,
+        1.33,
+        0.67,
+        1.33,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-01-13",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.67,
+        0.33,
+        0.33,
+        1.33,
+        1,
+        1,
+        1,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-01-14",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 10,
+      "highLatitudeK": [
+        0,
+        1,
+        2,
+        4,
+        3,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        1.33,
+        1.67,
+        2,
+        1.67,
+        2,
+        2,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-01-15",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        0,
+        0,
+        4,
+        2,
+        2,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        0.67,
+        1.67,
+        1.67,
+        2.33,
+        0.67,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-01-16",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        3,
+        2.33,
+        1,
+        0.67,
+        1,
+        1,
+        1.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-01-17",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        0,
+        3,
+        0,
+        2,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        0.67,
+        0.67,
+        1.33,
+        0.67,
+        0.67,
+        1,
+        1,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-01-18",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        0,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        4,
+        3,
+        1,
+        1,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        1,
+        2,
+        2,
+        1.67,
+        1.33,
+        2,
+        2
+      ]
+    },
+    {
+      "date": "2024-01-19",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        0,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.33,
+        3,
+        2.33,
+        1.33,
+        1.67,
+        2,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-01-20",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        3,
+        4,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1.33,
+        2.33,
+        1.33,
+        1.33,
+        2.33,
+        2,
+        1,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-01-21",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        5,
+        3,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        0.67,
+        1.67,
+        2,
+        2.67,
+        2,
+        0.67,
+        1,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-01-22",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        0.67,
+        0.67,
+        1.33,
+        1,
+        2,
+        2.33,
+        3.33,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-01-23",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.33,
+        2.67,
+        2,
+        1.33,
+        1.67,
+        1.33,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-01-24",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        3,
+        2,
+        3,
+        1,
+        2,
+        2,
+        0,
+        1
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        2,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        3.67,
+        3,
+        3.33,
+        1.67,
+        1.67,
+        1,
+        0.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-01-25",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        4,
+        3,
+        1,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        0.67,
+        1,
+        1,
+        1.67,
+        2.33,
+        2,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-01-26",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        1,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        3,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        1.33,
+        0.33,
+        0.67,
+        2.67,
+        2,
+        1.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-01-27",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        1,
+        3,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2.67,
+        1.33,
+        1.33,
+        1.33,
+        0.67,
+        1.33,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-01-28",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        4,
+        2,
+        1,
+        1,
+        2
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.33,
+        1,
+        2,
+        2,
+        2,
+        1.67,
+        3,
+        3
+      ]
+    },
+    {
+      "date": "2024-01-29",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        1,
+        3,
+        1,
+        0,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        3,
+        1.67,
+        1.33,
+        1,
+        2.33,
+        2.33,
+        2.33,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-01-30",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        2,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.33,
+        3,
+        2.33,
+        1.67,
+        1.33,
+        1,
+        2.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-01-31",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        2.33,
+        1.33,
+        1.67,
+        1.67,
+        2,
+        1.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-02-01",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        4,
+        3,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1.33,
+        2,
+        2,
+        1,
+        1.67,
+        1.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-02-02",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.67,
+        0.33,
+        1.33,
+        1.33,
+        0.67,
+        0.67,
+        0.33,
+        0
+      ]
+    },
+    {
+      "date": "2024-02-03",
+      "middleLatitudeA": 2,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 0,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.33,
+        1.33,
+        1,
+        0.67,
+        0,
+        0.67,
+        0.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-02-04",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        0.67,
+        1.33,
+        1,
+        1.67,
+        0.67,
+        1.67,
+        2,
+        3
+      ]
+    },
+    {
+      "date": "2024-02-05",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        0.67,
+        0.67,
+        2.33,
+        1.67,
+        2,
+        2.33,
+        2,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-02-06",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        4,
+        2,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        3,
+        2.33,
+        1.67,
+        2,
+        2,
+        1.67,
+        2,
+        1
+      ]
+    },
+    {
+      "date": "2024-02-07",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        3,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        0.33,
+        0.67,
+        1.33,
+        1.33,
+        1.67,
+        1,
+        1,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-02-08",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        3,
+        3,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1,
+        1.33,
+        1.67,
+        2,
+        1.67,
+        2,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-02-09",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        3
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        0.33,
+        1.33,
+        1.67,
+        1.67,
+        0.67,
+        1,
+        3
+      ]
+    },
+    {
+      "date": "2024-02-10",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        2,
+        1,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1.33,
+        1.33,
+        2,
+        1.67,
+        1,
+        1,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-02-11",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        4,
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        5,
+        2,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 15,
+      "planetaryK": [
+        4.33,
+        3.33,
+        3.67,
+        3,
+        2,
+        2.33,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-02-12",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        0,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1.67,
+        1.33,
+        2,
+        0.33,
+        0.33,
+        0.67,
+        0.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-02-13",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 17,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        4,
+        5,
+        5,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1.67,
+        2.33,
+        1.67,
+        2.33,
+        2,
+        3.67,
+        2,
+        3
+      ]
+    },
+    {
+      "date": "2024-02-14",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        3,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3.33,
+        3,
+        1.33,
+        1.33,
+        0.67,
+        0.67,
+        0.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-02-15",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1.33,
+        0.67,
+        1,
+        1,
+        1,
+        0.67,
+        1.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-02-16",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        1,
+        2,
+        2,
+        0,
+        1
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1.33,
+        0.67,
+        0.67,
+        1.67,
+        2,
+        1,
+        0.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-02-17",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        0,
+        0,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1,
+        0.67,
+        0,
+        1.33,
+        1.67,
+        1,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-02-18",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        3,
+        1,
+        0,
+        2,
+        1,
+        0,
+        1,
+        0
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        4,
+        2,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        3.33,
+        2,
+        1,
+        1.67,
+        1,
+        0,
+        1,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-02-19",
+      "middleLatitudeA": 1,
+      "middleLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        1.67,
+        0.33,
+        0.67,
+        1.67,
+        0.33,
+        0,
+        0,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-02-20",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        0,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        0,
+        0,
+        3,
+        4,
+        4,
+        4,
+        0,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        0.33,
+        2,
+        1.67,
+        1.67,
+        1.33,
+        1.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-02-21",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        -1,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1,
+        0.33,
+        0.67,
+        1,
+        0.67,
+        1.67,
+        1.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-02-22",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        2.33,
+        2,
+        2,
+        1.33,
+        0.67,
+        1.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-02-23",
+      "middleLatitudeA": 2,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        0,
+        1,
+        1
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.33,
+        0.33,
+        0.67,
+        1.33,
+        1.33,
+        0.33,
+        0.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-02-24",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        2,
+        4,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1,
+        0.67,
+        0.67,
+        1.67,
+        2.33,
+        2.67,
+        2.33,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-02-25",
+      "middleLatitudeA": 14,
+      "middleLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        4,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 19,
+      "highLatitudeK": [
+        1,
+        4,
+        4,
+        5,
+        4,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        1.67,
+        3,
+        3,
+        2.67,
+        3.33,
+        2,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-02-26",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        1,
+        3,
+        4,
+        5,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        3.33,
+        3,
+        2.67,
+        2.67,
+        2.67,
+        1.67,
+        1.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-02-27",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        3,
+        4,
+        3,
+        1,
+        1,
+        1,
+        2,
+        0
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        3,
+        4,
+        3,
+        0,
+        2,
+        1,
+        2,
+        0
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        3.67,
+        4.67,
+        3,
+        1.33,
+        0.67,
+        1.33,
+        2.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-02-28",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        5,
+        1,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1.67,
+        1.33,
+        1.67,
+        2.33,
+        1.33,
+        0.67,
+        1.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-02-29",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        0,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        1,
+        3,
+        2,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1,
+        0.33,
+        1.67,
+        1.33,
+        1.67,
+        1,
+        0.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-03-01",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        1,
+        2,
+        4,
+        4,
+        2,
+        2,
+        2,
+        0
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        3,
+        3,
+        3,
+        1.67,
+        1.67,
+        2,
+        2,
+        1
+      ]
+    },
+    {
+      "date": "2024-03-02",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2.33,
+        1.67,
+        1,
+        1.33,
+        1.33,
+        0.33,
+        1,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-03-03",
+      "middleLatitudeA": 20,
+      "middleLatitudeK": [
+        3,
+        0,
+        0,
+        2,
+        5,
+        5,
+        4,
+        3
+      ],
+      "highLatitudeA": 49,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        3,
+        7,
+        7,
+        6,
+        3
+      ],
+      "planetaryA": 29,
+      "planetaryK": [
+        2.67,
+        1,
+        0.67,
+        3.33,
+        5.33,
+        5,
+        5.67,
+        4
+      ]
+    },
+    {
+      "date": "2024-03-04",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        2,
+        3,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        3,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        4,
+        2.33,
+        2.33,
+        1.67,
+        1.67,
+        1.33,
+        1.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-03-05",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        1,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        0,
+        4,
+        3,
+        2,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.67,
+        1,
+        2.33,
+        1.67,
+        1.67,
+        1.33,
+        2,
+        1
+      ]
+    },
+    {
+      "date": "2024-03-06",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        4,
+        5,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        3,
+        2,
+        2,
+        2,
+        1,
+        0.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-03-07",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        1,
+        2,
+        3,
+        4,
+        4,
+        2,
+        2
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        3,
+        2,
+        2.33,
+        2.67,
+        1.67,
+        2.67,
+        3.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-03-08",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        3,
+        2,
+        1,
+        3,
+        1,
+        2,
+        3
+      ],
+      "highLatitudeA": 10,
+      "highLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1,
+        3
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        3,
+        3.33,
+        2,
+        1.33,
+        2,
+        1,
+        2,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-03-09",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        3,
+        2,
+        3,
+        5,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        4,
+        3.33,
+        2.67,
+        2,
+        2.67,
+        1.67,
+        2.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-03-10",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        3,
+        2,
+        1,
+        2,
+        0
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        5,
+        1,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        1.33,
+        2,
+        3,
+        1.67,
+        1.33,
+        2,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-03-11",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        0,
+        1,
+        2,
+        3,
+        2,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1,
+        1,
+        2.33,
+        1.67,
+        1,
+        0.67,
+        0.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-03-12",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        2,
+        0,
+        0,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        5,
+        2,
+        3,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        3,
+        1,
+        1,
+        2,
+        1.33,
+        1.67,
+        1,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-03-13",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        0,
+        0,
+        3,
+        2,
+        3,
+        3,
+        1,
+        1
+      ],
+      "highLatitudeA": 20,
+      "highLatitudeK": [
+        0,
+        0,
+        4,
+        5,
+        4,
+        5,
+        2,
+        0
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.33,
+        0.67,
+        3.33,
+        2.67,
+        2.33,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "date": "2024-03-14",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        2,
+        0,
+        3,
+        0,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.33,
+        2.67,
+        2,
+        2,
+        1.67,
+        2.33,
+        1.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-03-15",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        1,
+        2,
+        3,
+        3,
+        1,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        3.67,
+        2.33,
+        2,
+        2,
+        1,
+        1,
+        1,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-03-16",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 0,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.33,
+        0.33,
+        0.67,
+        0.67,
+        1,
+        0.33,
+        0.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-03-17",
+      "middleLatitudeA": 2,
+      "middleLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 0,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.33,
+        0.67,
+        0.67,
+        1,
+        0.67,
+        0.67,
+        0,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-03-18",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        0.33,
+        0.33,
+        0.67,
+        2,
+        1,
+        1,
+        2.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-03-19",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        3,
+        2,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        4,
+        3,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        3,
+        2.33,
+        2.67,
+        2.67,
+        1.67,
+        1,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-03-20",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1.67,
+        0.67,
+        1.67,
+        1.33,
+        0.67,
+        0.33,
+        0.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-03-21",
+      "middleLatitudeA": 20,
+      "middleLatitudeK": [
+        3,
+        2,
+        3,
+        2,
+        5,
+        4,
+        4,
+        3
+      ],
+      "highLatitudeA": 45,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        4,
+        7,
+        6,
+        6,
+        2
+      ],
+      "planetaryA": 27,
+      "planetaryK": [
+        3.33,
+        2.33,
+        3.33,
+        2.67,
+        5,
+        5,
+        4.67,
+        4
+      ]
+    },
+    {
+      "date": "2024-03-22",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        3,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        3,
+        2,
+        3,
+        4,
+        1,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        3.67,
+        3.33,
+        3,
+        3.33,
+        1.33,
+        1.33,
+        0.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-03-23",
+      "middleLatitudeA": 25,
+      "middleLatitudeK": [
+        3,
+        5,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4
+      ],
+      "highLatitudeA": 44,
+      "highLatitudeK": [
+        2,
+        4,
+        7,
+        5,
+        4,
+        5,
+        4,
+        4
+      ],
+      "planetaryA": 36,
+      "planetaryK": [
+        2.67,
+        5,
+        4.67,
+        4,
+        4,
+        4,
+        4.67,
+        5.67
+      ]
+    },
+    {
+      "date": "2024-03-24",
+      "middleLatitudeA": 43,
+      "middleLatitudeK": [
+        4,
+        3,
+        3,
+        4,
+        5,
+        7,
+        5,
+        4
+      ],
+      "highLatitudeA": 100,
+      "highLatitudeK": [
+        4,
+        4,
+        5,
+        5,
+        6,
+        9,
+        7,
+        4
+      ],
+      "planetaryA": 64,
+      "planetaryK": [
+        4.67,
+        3.33,
+        3.67,
+        3.67,
+        6,
+        8,
+        6.33,
+        4
+      ]
+    },
+    {
+      "date": "2024-03-25",
+      "middleLatitudeA": 17,
+      "middleLatitudeK": [
+        4,
+        4,
+        3,
+        3,
+        4,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        3,
+        3,
+        4,
+        4,
+        5,
+        3,
+        3,
+        1
+      ],
+      "planetaryA": 22,
+      "planetaryK": [
+        4.33,
+        5,
+        3.33,
+        3.67,
+        4,
+        3,
+        2.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-03-26",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        2,
+        1,
+        3,
+        2,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        2,
+        3,
+        1,
+        3,
+        3,
+        2,
+        1,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        3.33,
+        2.67,
+        1,
+        3,
+        2,
+        2,
+        2.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-03-27",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        3,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3,
+        1.33,
+        2,
+        1.67,
+        1.33,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "date": "2024-03-28",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        5,
+        4,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2,
+        1.33,
+        2,
+        1.67,
+        2.33,
+        1.67,
+        2,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-03-29",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        1,
+        0,
+        3,
+        3,
+        3,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        2,
+        1.67,
+        2.33,
+        1.67,
+        1,
+        0.67,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-03-30",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        0.67,
+        1,
+        1,
+        1.33,
+        1.33,
+        1.67,
+        1,
+        2
+      ]
+    },
+    {
+      "date": "2024-03-31",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        2,
+        1,
+        2,
+        2,
+        0,
+        1,
+        0,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        3.67,
+        2,
+        2.33,
+        1.67,
+        1.33,
+        1.33,
+        1.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-04-01",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        1,
+        3,
+        3,
+        1,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        2,
+        3,
+        5,
+        3,
+        3,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        2,
+        3.33,
+        3.67,
+        2,
+        1.67,
+        2.33,
+        2.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-04-02",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        3,
+        3,
+        3,
+        1,
+        1
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        5,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.67,
+        1.67,
+        1.67,
+        3.33,
+        2.33,
+        2,
+        1.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-04-03",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        5
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        3,
+        1,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3,
+        2.33,
+        1.67,
+        1.33,
+        1.67,
+        1.33,
+        0.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-04-04",
+      "middleLatitudeA": 33,
+      "middleLatitudeK": [
+        6,
+        3,
+        3,
+        3,
+        3,
+        4,
+        6,
+        3
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        5,
+        5,
+        3,
+        2,
+        3
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        1.67,
+        1.33,
+        2.67,
+        3,
+        2.67,
+        3,
+        2.33,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-04-05",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        5,
+        5,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        2.33,
+        3.33,
+        3,
+        3.33,
+        2.67,
+        2,
+        2,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-04-06",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        2,
+        3,
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        3,
+        2,
+        4,
+        3,
+        3,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        3.33,
+        2.33,
+        3.33,
+        2,
+        2.33,
+        1.33,
+        1.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-04-07",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1.67,
+        2,
+        1,
+        2,
+        1.67,
+        1.33,
+        1.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-04-08",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        3,
+        3,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        3,
+        1,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.67,
+        3.33,
+        3,
+        1.67,
+        0.67,
+        1.33,
+        0.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-04-09",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        1,
+        2,
+        3,
+        5,
+        5,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        0.67,
+        2.67,
+        3,
+        3,
+        2.67,
+        1.67,
+        2,
+        3
+      ]
+    },
+    {
+      "date": "2024-04-10",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        4,
+        2,
+        4,
+        2,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        3,
+        1.67,
+        2,
+        2,
+        2,
+        2.33,
+        2.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-04-11",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        2,
+        0,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        2,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        2.67,
+        0.67,
+        1,
+        1.33,
+        1.33,
+        1.33,
+        1
+      ]
+    },
+    {
+      "date": "2024-04-12",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.33,
+        2.67,
+        1.67,
+        1.67,
+        1,
+        1,
+        1.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-04-13",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        2,
+        0,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2,
+        2.33,
+        0.67,
+        1,
+        1.33,
+        1.67,
+        0.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-04-14",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        0,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        2,
+        0,
+        2,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        1,
+        2,
+        2,
+        1.33,
+        1,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-04-15",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        2,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        2,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.33,
+        2,
+        0.67,
+        1.67,
+        1,
+        2,
+        2.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-04-17",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        2,
+        1,
+        2,
+        2,
+        1,
+        3,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        3,
+        1,
+        1,
+        3,
+        3,
+        5,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3,
+        1.33,
+        1.33,
+        1.67,
+        1.67,
+        1.67,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-04-19",
+      "middleLatitudeA": 21,
+      "middleLatitudeK": [
+        2,
+        1,
+        4,
+        4,
+        4,
+        3,
+        5,
+        3
+      ],
+      "highLatitudeA": 46,
+      "highLatitudeK": [
+        2,
+        1,
+        5,
+        5,
+        4,
+        7,
+        6,
+        3
+      ],
+      "planetaryA": 41,
+      "planetaryK": [
+        2.33,
+        1.33,
+        4.33,
+        4.33,
+        4.67,
+        5,
+        7,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-04-20",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        2,
+        2,
+        4,
+        6,
+        3,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        2.67,
+        2,
+        3.33,
+        3.33,
+        2.33,
+        2.33,
+        2,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-04-21",
+      "middleLatitudeA": 14,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        2,
+        4,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 36,
+      "highLatitudeK": [
+        3,
+        3,
+        5,
+        6,
+        5,
+        5,
+        4,
+        2
+      ],
+      "planetaryA": 19,
+      "planetaryK": [
+        3,
+        3,
+        3.33,
+        3.33,
+        4,
+        3.67,
+        3.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-04-24",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        0
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        2,
+        0.33,
+        0.67,
+        1.33,
+        1.33,
+        0.67,
+        0.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-04-25",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 0,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.67,
+        0.33,
+        0,
+        1.33,
+        1,
+        1,
+        0.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-04-26",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        4,
+        2,
+        2
+      ],
+      "highLatitudeA": 30,
+      "highLatitudeK": [
+        2,
+        3,
+        5,
+        4,
+        5,
+        6,
+        2,
+        2
+      ],
+      "planetaryA": 19,
+      "planetaryK": [
+        2,
+        2.33,
+        3.33,
+        3,
+        3.67,
+        5.33,
+        3,
+        2
+      ]
+    },
+    {
+      "date": "2024-04-27",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        1,
+        3,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        3,
+        2,
+        2,
+        1,
+        5,
+        2,
+        3,
+        2
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        3,
+        3,
+        2,
+        1.33,
+        3.33,
+        2.67,
+        3,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-04-28",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        3,
+        2,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3.67,
+        2,
+        1.33,
+        1.33,
+        0.67,
+        0.67,
+        0.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-04-29",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        1,
+        2,
+        3,
+        3,
+        1,
+        2,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        1.33,
+        2,
+        1.33,
+        1.33,
+        1.33,
+        2.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-04-30",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        3,
+        2,
+        2,
+        4
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        2,
+        0,
+        0,
+        2,
+        3,
+        2,
+        3
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        2,
+        1.67,
+        0.67,
+        1,
+        2.67,
+        2.67,
+        3.67,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-05-01",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        1,
+        2,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        3,
+        2,
+        2,
+        0,
+        1,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        3.67,
+        2.33,
+        1.67,
+        0.67,
+        1,
+        1.33,
+        2.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-05-02",
+      "middleLatitudeA": 24,
+      "middleLatitudeK": [
+        2,
+        2,
+        3,
+        3,
+        5,
+        5,
+        4,
+        4
+      ],
+      "highLatitudeA": 61,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        6,
+        6,
+        7,
+        7,
+        3
+      ],
+      "planetaryA": 44,
+      "planetaryK": [
+        2.67,
+        2,
+        2.67,
+        3.33,
+        5,
+        6.67,
+        6.67,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-05-03",
+      "middleLatitudeA": 16,
+      "middleLatitudeK": [
+        3,
+        2,
+        1,
+        1,
+        2,
+        1,
+        6,
+        2
+      ],
+      "highLatitudeA": 10,
+      "highLatitudeK": [
+        4,
+        3,
+        2,
+        3,
+        1,
+        0,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        4.33,
+        3.33,
+        1.33,
+        1.67,
+        1.33,
+        1,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-05-04",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        2,
+        1,
+        0,
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1.33,
+        1.33,
+        0.67,
+        1,
+        1,
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "date": "2024-05-05",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        2,
+        1,
+        3,
+        3,
+        3,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        2,
+        1,
+        2,
+        5,
+        0,
+        0,
+        2,
+        3
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        2,
+        1.33,
+        2.33,
+        2.33,
+        1.67,
+        1.67,
+        3.33,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-05-06",
+      "middleLatitudeA": 13,
+      "middleLatitudeK": [
+        4,
+        2,
+        2,
+        2,
+        4,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 19,
+      "highLatitudeK": [
+        5,
+        2,
+        2,
+        5,
+        3,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 15,
+      "planetaryK": [
+        5,
+        2.33,
+        2.33,
+        2.67,
+        3.67,
+        2,
+        2.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-05-07",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        3,
+        3,
+        2,
+        1,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2,
+        2,
+        1.33,
+        2,
+        2.33,
+        2.33,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-05-08",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        3,
+        1,
+        1,
+        0,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        2.33,
+        1.67,
+        2.67,
+        2,
+        2,
+        1,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-05-09",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        2,
+        0,
+        2,
+        1,
+        0,
+        2,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1,
+        2,
+        1,
+        2.33,
+        1.33,
+        1.33,
+        2.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-05-10",
+      "middleLatitudeA": 80,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        1,
+        3,
+        5,
+        7,
+        9
+      ],
+      "highLatitudeA": 146,
+      "highLatitudeK": [
+        2,
+        3,
+        5,
+        4,
+        4,
+        8,
+        9,
+        9
+      ],
+      "planetaryA": 118,
+      "planetaryK": [
+        3,
+        3,
+        2.67,
+        2.33,
+        2.67,
+        7.67,
+        8.67,
+        9
+      ]
+    },
+    {
+      "date": "2024-05-12",
+      "middleLatitudeA": 31,
+      "middleLatitudeK": [
+        5,
+        6,
+        3,
+        3,
+        3,
+        3,
+        3,
+        5
+      ],
+      "highLatitudeA": 45,
+      "highLatitudeK": [
+        6,
+        6,
+        5,
+        5,
+        3,
+        4,
+        3,
+        5
+      ],
+      "planetaryA": 54,
+      "planetaryK": [
+        6.67,
+        7,
+        3.67,
+        3.67,
+        2.67,
+        2.67,
+        4,
+        6.33
+      ]
+    },
+    {
+      "date": "2024-05-13",
+      "middleLatitudeA": 24,
+      "middleLatitudeK": [
+        5,
+        5,
+        4,
+        3,
+        3,
+        3,
+        2,
+        3
+      ],
+      "highLatitudeA": 35,
+      "highLatitudeK": [
+        5,
+        6,
+        5,
+        5,
+        3,
+        3,
+        3,
+        2
+      ],
+      "planetaryA": 30,
+      "planetaryK": [
+        5.67,
+        6,
+        4,
+        2.67,
+        3.33,
+        2.67,
+        2.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-05-14",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        3,
+        3,
+        1,
+        2,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        1.67,
+        1.67,
+        2,
+        2.33,
+        1.67,
+        1.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-05-15",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 10,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1.67,
+        2,
+        2.67,
+        2.33,
+        2.33,
+        1.67,
+        3,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-05-16",
+      "middleLatitudeA": 19,
+      "middleLatitudeK": [
+        2,
+        3,
+        5,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 31,
+      "highLatitudeK": [
+        3,
+        4,
+        6,
+        6,
+        3,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 27,
+      "planetaryK": [
+        2.67,
+        3.33,
+        6,
+        4.67,
+        4.67,
+        3,
+        2.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-05-17",
+      "middleLatitudeA": 16,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        4,
+        4
+      ],
+      "highLatitudeA": 33,
+      "highLatitudeK": [
+        2,
+        3,
+        2,
+        1,
+        4,
+        6,
+        6,
+        5
+      ],
+      "planetaryA": 29,
+      "planetaryK": [
+        2,
+        2.67,
+        2,
+        2,
+        3.33,
+        5,
+        6,
+        5.33
+      ]
+    },
+    {
+      "date": "2024-05-19",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        3,
+        0,
+        3,
+        3,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.33,
+        2.67,
+        1.67,
+        2.33,
+        3,
+        2,
+        2.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-05-20",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        2.67,
+        2.33,
+        1.67,
+        2.33,
+        1,
+        1,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-05-21",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        2,
+        3,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        5,
+        4,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        2,
+        1.67,
+        1.33,
+        2.67,
+        3,
+        2.67,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-05-22",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        2,
+        0.67,
+        0.67,
+        0.67,
+        0.33,
+        0.67,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-05-23",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        4
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        1,
+        2,
+        2,
+        4,
+        5,
+        5,
+        3,
+        3
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1,
+        2,
+        1.67,
+        2.33,
+        2.67,
+        2,
+        2.33,
+        4
+      ]
+    },
+    {
+      "date": "2024-05-24",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        2,
+        3,
+        2,
+        4,
+        3,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        3,
+        3,
+        4,
+        5,
+        4,
+        4,
+        1,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        2,
+        2.67,
+        2.67,
+        3.33,
+        2.33,
+        1.67,
+        0.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-05-25",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1.67,
+        1.67,
+        1.33,
+        0.67,
+        1.33,
+        2,
+        1.33,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-05-26",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        2,
+        3,
+        1,
+        2,
+        5,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1.67,
+        2.67,
+        1.33,
+        2.33,
+        3,
+        2.33,
+        3,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-05-27",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        0,
+        2,
+        2,
+        6,
+        3,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.33,
+        1,
+        2.33,
+        3,
+        2.33,
+        1.33,
+        1,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-05-28",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.67,
+        2,
+        2,
+        1,
+        1,
+        0.67,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-05-29",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        4,
+        3,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        0.67,
+        1.33,
+        2,
+        1.67,
+        1.33,
+        2,
+        2.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-05-30",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        3
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        2,
+        4,
+        4,
+        2,
+        2
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1,
+        1.67,
+        1.67,
+        2,
+        2,
+        3,
+        2,
+        3
+      ]
+    },
+    {
+      "date": "2024-05-31",
+      "middleLatitudeA": 14,
+      "middleLatitudeK": [
+        3,
+        5,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        3,
+        5,
+        4,
+        3,
+        4,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        2.67,
+        4.67,
+        2.67,
+        1.67,
+        2.33,
+        2,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-01",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        2,
+        2,
+        0
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        1,
+        1,
+        3,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2.33,
+        1.33,
+        1.33,
+        1.33,
+        1.67,
+        1.33,
+        1.33,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-06-02",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1,
+        1,
+        1.33,
+        1.33,
+        1,
+        1.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-06-03",
+      "middleLatitudeA": 13,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        4
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        3
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        2.33,
+        2,
+        1.67,
+        2,
+        2,
+        1.33,
+        2,
+        4.67
+      ]
+    },
+    {
+      "date": "2024-06-04",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.67,
+        3,
+        2.67,
+        2,
+        1.67,
+        1,
+        0.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-06-05",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        3,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        1.67,
+        1.67,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-06-06",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        2,
+        3,
+        2,
+        3,
+        1,
+        0,
+        1
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        1,
+        2,
+        3,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        2,
+        2.67,
+        1.67,
+        1.67,
+        1,
+        0.33,
+        1
+      ]
+    },
+    {
+      "date": "2024-06-07",
+      "middleLatitudeA": 20,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        3,
+        5,
+        5,
+        3,
+        3
+      ],
+      "highLatitudeA": 38,
+      "highLatitudeK": [
+        1,
+        3,
+        3,
+        4,
+        6,
+        7,
+        2,
+        3
+      ],
+      "planetaryA": 28,
+      "planetaryK": [
+        1.33,
+        2.33,
+        2.67,
+        3.33,
+        6,
+        5.67,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-06-08",
+      "middleLatitudeA": 15,
+      "middleLatitudeK": [
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        5,
+        4,
+        3,
+        3,
+        3,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 14,
+      "planetaryK": [
+        4.33,
+        3.33,
+        3,
+        2.67,
+        2,
+        3,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-09",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.67,
+        1,
+        1.33,
+        1,
+        2,
+        1,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-10",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        4,
+        4,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        3,
+        0,
+        2,
+        3,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        1.67,
+        1,
+        1.33,
+        1.33,
+        1,
+        3.67,
+        4.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-06-11",
+      "middleLatitudeA": 13,
+      "middleLatitudeK": [
+        4,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        5,
+        5,
+        3,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        4,
+        4,
+        2.67,
+        2,
+        1.67,
+        1.67,
+        1,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-12",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.33,
+        0.67,
+        1.33,
+        1.33,
+        1.67,
+        1.67,
+        1.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-13",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        0,
+        1,
+        2,
+        2,
+        3,
+        2,
+        0
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1,
+        0.33,
+        0.67,
+        1,
+        1.33,
+        1.33,
+        1.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-06-14",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        3,
+        3,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        0,
+        2,
+        4,
+        4,
+        3,
+        1,
+        2,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1,
+        1.33,
+        2,
+        2,
+        1.33,
+        0.67,
+        1.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-06-15",
+      "middleLatitudeA": 18,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        5,
+        3,
+        3,
+        4
+      ],
+      "highLatitudeA": 26,
+      "highLatitudeK": [
+        1,
+        3,
+        3,
+        5,
+        6,
+        4,
+        2,
+        3
+      ],
+      "planetaryA": 19,
+      "planetaryK": [
+        2.33,
+        2,
+        2,
+        2.67,
+        5.33,
+        3.33,
+        2.67,
+        4
+      ]
+    },
+    {
+      "date": "2024-06-16",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        3,
+        0,
+        0,
+        2,
+        3,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 17,
+      "highLatitudeK": [
+        3,
+        1,
+        0,
+        4,
+        5,
+        2,
+        4,
+        2
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        3,
+        1.33,
+        0,
+        3.33,
+        3.33,
+        2.67,
+        4,
+        2
+      ]
+    },
+    {
+      "date": "2024-06-17",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        2,
+        3,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        2,
+        3,
+        2,
+        5,
+        3,
+        4,
+        3,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        2,
+        3,
+        2,
+        2,
+        2,
+        3,
+        3.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-06-18",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 23,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        5,
+        5,
+        4,
+        2,
+        2
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        2,
+        2.67,
+        2.67,
+        2.67,
+        3,
+        2.67,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-19",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 20,
+      "highLatitudeK": [
+        3,
+        3,
+        2,
+        3,
+        5,
+        5,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        2.33,
+        1.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-06-20",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        1,
+        2,
+        3
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        3,
+        2,
+        1,
+        2,
+        3,
+        1,
+        1,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2,
+        1.67,
+        1.67,
+        1.67,
+        2,
+        1.33,
+        2,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-06-21",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.67,
+        1.67,
+        1.67,
+        0.67,
+        1,
+        0.67,
+        1.33,
+        1
+      ]
+    },
+    {
+      "date": "2024-06-22",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1.67,
+        1,
+        0.67,
+        0.67,
+        1.33,
+        1,
+        0.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-23",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        1,
+        2,
+        3,
+        3,
+        4,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        1,
+        2,
+        3,
+        5,
+        3,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1.33,
+        1.67,
+        2.33,
+        3,
+        3.33,
+        2.33,
+        2.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-06-24",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        0,
+        0,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.67,
+        1.33,
+        0.67,
+        1.33,
+        1.33,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "date": "2024-06-25",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        1,
+        1,
+        3,
+        3,
+        2,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        2,
+        5,
+        3,
+        2,
+        3,
+        1,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.67,
+        1.33,
+        2.67,
+        2.67,
+        1.67,
+        3,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-26",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        4,
+        4,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.67,
+        1.67,
+        2.67,
+        3,
+        2.67,
+        2.33,
+        2.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-06-27",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        0,
+        3,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        2,
+        1.67,
+        1.33,
+        1.67,
+        2.33,
+        2.33,
+        2.67,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-06-28",
+      "middleLatitudeA": 32,
+      "middleLatitudeK": [
+        3,
+        4,
+        3,
+        5,
+        6,
+        4,
+        4,
+        3
+      ],
+      "highLatitudeA": 36,
+      "highLatitudeK": [
+        4,
+        4,
+        4,
+        6,
+        5,
+        4,
+        4,
+        4
+      ],
+      "planetaryA": 59,
+      "planetaryK": [
+        4.33,
+        4.33,
+        3.67,
+        6,
+        7.67,
+        5.33,
+        5,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-06-29",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        3,
+        3,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 19,
+      "highLatitudeK": [
+        4,
+        2,
+        2,
+        4,
+        4,
+        4,
+        3,
+        3
+      ],
+      "planetaryA": 14,
+      "planetaryK": [
+        4.33,
+        2.67,
+        2.33,
+        2.67,
+        2.33,
+        2.67,
+        3,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-06-30",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        3,
+        1,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 17,
+      "highLatitudeK": [
+        3,
+        2,
+        2,
+        3,
+        4,
+        5,
+        2,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.67,
+        2.67,
+        1.67,
+        2.33,
+        3,
+        3.33,
+        2,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-01",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        4,
+        3,
+        3,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1.67,
+        1.67,
+        2,
+        2,
+        2,
+        1.67,
+        0.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-07-02",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        2,
+        3,
+        1,
+        1,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        0,
+        2,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.33,
+        1.67,
+        1.33,
+        1.33,
+        1.67,
+        0.67,
+        1.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-07-03",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2,
+        1.33,
+        2,
+        1.33,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-04",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        1,
+        4,
+        5,
+        3,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        2,
+        2.33,
+        1.67,
+        1.33,
+        2,
+        3,
+        3,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-07-05",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        3,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.33,
+        2.67,
+        1.67,
+        2.33,
+        3,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-07-06",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        1,
+        1,
+        0.67,
+        0.67,
+        0.67,
+        0.67,
+        0.33,
+        1
+      ]
+    },
+    {
+      "date": "2024-07-07",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        0,
+        1,
+        1,
+        2,
+        2
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2,
+        1.67,
+        1.67,
+        1,
+        1.67,
+        1.33,
+        2.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-07-08",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        4,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        3,
+        2,
+        2,
+        5,
+        3,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        2.33,
+        2.33,
+        2,
+        3,
+        3.33,
+        2,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-09",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        4,
+        3,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        2,
+        1.33,
+        2,
+        2.33,
+        1,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-10",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        1.67,
+        1.33,
+        1.67,
+        1.33,
+        1.67,
+        1.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-07-11",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        2,
+        2,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        1.67,
+        1.67,
+        1.33,
+        1.67,
+        1.33,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-12",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2.33,
+        1.67,
+        2,
+        1.33,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-07-13",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1.33,
+        1,
+        1,
+        0.67,
+        1.67,
+        1,
+        1.33,
+        1
+      ]
+    },
+    {
+      "date": "2024-07-14",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        3,
+        3,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1,
+        1,
+        2,
+        1.67,
+        0.67,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-15",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        1.67,
+        1.67,
+        1.33,
+        1.33,
+        1,
+        1.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-07-16",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        4,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        3.33,
+        2,
+        2.33,
+        1.67,
+        2,
+        2.67,
+        2.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-07-17",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        1,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        3,
+        2,
+        2,
+        3,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.33,
+        1.67,
+        2,
+        1.33,
+        2,
+        1,
+        1.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-07-18",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        1
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1,
+        1.67,
+        1.67,
+        1.33,
+        1.33,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-07-19",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1.33,
+        1.67,
+        1.33,
+        1.33,
+        1,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-07-20",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        1,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.33,
+        2,
+        2,
+        2,
+        1.33,
+        2,
+        2.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-07-21",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        0,
+        1,
+        0,
+        3,
+        3,
+        2,
+        4,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.67,
+        1,
+        1,
+        1.33,
+        1.67,
+        1,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-07-22",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 16,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        2,
+        1.33,
+        2.33,
+        3,
+        2.67,
+        1.33,
+        2.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-23",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        3,
+        3,
+        2,
+        3,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        1,
+        0.67,
+        1.67,
+        1,
+        1,
+        2.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-07-24",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        1.67,
+        1.67,
+        2,
+        1.67,
+        1.33,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-25",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        0,
+        1,
+        2,
+        3,
+        3
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.33,
+        1.67,
+        1.33,
+        1.33,
+        2,
+        2.33,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-07-26",
+      "middleLatitudeA": 23,
+      "middleLatitudeK": [
+        3,
+        5,
+        4,
+        3,
+        4,
+        4,
+        3,
+        2
+      ],
+      "highLatitudeA": 38,
+      "highLatitudeK": [
+        4,
+        5,
+        4,
+        5,
+        5,
+        6,
+        3,
+        2
+      ],
+      "planetaryA": 23,
+      "planetaryK": [
+        3.67,
+        4.67,
+        4,
+        3,
+        3.67,
+        4.33,
+        3,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-07-27",
+      "middleLatitudeA": 14,
+      "middleLatitudeK": [
+        2,
+        3,
+        3,
+        3,
+        4,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 33,
+      "highLatitudeK": [
+        1,
+        3,
+        4,
+        6,
+        6,
+        5,
+        2,
+        1
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        1.67,
+        2.67,
+        2.67,
+        3,
+        4.33,
+        3,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-28",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        3,
+        2,
+        1,
+        3,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.67,
+        1.33,
+        2,
+        1.67,
+        2,
+        1.33,
+        2.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-29",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        3,
+        1,
+        5,
+        3,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        1.67,
+        1.33,
+        2,
+        1.67,
+        1,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-07-30",
+      "middleLatitudeA": 18,
+      "middleLatitudeK": [
+        4,
+        4,
+        3,
+        4,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 35,
+      "highLatitudeK": [
+        5,
+        5,
+        6,
+        5,
+        4,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 23,
+      "planetaryK": [
+        4.33,
+        5,
+        4,
+        4.33,
+        3,
+        3.33,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-07-31",
+      "middleLatitudeA": 13,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        4
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        1,
+        4,
+        3,
+        3,
+        3
+      ],
+      "planetaryA": 17,
+      "planetaryK": [
+        1.67,
+        1.67,
+        1.67,
+        1.67,
+        2.67,
+        3.67,
+        5,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-08-01",
+      "middleLatitudeA": 22,
+      "middleLatitudeK": [
+        4,
+        5,
+        4,
+        3,
+        4,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        5,
+        5,
+        4,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 22,
+      "planetaryK": [
+        5,
+        4.67,
+        3.67,
+        3,
+        3.33,
+        3,
+        2.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-08-02",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 10,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        4,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        2.67,
+        3,
+        1.67,
+        1.67,
+        2,
+        1.67,
+        1.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-08-03",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        2,
+        3,
+        2,
+        4,
+        3,
+        5,
+        2,
+        3
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1.67,
+        2.67,
+        1,
+        2.33,
+        2.67,
+        2.33,
+        2.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-08-04",
+      "middleLatitudeA": 28,
+      "middleLatitudeK": [
+        2,
+        3,
+        4,
+        5,
+        5,
+        4,
+        4,
+        4
+      ],
+      "highLatitudeA": 47,
+      "highLatitudeK": [
+        4,
+        3,
+        4,
+        5,
+        6,
+        7,
+        4,
+        3
+      ],
+      "planetaryA": 46,
+      "planetaryK": [
+        2.67,
+        3.67,
+        4.67,
+        4,
+        6.67,
+        6.33,
+        4.33,
+        4
+      ]
+    },
+    {
+      "date": "2024-08-05",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        3,
+        3,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        2,
+        4,
+        3,
+        4,
+        4,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        2.33,
+        3,
+        3.33,
+        2.33,
+        2.33,
+        1.67,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-08-06",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        2,
+        2,
+        0,
+        1,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        1.67,
+        2,
+        1.33,
+        1.33,
+        1.67,
+        1.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-07",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        3,
+        1,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        2,
+        1.33,
+        2.33,
+        2.33,
+        1.33,
+        1.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-08-08",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        3,
+        2,
+        1,
+        4,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3,
+        2,
+        2,
+        2.33,
+        1.33,
+        1,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-09",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.33,
+        2.33,
+        1.33,
+        2,
+        2,
+        1.67,
+        1.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-10",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        1,
+        2
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        3,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.67,
+        2,
+        1.33,
+        1.33,
+        2.33,
+        2.33,
+        1.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-11",
+      "middleLatitudeA": 23,
+      "middleLatitudeK": [
+        2,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        3,
+        3,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4
+      ],
+      "planetaryA": 28,
+      "planetaryK": [
+        2.33,
+        2.33,
+        4.67,
+        4,
+        4.67,
+        4.33,
+        4,
+        4.67
+      ]
+    },
+    {
+      "date": "2024-08-12",
+      "middleLatitudeA": 51,
+      "middleLatitudeK": [
+        5,
+        6,
+        5,
+        5,
+        6,
+        5,
+        4,
+        4
+      ],
+      "highLatitudeA": 91,
+      "highLatitudeK": [
+        5,
+        6,
+        5,
+        7,
+        7,
+        6,
+        7,
+        5
+      ],
+      "planetaryA": 122,
+      "planetaryK": [
+        6.33,
+        7,
+        7,
+        6.67,
+        8,
+        7.33,
+        5.67,
+        6
+      ]
+    },
+    {
+      "date": "2024-08-13",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        3,
+        3
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        4,
+        3,
+        2,
+        2,
+        1,
+        2,
+        3,
+        3
+      ],
+      "planetaryA": 17,
+      "planetaryK": [
+        4.67,
+        3.33,
+        2.33,
+        1.67,
+        1.67,
+        1.33,
+        3.33,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-08-14",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        4,
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        3
+      ],
+      "highLatitudeA": 16,
+      "highLatitudeK": [
+        4,
+        5,
+        3,
+        3,
+        2,
+        2,
+        1,
+        2
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        4.33,
+        3,
+        2,
+        1.67,
+        1.33,
+        1.33,
+        1.33,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-08-15",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        1,
+        0,
+        2,
+        3,
+        1,
+        2,
+        2
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        1,
+        0.67,
+        1,
+        2,
+        0.67,
+        1.67,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-08-16",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        3,
+        4,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        4,
+        3,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.67,
+        2,
+        2,
+        2.33,
+        3,
+        1.67,
+        0.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-08-17",
+      "middleLatitudeA": 24,
+      "middleLatitudeK": [
+        1,
+        0,
+        1,
+        3,
+        3,
+        6,
+        4,
+        5
+      ],
+      "highLatitudeA": 30,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        3,
+        3,
+        7,
+        4,
+        4
+      ],
+      "planetaryA": 31,
+      "planetaryK": [
+        1.33,
+        1,
+        1.33,
+        1.67,
+        3.33,
+        6.67,
+        4.67,
+        5.33
+      ]
+    },
+    {
+      "date": "2024-08-18",
+      "middleLatitudeA": 15,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        3,
+        4,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        2,
+        3,
+        3,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        2.33,
+        3,
+        2.33,
+        3.67,
+        3.67,
+        2,
+        2,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-08-19",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        3,
+        4,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        1,
+        2,
+        0,
+        1,
+        5,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1.33,
+        1.67,
+        1,
+        2,
+        3.33,
+        2.33,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-08-20",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        4,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        1,
+        3,
+        3,
+        4,
+        4,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        2,
+        2.33,
+        2,
+        2.33,
+        2,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-21",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        4,
+        4,
+        3,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        3.33,
+        1.67,
+        2.33,
+        2,
+        2.33,
+        2,
+        1.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-08-22",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        2,
+        4,
+        4,
+        3,
+        3,
+        2,
+        1,
+        2
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        3.33,
+        2.67,
+        2.33,
+        2,
+        2.33,
+        2.33,
+        1.67,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-08-23",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 10,
+      "highLatitudeK": [
+        2,
+        2,
+        4,
+        1,
+        4,
+        0,
+        2,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.33,
+        1.67,
+        2.67,
+        1.67,
+        2,
+        1,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-24",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        1,
+        2,
+        3,
+        3,
+        3,
+        4,
+        2,
+        2
+      ],
+      "highLatitudeA": 26,
+      "highLatitudeK": [
+        1,
+        2,
+        5,
+        6,
+        3,
+        5,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1.67,
+        2,
+        3,
+        3.33,
+        2,
+        3,
+        1.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-25",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        3,
+        2,
+        3,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        2,
+        4,
+        2,
+        0,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.33,
+        2.33,
+        2.67,
+        1.67,
+        1.33,
+        0.67,
+        1,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-08-26",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        4,
+        4,
+        2,
+        0,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2,
+        1,
+        1,
+        1.67,
+        1.67,
+        1.33,
+        0.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-08-27",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        0,
+        1,
+        3,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        2,
+        4,
+        3,
+        1,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        1,
+        1,
+        2.67,
+        2,
+        2.67,
+        2.67,
+        2.67,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-08-28",
+      "middleLatitudeA": 30,
+      "middleLatitudeK": [
+        5,
+        3,
+        5,
+        3,
+        3,
+        6,
+        3,
+        2
+      ],
+      "highLatitudeA": 35,
+      "highLatitudeK": [
+        5,
+        5,
+        6,
+        4,
+        5,
+        3,
+        1,
+        2
+      ],
+      "planetaryA": 26,
+      "planetaryK": [
+        5.67,
+        4,
+        5.33,
+        2.67,
+        2.67,
+        3,
+        2.33,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-08-29",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        3,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2,
+        1.33,
+        1.33,
+        0.67,
+        2,
+        0.67,
+        0.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-08-30",
+      "middleLatitudeA": 16,
+      "middleLatitudeK": [
+        2,
+        1,
+        3,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "highLatitudeA": 25,
+      "highLatitudeK": [
+        2,
+        1,
+        2,
+        4,
+        5,
+        5,
+        5,
+        3
+      ],
+      "planetaryA": 23,
+      "planetaryK": [
+        1.67,
+        1.33,
+        3.67,
+        3.33,
+        4.33,
+        4.33,
+        4.33,
+        4.67
+      ]
+    },
+    {
+      "date": "2024-08-31",
+      "middleLatitudeA": 19,
+      "middleLatitudeK": [
+        4,
+        3,
+        4,
+        2,
+        3,
+        4,
+        3,
+        3
+      ],
+      "highLatitudeA": 41,
+      "highLatitudeK": [
+        3,
+        4,
+        7,
+        2,
+        4,
+        6,
+        3,
+        3
+      ],
+      "planetaryA": 26,
+      "planetaryK": [
+        4.33,
+        4,
+        4.67,
+        2,
+        3,
+        4.67,
+        4,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-09-01",
+      "middleLatitudeA": 16,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        4,
+        4,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 27,
+      "highLatitudeK": [
+        4,
+        4,
+        3,
+        4,
+        5,
+        5,
+        3,
+        2
+      ],
+      "planetaryA": 16,
+      "planetaryK": [
+        3.67,
+        3.67,
+        2.33,
+        3,
+        3.33,
+        3.33,
+        3,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-09-02",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        3,
+        2,
+        2,
+        3,
+        3,
+        4,
+        2,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.33,
+        2,
+        2,
+        1.67,
+        2,
+        2.67,
+        2,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-09-03",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        1,
+        2,
+        3,
+        4,
+        2,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.67,
+        2,
+        2,
+        2.33,
+        1.67,
+        1.67,
+        1.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-09-04",
+      "middleLatitudeA": 16,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        4,
+        5,
+        4,
+        2,
+        2
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        3,
+        4,
+        3,
+        1,
+        1
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        1.33,
+        1,
+        2,
+        4,
+        4.33,
+        3,
+        1.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-09-05",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        0,
+        1,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2,
+        2.33,
+        1.33,
+        2.33,
+        1.67,
+        1,
+        1,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-09-06",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        0,
+        2,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        0,
+        2,
+        2,
+        4,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.33,
+        0.67,
+        2,
+        3,
+        3,
+        1,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-09-07",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        2,
+        1
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        2,
+        0,
+        1,
+        3,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.67,
+        2,
+        1.67,
+        1.67,
+        2.67,
+        1.67,
+        1.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-09-08",
+      "middleLatitudeA": 19,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        3,
+        6,
+        3
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        2.67,
+        2.33,
+        1.33,
+        2,
+        2.67,
+        2,
+        2.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-09-09",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        1,
+        2,
+        2,
+        1,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        2.67,
+        1.67,
+        2.33,
+        2,
+        1.67,
+        2,
+        2.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-09-10",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        1
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.67,
+        2,
+        1.67,
+        1.67,
+        1.33,
+        1,
+        2.67,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-09-11",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.33,
+        1.33,
+        1.33,
+        1.67,
+        3,
+        2.67,
+        2.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-09-12",
+      "middleLatitudeA": 36,
+      "middleLatitudeK": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        5,
+        5,
+        3
+      ],
+      "highLatitudeA": 51,
+      "highLatitudeK": [
+        2,
+        4,
+        5,
+        5,
+        6,
+        4,
+        7,
+        4
+      ],
+      "planetaryA": 67,
+      "planetaryK": [
+        2,
+        4,
+        5.33,
+        5.67,
+        7,
+        6.33,
+        6.67,
+        4.67
+      ]
+    },
+    {
+      "date": "2024-09-13",
+      "middleLatitudeA": 22,
+      "middleLatitudeK": [
+        5,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "highLatitudeA": 40,
+      "highLatitudeK": [
+        4,
+        5,
+        5,
+        5,
+        5,
+        4,
+        4,
+        5
+      ],
+      "planetaryA": 37,
+      "planetaryK": [
+        5,
+        4.67,
+        4.33,
+        3.67,
+        3.33,
+        3.67,
+        4.33,
+        6
+      ]
+    },
+    {
+      "date": "2024-09-14",
+      "middleLatitudeA": 22,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        5,
+        5,
+        3,
+        3,
+        3
+      ],
+      "highLatitudeA": 44,
+      "highLatitudeK": [
+        3,
+        3,
+        3,
+        7,
+        7,
+        2,
+        3,
+        2
+      ],
+      "planetaryA": 21,
+      "planetaryK": [
+        4,
+        3.67,
+        2.67,
+        4.33,
+        4.33,
+        2.33,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-09-15",
+      "middleLatitudeA": 16,
+      "middleLatitudeK": [
+        2,
+        4,
+        3,
+        3,
+        4,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 29,
+      "highLatitudeK": [
+        3,
+        5,
+        5,
+        4,
+        5,
+        4,
+        3,
+        2
+      ],
+      "planetaryA": 19,
+      "planetaryK": [
+        2,
+        4,
+        4,
+        3,
+        4,
+        3.67,
+        3.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-09-16",
+      "middleLatitudeA": 19,
+      "middleLatitudeK": [
+        3,
+        3,
+        4,
+        4,
+        4,
+        2,
+        2,
+        4
+      ],
+      "highLatitudeA": 43,
+      "highLatitudeK": [
+        3,
+        4,
+        7,
+        6,
+        4,
+        3,
+        3,
+        4
+      ],
+      "planetaryA": 23,
+      "planetaryK": [
+        3.67,
+        4,
+        4,
+        4.33,
+        4,
+        2.33,
+        1.67,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-09-17",
+      "middleLatitudeA": 39,
+      "middleLatitudeK": [
+        6,
+        5,
+        5,
+        5,
+        5,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 65,
+      "highLatitudeK": [
+        5,
+        7,
+        6,
+        6,
+        6,
+        5,
+        4,
+        3
+      ],
+      "planetaryA": 71,
+      "planetaryK": [
+        7.67,
+        6.67,
+        5.33,
+        6,
+        5.67,
+        4,
+        3.67,
+        4
+      ]
+    },
+    {
+      "date": "2024-09-18",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        4,
+        2,
+        1,
+        2,
+        2,
+        2,
+        1,
+        3
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        4,
+        2,
+        1,
+        3
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        4,
+        2.33,
+        1.67,
+        2,
+        2,
+        2,
+        1,
+        4
+      ]
+    },
+    {
+      "date": "2024-09-19",
+      "middleLatitudeA": 15,
+      "middleLatitudeK": [
+        4,
+        2,
+        1,
+        3,
+        4,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 39,
+      "highLatitudeK": [
+        3,
+        4,
+        2,
+        6,
+        6,
+        6,
+        3,
+        2
+      ],
+      "planetaryA": 20,
+      "planetaryK": [
+        4.67,
+        2.67,
+        2,
+        3.33,
+        4,
+        4.33,
+        3.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-09-20",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        3,
+        0,
+        1,
+        2,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        1.33,
+        1,
+        1.67,
+        2,
+        1,
+        1.33,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-09-21",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        2,
+        1,
+        3,
+        3,
+        0,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        2,
+        2,
+        1.33,
+        1.33,
+        1.33,
+        2,
+        1
+      ]
+    },
+    {
+      "date": "2024-09-22",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        3,
+        1,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.33,
+        0.67,
+        0.33,
+        2,
+        1.33,
+        2,
+        1.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-09-23",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        3,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 24,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        5,
+        6,
+        5,
+        2,
+        1
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        1.67,
+        1,
+        1.67,
+        3.33,
+        3.67,
+        4.33,
+        2.33,
+        1
+      ]
+    },
+    {
+      "date": "2024-09-24",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4
+      ],
+      "highLatitudeA": 27,
+      "highLatitudeK": [
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        3,
+        3
+      ],
+      "planetaryA": 17,
+      "planetaryK": [
+        3.67,
+        2.67,
+        2.33,
+        3,
+        2.67,
+        2.33,
+        3.33,
+        4.67
+      ]
+    },
+    {
+      "date": "2024-09-25",
+      "middleLatitudeA": 24,
+      "middleLatitudeK": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        3
+      ],
+      "highLatitudeA": 56,
+      "highLatitudeK": [
+        4,
+        4,
+        6,
+        6,
+        5,
+        7,
+        4,
+        3
+      ],
+      "planetaryA": 32,
+      "planetaryK": [
+        4.33,
+        5,
+        4,
+        4.33,
+        4,
+        4.67,
+        3.67,
+        4
+      ]
+    },
+    {
+      "date": "2024-09-26",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        4,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        0
+      ],
+      "highLatitudeA": 16,
+      "highLatitudeK": [
+        3,
+        4,
+        3,
+        4,
+        4,
+        3,
+        1,
+        0
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        4.33,
+        3.67,
+        2.33,
+        2.33,
+        3,
+        1.67,
+        1.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-09-27",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        1,
+        2,
+        4,
+        5,
+        5,
+        2,
+        0,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.67,
+        2.67,
+        2.33,
+        2.33,
+        2.33,
+        1,
+        0.67,
+        0
+      ]
+    },
+    {
+      "date": "2024-09-28",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        4,
+        3,
+        5,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        0.33,
+        0.33,
+        1.33,
+        2,
+        2,
+        3,
+        1.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-09-29",
+      "middleLatitudeA": 17,
+      "middleLatitudeK": [
+        3,
+        2,
+        4,
+        4,
+        4,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 20,
+      "highLatitudeK": [
+        2,
+        2,
+        5,
+        5,
+        4,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 16,
+      "planetaryK": [
+        3.33,
+        2.67,
+        3.33,
+        3.33,
+        3.33,
+        2.33,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        3,
+        1,
+        1,
+        1,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        4,
+        2,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "planetaryA": 54,
+      "planetaryK": [
+        4.33,
+        2,
+        1.33,
+        1,
+        1.67,
+        2,
+        2.67,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-10-01",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        2,
+        2,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        2.33,
+        1.67,
+        1,
+        1.33,
+        2,
+        1.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-10-03",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        2,
+        4,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        3,
+        3,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.33,
+        1.67,
+        2,
+        2,
+        3,
+        1.67,
+        2.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-10-04",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        2
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2.33,
+        1.67,
+        1.67,
+        1.33,
+        1.33,
+        2.33,
+        2.33,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-10-05",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        2,
+        3,
+        2
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        2,
+        0,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        2.67,
+        1.33,
+        2,
+        1.67,
+        2.33,
+        1,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-10-06",
+      "middleLatitudeA": 13,
+      "middleLatitudeK": [
+        1,
+        1,
+        3,
+        2,
+        3,
+        3,
+        3,
+        4
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3
+      ],
+      "planetaryA": 16,
+      "planetaryK": [
+        1.67,
+        1,
+        2.33,
+        1.67,
+        3,
+        3.33,
+        3.67,
+        5
+      ]
+    },
+    {
+      "date": "2024-10-07",
+      "middleLatitudeA": 33,
+      "middleLatitudeK": [
+        4,
+        4,
+        3,
+        5,
+        5,
+        4,
+        5,
+        4
+      ],
+      "highLatitudeA": 67,
+      "highLatitudeK": [
+        4,
+        4,
+        4,
+        7,
+        7,
+        5,
+        6,
+        5
+      ],
+      "planetaryA": 55,
+      "planetaryK": [
+        5.33,
+        4.67,
+        3.33,
+        5.33,
+        6.33,
+        4,
+        6.33,
+        5.33
+      ]
+    },
+    {
+      "date": "2024-10-08",
+      "middleLatitudeA": 29,
+      "middleLatitudeK": [
+        5,
+        5,
+        5,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "highLatitudeA": 73,
+      "highLatitudeK": [
+        5,
+        6,
+        8,
+        6,
+        5,
+        5,
+        4,
+        3
+      ],
+      "planetaryA": 58,
+      "planetaryK": [
+        6.67,
+        7.33,
+        5.67,
+        4.33,
+        3.67,
+        4,
+        3.67,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-10-09",
+      "middleLatitudeA": 15,
+      "middleLatitudeK": [
+        3,
+        4,
+        4,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 34,
+      "highLatitudeK": [
+        3,
+        4,
+        6,
+        5,
+        4,
+        5,
+        3,
+        3
+      ],
+      "planetaryA": 19,
+      "planetaryK": [
+        4,
+        4.67,
+        4,
+        3,
+        3.67,
+        2.33,
+        2,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-10-10",
+      "middleLatitudeA": 50,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        2,
+        3,
+        7,
+        6,
+        7
+      ],
+      "highLatitudeA": 116,
+      "highLatitudeK": [
+        3,
+        3,
+        2,
+        4,
+        6,
+        9,
+        8,
+        7
+      ],
+      "planetaryA": 96,
+      "planetaryK": [
+        2,
+        2.67,
+        1.67,
+        2,
+        3.33,
+        7.67,
+        8.33,
+        8.67
+      ]
+    },
+    {
+      "date": "2024-10-11",
+      "middleLatitudeA": 68,
+      "middleLatitudeK": [
+        6,
+        7,
+        7,
+        5,
+        6,
+        4,
+        3,
+        3
+      ],
+      "highLatitudeA": 123,
+      "highLatitudeK": [
+        5,
+        7,
+        9,
+        6,
+        8,
+        5,
+        3,
+        3
+      ],
+      "planetaryA": 116,
+      "planetaryK": [
+        8,
+        7.67,
+        8,
+        7.33,
+        6.67,
+        4.33,
+        3.33,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-10-12",
+      "middleLatitudeA": 16,
+      "middleLatitudeK": [
+        3,
+        1,
+        3,
+        4,
+        4,
+        2,
+        4,
+        2
+      ],
+      "highLatitudeA": 33,
+      "highLatitudeK": [
+        4,
+        2,
+        2,
+        7,
+        5,
+        3,
+        3,
+        2
+      ],
+      "planetaryA": 20,
+      "planetaryK": [
+        3.67,
+        2,
+        2.67,
+        5,
+        4,
+        2.67,
+        3.67,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-10-13",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        1,
+        0,
+        2,
+        2,
+        1,
+        2,
+        0
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        2,
+        3,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.67,
+        1.33,
+        1,
+        2,
+        1.67,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "date": "2024-10-14",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        2,
+        3
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        1,
+        0,
+        3,
+        2,
+        2,
+        1,
+        1,
+        2
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1,
+        1,
+        2,
+        1.33,
+        1.33,
+        1,
+        2.33,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-10-15",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        4,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 27,
+      "highLatitudeK": [
+        2,
+        2,
+        6,
+        4,
+        5,
+        4,
+        3,
+        2
+      ],
+      "planetaryA": 15,
+      "planetaryK": [
+        3.33,
+        2.67,
+        4,
+        2.67,
+        3.33,
+        3,
+        2.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-10-16",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        2,
+        2,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 31,
+      "highLatitudeK": [
+        1,
+        2,
+        6,
+        5,
+        5,
+        5,
+        2,
+        2
+      ],
+      "planetaryA": 15,
+      "planetaryK": [
+        2.33,
+        3,
+        3.33,
+        3,
+        3,
+        3.33,
+        3.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-10-17",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 10,
+      "highLatitudeK": [
+        2,
+        4,
+        4,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        3.33,
+        3,
+        2,
+        1.67,
+        1,
+        1.33,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-10-18",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        3,
+        1,
+        2,
+        3,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 19,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        4,
+        5,
+        4,
+        3,
+        3
+      ],
+      "planetaryA": 14,
+      "planetaryK": [
+        3.33,
+        2.67,
+        1.33,
+        2,
+        3,
+        3,
+        3,
+        4
+      ]
+    },
+    {
+      "date": "2024-10-19",
+      "middleLatitudeA": 15,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        3,
+        4,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 36,
+      "highLatitudeK": [
+        5,
+        4,
+        6,
+        5,
+        5,
+        3,
+        3,
+        2
+      ],
+      "planetaryA": 23,
+      "planetaryK": [
+        4.67,
+        4.33,
+        3.67,
+        3,
+        3.33,
+        2.33,
+        3.67,
+        4
+      ]
+    },
+    {
+      "date": "2024-10-20",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        2,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3,
+        2.33,
+        2,
+        1.33,
+        1.33,
+        1,
+        1,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-10-21",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        2,
+        0,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        0.67,
+        0.33,
+        1.67,
+        2,
+        1,
+        1.67,
+        1.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-10-22",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 25,
+      "highLatitudeK": [
+        1,
+        2,
+        5,
+        5,
+        4,
+        5,
+        3,
+        2
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1.67,
+        2.33,
+        2.33,
+        2.67,
+        2,
+        2.33,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-10-23",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        5,
+        5,
+        1,
+        2,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.67,
+        2.67,
+        1.67,
+        3,
+        2.67,
+        1.33,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-10-24",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        4,
+        3,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        1,
+        4,
+        3,
+        3,
+        3,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        3,
+        4.33,
+        3.67,
+        2,
+        1,
+        2,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-10-25",
+      "middleLatitudeA": 2,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        1.67,
+        0.67,
+        0.67,
+        0.67,
+        0.33,
+        0.67,
+        0.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-10-26",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        3,
+        3,
+        4
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        2,
+        4,
+        3,
+        3,
+        2
+      ],
+      "planetaryA": 14,
+      "planetaryK": [
+        1.67,
+        1,
+        1.67,
+        1.67,
+        2.67,
+        3.33,
+        4,
+        4.33
+      ]
+    },
+    {
+      "date": "2024-10-27",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        1,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        1,
+        2,
+        2,
+        4,
+        3,
+        4,
+        3,
+        2
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        3,
+        2,
+        1,
+        2.67,
+        2,
+        2.67,
+        2.67,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-10-28",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        2,
+        4,
+        3,
+        2,
+        3,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 30,
+      "highLatitudeK": [
+        2,
+        3,
+        5,
+        4,
+        6,
+        5,
+        2,
+        2
+      ],
+      "planetaryA": 17,
+      "planetaryK": [
+        3,
+        4.67,
+        4,
+        2.67,
+        3,
+        2.67,
+        2,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-10-29",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        3,
+        2,
+        4,
+        3,
+        3,
+        2,
+        3,
+        2
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        3.33,
+        2,
+        2.33,
+        2,
+        2,
+        2.67,
+        3.67,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-10-30",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        3,
+        3,
+        3,
+        4,
+        5,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 15,
+      "planetaryK": [
+        4,
+        3,
+        3.33,
+        4,
+        3,
+        2.33,
+        1.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-10-31",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 4,
+      "highLatitudeK": [
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.33,
+        1,
+        1.33,
+        1.67,
+        1.67,
+        2,
+        3.33,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-11-01",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        3,
+        2,
+        2,
+        0
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        2,
+        1,
+        1,
+        5,
+        5,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3,
+        1.33,
+        1.33,
+        2.33,
+        2.67,
+        0.67,
+        1.33,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-11-02",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 22,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        5,
+        5,
+        5,
+        2,
+        3
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        0.67,
+        1,
+        1.67,
+        4,
+        3.67,
+        2.67,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-11-03",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        2,
+        0,
+        1,
+        1,
+        2,
+        3,
+        3,
+        3
+      ],
+      "highLatitudeA": 6,
+      "highLatitudeK": [
+        2,
+        1,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        2.67,
+        1,
+        1,
+        1.33,
+        0.67,
+        3.33,
+        3.33,
+        4
+      ]
+    },
+    {
+      "date": "2024-11-04",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        4,
+        2,
+        2,
+        3,
+        1,
+        1,
+        2
+      ],
+      "highLatitudeA": 20,
+      "highLatitudeK": [
+        3,
+        3,
+        5,
+        5,
+        3,
+        3,
+        1,
+        1
+      ],
+      "planetaryA": 14,
+      "planetaryK": [
+        4,
+        4.33,
+        2.67,
+        2.33,
+        2.33,
+        1.67,
+        1,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-11-05",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        2,
+        1,
+        3,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 19,
+      "highLatitudeK": [
+        1,
+        0,
+        4,
+        5,
+        5,
+        3,
+        2,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        2.67,
+        1.67,
+        3,
+        2.67,
+        2.67,
+        2.67,
+        2.33,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-11-06",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        3,
+        3,
+        2,
+        2,
+        3,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 24,
+      "highLatitudeK": [
+        3,
+        2,
+        6,
+        5,
+        4,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        3.33,
+        3.33,
+        2.33,
+        2,
+        2.33,
+        2,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-11-07",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        1,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        1,
+        1,
+        3,
+        5,
+        2,
+        2,
+        1,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1.33,
+        1,
+        2,
+        2.33,
+        0.67,
+        3,
+        2.67,
+        3
+      ]
+    },
+    {
+      "date": "2024-11-08",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        0,
+        2,
+        1,
+        2,
+        1,
+        3,
+        3
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        0,
+        3,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        2.33,
+        1,
+        1.33,
+        1.67,
+        2,
+        1.33,
+        4,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-11-09",
+      "middleLatitudeA": 24,
+      "middleLatitudeK": [
+        4,
+        3,
+        3,
+        5,
+        4,
+        4,
+        3,
+        3
+      ],
+      "highLatitudeA": 48,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        6,
+        6,
+        6,
+        6,
+        3
+      ],
+      "planetaryA": 32,
+      "planetaryK": [
+        4,
+        4,
+        3.67,
+        5,
+        5,
+        4.33,
+        4.33,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-11-10",
+      "middleLatitudeA": 15,
+      "middleLatitudeK": [
+        4,
+        3,
+        2,
+        1,
+        4,
+        3,
+        3,
+        2
+      ],
+      "highLatitudeA": 35,
+      "highLatitudeK": [
+        4,
+        2,
+        3,
+        5,
+        6,
+        5,
+        5,
+        2
+      ],
+      "planetaryA": 25,
+      "planetaryK": [
+        4,
+        4,
+        2.33,
+        2.33,
+        4.33,
+        4,
+        5.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-11-11",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        3,
+        2,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 23,
+      "highLatitudeK": [
+        1,
+        1,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        2.33,
+        2,
+        3.67,
+        2.67,
+        2,
+        2.67,
+        1.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-11-12",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        1,
+        2,
+        1,
+        1,
+        0
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        0,
+        1,
+        3,
+        1,
+        1,
+        3,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2,
+        1.33,
+        2,
+        1,
+        1.33,
+        1.67,
+        1,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-11-13",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        2,
+        2,
+        0,
+        0,
+        3,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        4,
+        5,
+        3,
+        2,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3,
+        2.33,
+        0.33,
+        1.33,
+        2.67,
+        1.33,
+        1.67,
+        1
+      ]
+    },
+    {
+      "date": "2024-11-14",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        0,
+        3,
+        2,
+        1,
+        3,
+        2,
+        2,
+        4
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        0,
+        2,
+        1,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        1,
+        3.33,
+        1.33,
+        1.33,
+        2,
+        2.67,
+        3.33,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-11-15",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 22,
+      "highLatitudeK": [
+        2,
+        3,
+        4,
+        4,
+        4,
+        5,
+        3,
+        2
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        3,
+        3.67,
+        2.67,
+        2.33,
+        2.67,
+        2.67,
+        2.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-11-16",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        3,
+        3,
+        3,
+        2,
+        2,
+        1,
+        0,
+        1
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        3,
+        2,
+        4,
+        3,
+        2,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        3.67,
+        2.67,
+        2.67,
+        2,
+        1.67,
+        0.67,
+        0.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-11-17",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        0,
+        3,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        0,
+        1,
+        2,
+        5,
+        5,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        1,
+        3,
+        2,
+        2.33,
+        2.67,
+        1,
+        1.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-11-18",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        2,
+        0,
+        0,
+        2,
+        2,
+        0,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        1,
+        0,
+        1,
+        1,
+        2,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1,
+        2,
+        0.33,
+        0.67,
+        1,
+        1.33,
+        1,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-11-19",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        0,
+        1,
+        2,
+        2,
+        3,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        3,
+        6,
+        5,
+        3,
+        1
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1,
+        1,
+        1.67,
+        2,
+        3,
+        3,
+        2.67,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-11-20",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        0,
+        3,
+        3,
+        2,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        0,
+        2,
+        4,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "planetaryA": 9,
+      "planetaryK": [
+        1,
+        3,
+        3,
+        2.67,
+        1.67,
+        1.67,
+        1,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-11-22",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        2,
+        3
+      ],
+      "highLatitudeA": 19,
+      "highLatitudeK": [
+        2,
+        1,
+        0,
+        3,
+        5,
+        5,
+        3,
+        3
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        2.33,
+        2,
+        0.67,
+        1.67,
+        3,
+        3.67,
+        2.67,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-11-23",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        1
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        1,
+        1,
+        2,
+        4,
+        4,
+        2,
+        2,
+        1
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        2,
+        1.67,
+        1.67,
+        1.67,
+        3,
+        1.67,
+        2.33,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-11-24",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        2,
+        2,
+        3
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.67,
+        1.67,
+        1.67,
+        1,
+        0.67,
+        1.67,
+        1.67,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-11-25",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        1,
+        2
+      ],
+      "highLatitudeA": 17,
+      "highLatitudeK": [
+        3,
+        2,
+        1,
+        5,
+        4,
+        4,
+        1,
+        1
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        3.33,
+        2.33,
+        2,
+        2.33,
+        2.67,
+        3,
+        2.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-11-26",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        3,
+        2,
+        0,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        3.33,
+        2.33,
+        1,
+        1.33,
+        1,
+        0.67,
+        1,
+        2
+      ]
+    },
+    {
+      "date": "2024-11-27",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1,
+        0.67,
+        1.67,
+        2,
+        0.67,
+        1,
+        1,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-11-28",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        1,
+        0,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        2,
+        1,
+        0.67,
+        1,
+        0.67,
+        0.67,
+        1,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-11-30",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        4,
+        2,
+        2,
+        1,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        3,
+        3,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        4.67,
+        3.33,
+        2.33,
+        0.67,
+        1,
+        0.67,
+        1,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-12-01",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        4,
+        0,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.33,
+        1,
+        2.33,
+        1.33,
+        1,
+        1.67,
+        2.33,
+        3
+      ]
+    },
+    {
+      "date": "2024-12-02",
+      "middleLatitudeA": 6,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.33,
+        2,
+        1,
+        0.67,
+        1.33,
+        0.67,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-12-03",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        2,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 21,
+      "highLatitudeK": [
+        2,
+        2,
+        5,
+        5,
+        3,
+        3,
+        4,
+        1
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        3.67,
+        3,
+        2.33,
+        2,
+        2,
+        3,
+        3.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-12-04",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        1,
+        0,
+        1,
+        4,
+        3,
+        1,
+        1,
+        2
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1.67,
+        1.33,
+        1.33,
+        2,
+        2,
+        1.67,
+        2.33,
+        2
+      ]
+    },
+    {
+      "date": "2024-12-05",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        1,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2.33,
+        2.33,
+        1.33,
+        1.33,
+        0.67,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-12-06",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        1,
+        2,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.67,
+        2.67,
+        1.33,
+        1,
+        0.67,
+        1.33,
+        1,
+        1
+      ]
+    },
+    {
+      "date": "2024-12-07",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 7,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        4,
+        3,
+        0,
+        1,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        1.33,
+        1.67,
+        1,
+        2,
+        1.33,
+        1.33,
+        2,
+        1.67
+      ]
+    },
+    {
+      "date": "2024-12-08",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        1,
+        1,
+        0,
+        3,
+        2,
+        2,
+        0
+      ],
+      "highLatitudeA": 14,
+      "highLatitudeK": [
+        0,
+        0,
+        3,
+        3,
+        5,
+        4,
+        2,
+        0
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        0.67,
+        1.67,
+        1.33,
+        1.67,
+        2.67,
+        2,
+        2.33,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-12-09",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        3,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "highLatitudeA": 39,
+      "highLatitudeK": [
+        2,
+        2,
+        4,
+        5,
+        5,
+        7,
+        4,
+        2
+      ],
+      "planetaryA": 16,
+      "planetaryK": [
+        4,
+        3,
+        2.33,
+        2.67,
+        2.67,
+        3.33,
+        3,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-12-10",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        2
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        2,
+        2,
+        3,
+        5,
+        3,
+        2,
+        2,
+        0
+      ],
+      "planetaryA": 8,
+      "planetaryK": [
+        3,
+        2.33,
+        2.33,
+        2.33,
+        1.33,
+        1.67,
+        1.67,
+        2
+      ]
+    },
+    {
+      "date": "2024-12-11",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        1,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 15,
+      "highLatitudeK": [
+        1,
+        1,
+        5,
+        4,
+        4,
+        2,
+        0,
+        1
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2,
+        2.33,
+        2,
+        1,
+        1,
+        1.33,
+        1,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-12-12",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        2,
+        1,
+        0,
+        1,
+        1,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "planetaryA": 6,
+      "planetaryK": [
+        2.67,
+        2,
+        1,
+        1,
+        0.67,
+        1.33,
+        1.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-12-13",
+      "middleLatitudeA": 2,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        0,
+        1
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        3,
+        2,
+        3,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        0.33,
+        0.33,
+        1.67,
+        1.67,
+        1,
+        1.67,
+        0.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-12-14",
+      "middleLatitudeA": 8,
+      "middleLatitudeK": [
+        1,
+        1,
+        1,
+        3,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 23,
+      "highLatitudeK": [
+        0,
+        0,
+        2,
+        5,
+        4,
+        5,
+        5,
+        1
+      ],
+      "planetaryA": 10,
+      "planetaryK": [
+        1,
+        1.33,
+        1.33,
+        2.67,
+        1.33,
+        3.33,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-12-15",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        3,
+        3,
+        2,
+        2,
+        2
+      ],
+      "highLatitudeA": 19,
+      "highLatitudeK": [
+        0,
+        2,
+        2,
+        5,
+        5,
+        4,
+        2,
+        2
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        3,
+        3,
+        2,
+        2.67,
+        3.33,
+        2,
+        2.67,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-12-16",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        1,
+        3,
+        3,
+        3,
+        1,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 30,
+      "highLatitudeK": [
+        0,
+        2,
+        6,
+        6,
+        4,
+        3,
+        4,
+        2
+      ],
+      "planetaryA": 14,
+      "planetaryK": [
+        1.33,
+        3,
+        3,
+        3,
+        1.67,
+        2.67,
+        3.67,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-12-17",
+      "middleLatitudeA": 20,
+      "middleLatitudeK": [
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        2,
+        3
+      ],
+      "highLatitudeA": 31,
+      "highLatitudeK": [
+        3,
+        6,
+        5,
+        4,
+        4,
+        4,
+        3,
+        2
+      ],
+      "planetaryA": 29,
+      "planetaryK": [
+        4,
+        5.33,
+        4.67,
+        4,
+        3.67,
+        4.33,
+        2.33,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-12-18",
+      "middleLatitudeA": 12,
+      "middleLatitudeK": [
+        3,
+        1,
+        2,
+        3,
+        2,
+        4,
+        3,
+        1
+      ],
+      "highLatitudeA": 18,
+      "highLatitudeK": [
+        3,
+        1,
+        2,
+        4,
+        4,
+        4,
+        4,
+        2
+      ],
+      "planetaryA": 15,
+      "planetaryK": [
+        3.67,
+        2,
+        2.67,
+        3.33,
+        2.67,
+        3.33,
+        4,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-12-19",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        4,
+        2,
+        1,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "highLatitudeA": 8,
+      "highLatitudeK": [
+        3,
+        2,
+        1,
+        2,
+        3,
+        2,
+        1,
+        2
+      ],
+      "planetaryA": 11,
+      "planetaryK": [
+        4,
+        3,
+        1.67,
+        1.33,
+        2,
+        2,
+        2,
+        2.67
+      ]
+    },
+    {
+      "date": "2024-12-20",
+      "middleLatitudeA": 10,
+      "middleLatitudeK": [
+        3,
+        2,
+        1,
+        1,
+        3,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 12,
+      "highLatitudeK": [
+        3,
+        2,
+        0,
+        2,
+        4,
+        3,
+        3,
+        2
+      ],
+      "planetaryA": 13,
+      "planetaryK": [
+        3.67,
+        3,
+        1.33,
+        1.67,
+        3,
+        3,
+        3.33,
+        2.33
+      ]
+    },
+    {
+      "date": "2024-12-21",
+      "middleLatitudeA": 13,
+      "middleLatitudeK": [
+        3,
+        3,
+        1,
+        3,
+        3,
+        2,
+        3,
+        3
+      ],
+      "highLatitudeA": 11,
+      "highLatitudeK": [
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        2
+      ],
+      "planetaryA": 16,
+      "planetaryK": [
+        3.33,
+        3.33,
+        2,
+        3,
+        2.67,
+        3,
+        3.67,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-12-22",
+      "middleLatitudeA": 15,
+      "middleLatitudeK": [
+        2,
+        1,
+        2,
+        3,
+        4,
+        4,
+        3,
+        3
+      ],
+      "highLatitudeA": 23,
+      "highLatitudeK": [
+        2,
+        1,
+        2,
+        5,
+        5,
+        4,
+        4,
+        3
+      ],
+      "planetaryA": 14,
+      "planetaryK": [
+        2.33,
+        2.33,
+        2.33,
+        3,
+        3.33,
+        3,
+        3,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-12-23",
+      "middleLatitudeA": 11,
+      "middleLatitudeK": [
+        3,
+        1,
+        2,
+        1,
+        2,
+        4,
+        2,
+        3
+      ],
+      "highLatitudeA": 13,
+      "highLatitudeK": [
+        3,
+        1,
+        1,
+        1,
+        4,
+        4,
+        2,
+        3
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        3.67,
+        2,
+        2,
+        1,
+        2.33,
+        3.33,
+        2.67,
+        3.33
+      ]
+    },
+    {
+      "date": "2024-12-24",
+      "middleLatitudeA": 9,
+      "middleLatitudeK": [
+        2,
+        2,
+        1,
+        1,
+        3,
+        3,
+        2,
+        3
+      ],
+      "highLatitudeA": 16,
+      "highLatitudeK": [
+        2,
+        2,
+        1,
+        0,
+        5,
+        5,
+        2,
+        2
+      ],
+      "planetaryA": 12,
+      "planetaryK": [
+        2.67,
+        2.67,
+        2,
+        1,
+        2.67,
+        3,
+        2.33,
+        3.67
+      ]
+    },
+    {
+      "date": "2024-12-25",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        2,
+        1,
+        1,
+        2,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 3,
+      "highLatitudeK": [
+        1,
+        2,
+        2,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        2.33,
+        2,
+        1.67,
+        2,
+        1.33,
+        0.67,
+        1,
+        0.33
+      ]
+    },
+    {
+      "date": "2024-12-26",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        1,
+        1
+      ],
+      "highLatitudeA": 0,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 3,
+      "planetaryK": [
+        0.33,
+        0.33,
+        0.67,
+        0.67,
+        0.67,
+        0.67,
+        0.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-12-27",
+      "middleLatitudeA": 3,
+      "middleLatitudeK": [
+        1,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1,
+        0
+      ],
+      "highLatitudeA": 1,
+      "highLatitudeK": [
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        1,
+        0.33,
+        0.67,
+        0.67,
+        1,
+        1.33,
+        1.33,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-12-28",
+      "middleLatitudeA": 4,
+      "middleLatitudeK": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        3,
+        2,
+        0
+      ],
+      "highLatitudeA": 2,
+      "highLatitudeK": [
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0
+      ],
+      "planetaryA": 4,
+      "planetaryK": [
+        0.67,
+        0.67,
+        1.33,
+        1.67,
+        0.67,
+        1.33,
+        1.67,
+        0.67
+      ]
+    },
+    {
+      "date": "2024-12-29",
+      "middleLatitudeA": 5,
+      "middleLatitudeK": [
+        1,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "highLatitudeA": 5,
+      "highLatitudeK": [
+        0,
+        0,
+        3,
+        3,
+        1,
+        0,
+        0,
+        1
+      ],
+      "planetaryA": 5,
+      "planetaryK": [
+        1.33,
+        0.67,
+        1.33,
+        2,
+        1.67,
+        1.33,
+        1,
+        1.33
+      ]
+    },
+    {
+      "date": "2024-12-30",
+      "middleLatitudeA": 7,
+      "middleLatitudeK": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        3,
+        2,
+        2
+      ],
+      "highLatitudeA": 9,
+      "highLatitudeK": [
+        0,
+        0,
+        4,
+        2,
+        4,
+        1,
+        1,
+        1
+      ],
+      "planetaryA": 7,
+      "planetaryK": [
+        1,
+        2,
+        2.67,
+        1.67,
+        1.67,
+        1.67,
+        2,
+        2.33
+      ]
+    }
+  ],
+  "summary": {
+    "averagePlanetaryA": 12.22,
+    "maxPlanetaryA": 122,
+    "stormDays": 21,
+    "quietDays": 164
+  }
+}
